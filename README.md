@@ -45,7 +45,7 @@ Additionally, dates are "scraped" to get years in numeric format and indicators 
 
 #### 3) Relative generations
 
-The GEDCOM files do not specify generations. An "initial" set of generations are calculated from a specified individual.
+The raw GEDCOM files do not specify generations. An "initial" set of generations are calculated from a specified individual.
 
 #### 4) Initial positions
 
@@ -61,13 +61,12 @@ Using the initial positions computed in step 4, the [5_graph_skeleton.jsx](JS/5_
 
 At this stage, I manually repositioned nodes and "trimmed" branches I didn't want. These new positions are saved using the [6_get_reposition.jsx](JS/6_get_reposition.jsx) script and saved into the [repositions.json](JSON/repositions.json) file.
 
-Here, "repositions" refer to the manual repositioning performed in the previous step. 
 
 #### 7) Populate tree
 
 Finally, the [7_populate_tree.jsx](JS/5_populate_tree.jsx) script will fill in the actual tree.
 
-NOTE: There's an extra manual step that I added wherein I identified trimmed branches in the [JSON/dropped_branches.json](JSON/dropped_branches.json) file. These have a unique appearance in the tree. Given that this was a manual process, a better way to approach this would be to download an extra level of descendants for each generation and turn this into an automated process
+**NOTE**: There's an extra manual step that I added wherein I identified trimmed branches in the [JSON/discontinued_branches.json](JSON/discontinued_branches.json) file. These have a unique appearance in the tree. Given that this was a manual process, a better way to approach this would be to download an extra level of descendants for each generation and turn this into an automated process
 
 
 ## Miscellaneous notes

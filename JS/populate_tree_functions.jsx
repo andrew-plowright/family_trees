@@ -30,7 +30,7 @@ function node_centre(position, gen){
 
 function node_centre_get(id){
     try{
-         node = lyr_nodes.groupItems.getByName(id)
+         node = lyr_nodes_ind.groupItems.getByName(id)
         bounds = node.geometricBounds
         return bound_centre(bounds)
     }catch(e){
@@ -39,10 +39,11 @@ function node_centre_get(id){
 }
 
 function link_create(coords,  group, link_style){
-    var link = lyr_links.pathItems.add();
+    var link = lyr_links_fam.pathItems.add();
     link.setEntirePath(coords);
     link.strokeWidth = link_style['width']
     link.moveToEnd(group)
+    return link
 }
 
 function grp_item_translate(item_names, y){
@@ -50,7 +51,6 @@ function grp_item_translate(item_names, y){
         item_name = item_names[i]
         grp_items[item_name].translate(0,y)
     }
-    recentre += y
 }
 
 function grp_item_remove(item_names){
@@ -72,7 +72,7 @@ function node_create(coords, id, data){
     
     // Name node and move
     grp.name = id
-    grp.move(lyr_nodes, ElementPlacement.PLACEATEND)
+    grp.move(lyr_nodes_ind, ElementPlacement.PLACEATEND)
     grp.translate(delta[0], delta[1])
         
     // Get node items
@@ -85,8 +85,6 @@ function node_create(coords, id, data){
         
     // Recentre
     recentre = 0        
-
-    //if(data['NAME'] != null){
         
     // GIVEN NAME
     if(data['NAME']['GIVN'] != null){
@@ -94,12 +92,14 @@ function node_create(coords, id, data){
         grp_items['GIVEN NAME'].contents = data['NAME']['GIVN'][0]
         
         if(grp_items['GIVEN NAME'].lines.length < 2){
-            grp_item_translate(['SUR NAME',  'BIRTH PLACE', 'BIRTH DATE', 'DEATH DATE', 'DEATH PLACE'], 2.5)           
+            grp_item_translate(['SUR NAME',  'BIRTH PLACE', 'BIRTH DATE', 'DEATH DATE', 'DEATH PLACE'], 2.5) 
+            recentre += 2.5
         }
     
     }else{
         grp_item_remove(['GIVEN NAME'])
         grp_item_translate(['SUR NAME',  'BIRTH PLACE', 'BIRTH DATE', 'DEATH DATE', 'DEATH PLACE'], 7.5)
+        recentre += 7.5
     }
 
     // SUR NAME
@@ -109,7 +109,8 @@ function node_create(coords, id, data){
         grp_items['SUR NAME'].contents = data['NAME']['SURN'][0].replace('-', '-\n')
         
         if(grp_items['SUR NAME'].lines.length < 2){
-            grp_item_translate(['BIRTH PLACE', 'BIRTH DATE', 'DEATH DATE', 'DEATH PLACE'], 2.5)           
+            grp_item_translate(['BIRTH PLACE', 'BIRTH DATE', 'DEATH DATE', 'DEATH PLACE'], 2.5)
+            recentre += 2.5
         }            
         
     }else{
@@ -118,8 +119,6 @@ function node_create(coords, id, data){
         
     }
  
-    //}
-
     // BIRTH
     if(data['BIRT'] != null && data['BIRT']['YEAR'] != null){
             
@@ -135,12 +134,14 @@ function node_create(coords, id, data){
             }else{
                 grp_item_remove(['BIRTH PLACE'])         
                 grp_item_translate(['DEATH DATE', 'DEATH PLACE'], 5)
+                recentre += 5
 
             }
     }else{
         
         grp_item_remove(['BIRTH DATE', 'BIRTH PLACE'])
-        grp_item_translate(['DEATH DATE', 'DEATH PLACE'], 10)            
+        grp_item_translate(['DEATH DATE', 'DEATH PLACE'], 10)
+        recentre += 10
 
     }   
         
@@ -158,33 +159,16 @@ function node_create(coords, id, data){
             grp_items['DEATH PLACE'].contents = data['DEAT']['PLAC'][0]
         }else{
              grp_item_remove(['DEATH PLACE'])
+             recentre += 5
 
         }
     }else{
          grp_item_remove(['DEATH DATE', 'DEATH PLACE'])
+         recentre += 10
 
     }
 
-    // RECENTRE
-//~     grp_items_tops = []
-//~     grp_items_bottoms = []
-//~     for(grp_field in grp_items){
-//~         bounds = grp_items[grp_field].geometricBounds
-//~         grp_items_tops.push(bounds[1])
-//~         grp_items_bottoms.push(bounds[3])
-//~     }   
-//~     grp_items_tops.sort()
-//~     grp_items_bottoms.sort()
-//~     grp_items_top = grp_items_tops[grp_items_tops.length - 1]
-//~     grp_items_bottom = grp_items_bottoms[0]
-//~     grp_items_centre = ((grp_items_top - grp_items_bottom) / 2) + grp_items_bottom
-//~     grp_items_shift = coords[1] - grp_items_centre
-
-//~     for(grp_field in grp_items){
-//~         grp_items[grp_field].translate(0,grp_items_shift)
-//~     }   
-
-    // Apply recentering
+    // Apply recenteringz
     if(recentre > 0){
         for(grp_field in grp_items){
             grp_items[grp_field].translate(0,-(recentre/2))
@@ -214,7 +198,7 @@ function draw_links(fam_id){
             }
         
             // Make group
-            fam_grp = lyr_links.groupItems.add()
+            fam_grp = lyr_links_fam.groupItems.add()
             fam_grp.name = fam_id
             
             // Spouse link
@@ -295,3 +279,52 @@ function draw_links(fam_id){
         }
     }
  }
+ 
+ function node_disc_create(id){
+ 
+    var coords = node_centre_get(id)
+    var chil = data_disc[id]
+         
+     if(coords != null & chil > 0){
+         
+        type = 'single'
+        contents = '1 child'
+        if(chil > 1){
+            type = 'multi' 
+            contents = chil + ' children'
+        }
+
+        disc_coords = [coords[0], coords[1] - space_y]
+
+        var delta = [disc_coords[0] - node_disc_template[type]['centre'][0] , disc_coords[1] - node_disc_template[type]['centre'][1]]
+
+        // Copy template
+        var grp =  node_disc_template[type]['obj'].duplicate()
+
+        // Name node and move
+        grp.name = id
+        grp.move(lyr_nodes_disc, ElementPlacement.PLACEATEND)
+        grp.translate(delta[0], delta[1])
+        
+        // Contents
+         grp.textFrames.getByName('CHILDREN').contents = contents
+     }
+ }
+
+function draw_disc_link(id){
+    
+    var coords = node_centre_get(id)
+    var chil = data_disc[id]
+         
+     if(coords != null & chil > 0){
+         
+        disc_coords = [coords[0], coords[1] - space_y]
+
+        var link = link_create([ 
+            coords,
+            disc_coords
+        ],  lyr_links_disc, link_style)      
+        
+        link.name = id
+     }
+}
