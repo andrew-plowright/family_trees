@@ -1,7 +1,5 @@
 ﻿#include "json2.js";
 #include "../paths.js";  
-
-alert(reposition_path)
  
  var out_file = new File(reposition_path)
  
