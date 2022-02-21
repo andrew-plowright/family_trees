@@ -30,7 +30,8 @@ var link_offset = 30
 
 // Set style
 var link_style = {
-    width : 0.25
+    width : 0.5,
+    strokeColor: rgb(109, 110, 113)
 }
 
 // Get template

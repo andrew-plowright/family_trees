@@ -42,6 +42,7 @@ function link_create(coords,  group, link_style){
     var link = lyr_links_fam.pathItems.add();
     link.setEntirePath(coords);
     link.strokeWidth = link_style['width']
+    link.strokeColor = link_style['strokeColor']
     link.moveToEnd(group)
     return link
 }
