@@ -1,0 +1,7054 @@
+{
+  "individuals": {
+    "I213": {
+      "NAME": {
+        "GIVN": ["Maciej"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1360"],
+        "CIRCA": [true],
+        "YEAR": [1360]
+      },
+      "FAMS": ["F64"],
+      "gen": [1],
+      "position": [1]
+    },
+    "I214": {
+      "NAME": {},
+      "BIRT": {
+        "DATE": ["ca.1360"],
+        "CIRCA": [true],
+        "YEAR": [1360]
+      },
+      "FAMS": ["F64"],
+      "gen": [1],
+      "position": [2]
+    },
+    "I510": {
+      "NAME": {
+        "GIVN": ["Hektor"],
+        "SURN": ["Dabrowski z Dabrowy"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1410"],
+        "CIRCA": [true],
+        "YEAR": [1410]
+      },
+      "FAMS": ["F475", "F207"],
+      "gen": [1],
+      "position": [3]
+    },
+    "I511": {
+      "NAME": {
+        "SURN": ["Plemiecka"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1410"],
+        "CIRCA": [true],
+        "YEAR": [1410]
+      },
+      "FAMS": ["F207"],
+      "gen": [1],
+      "position": [4]
+    },
+    "I1136": {
+      "NAME": {},
+      "FAMS": ["F475"],
+      "gen": [1],
+      "position": [5]
+    },
+    "I1134": {
+      "NAME": {
+        "GIVN": ["Gotard "],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1380"],
+        "CIRCA": [true],
+        "YEAR": [1380]
+      },
+      "DEAT": {
+        "DATE": ["1458"],
+        "CIRCA": [false],
+        "YEAR": [1458]
+      },
+      "FAMC": ["F64"],
+      "FAMS": ["F474", "F477"],
+      "gen": [2],
+      "position": [1]
+    },
+    "I1138": {
+      "NAME": {},
+      "BIRT": {
+        "DATE": ["ca.1385"],
+        "CIRCA": [true],
+        "YEAR": [1385]
+      },
+      "DEAT": {
+        "DATE": ["ca.1420"],
+        "CIRCA": [true],
+        "YEAR": [1420]
+      },
+      "FAMS": ["F477"],
+      "gen": [2],
+      "position": [3]
+    },
+    "I1135": {
+      "NAME": {},
+      "BIRT": {
+        "DATE": ["ca.1385"],
+        "CIRCA": [true],
+        "YEAR": [1385]
+      },
+      "FAMS": ["F474"],
+      "gen": [2],
+      "position": [2]
+    },
+    "I1132": {
+      "NAME": {
+        "GIVN": ["Mikolaj"],
+        "SURN": ["Dabrowski z Dabrowy"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1430"],
+        "CIRCA": [true],
+        "YEAR": [1430]
+      },
+      "DEAT": {
+        "DATE": ["1482/1483"],
+        "CIRCA": [true],
+        "YEAR": [1482]
+      },
+      "FAMC": ["F475"],
+      "FAMS": ["F473", "F714"],
+      "gen": [2],
+      "position": [4]
+    },
+    "I1133": {
+      "NAME": {
+        "GIVN": ["Anna"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1450"],
+        "CIRCA": [true],
+        "YEAR": [1450]
+      },
+      "FAMS": ["F473"],
+      "gen": [2],
+      "position": [5]
+    },
+    "I1787": {
+      "NAME": {},
+      "FAMS": ["F714"],
+      "gen": [2],
+      "position": [6]
+    },
+    "I209": {
+      "NAME": {
+        "GIVN": ["Gotard I"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1410"],
+        "CIRCA": [true],
+        "YEAR": [1410]
+      },
+      "DEAT": {
+        "DATE": ["1486"],
+        "CIRCA": [false],
+        "YEAR": [1486]
+      },
+      "FAMC": ["F474"],
+      "FAMS": ["F63"],
+      "gen": [3],
+      "position": [1]
+    },
+    "I210": {
+      "NAME": {
+        "GIVN": ["Marta"],
+        "SURN": ["Dabrowska z Dabrówki"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1450"],
+        "CIRCA": [true],
+        "YEAR": [1450]
+      },
+      "FAMC": ["F714"],
+      "FAMS": ["F63"],
+      "gen": [3],
+      "position": [2]
+    },
+    "I893": {
+      "NAME": {
+        "GIVN": ["Jan"],
+        "SURN": ["Dabrowski z Dabrówki"]
+      },
+      "FAMC": ["F714"],
+      "gen": [3],
+      "position": [3]
+    },
+    "I203": {
+      "NAME": {
+        "GIVN": ["Gotard II"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1440"],
+        "CIRCA": [true],
+        "YEAR": [1440]
+      },
+      "DEAT": {
+        "DATE": ["1486"],
+        "CIRCA": [false],
+        "YEAR": [1486]
+      },
+      "FAMC": ["F63"],
+      "FAMS": ["F62"],
+      "gen": [4],
+      "position": [1]
+    },
+    "I212": {
+      "NAME": {
+        "GIVN": ["Jan I"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1440"],
+        "CIRCA": [true],
+        "YEAR": [1440]
+      },
+      "DEAT": {
+        "DATE": ["1530"],
+        "CIRCA": [false],
+        "YEAR": [1530]
+      },
+      "FAMS": ["F69"],
+      "FAMC": ["F63"],
+      "gen": [4],
+      "position": [3]
+    },
+    "I223": {
+      "NAME": {
+        "GIVN": ["Katharina"],
+        "SURN": ["v. Felden"]
+      },
+      "FAMS": ["F69"],
+      "gen": [4],
+      "position": [4]
+    },
+    "I211": {
+      "NAME": {
+        "GIVN": ["Mikołaj II"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1440"],
+        "CIRCA": [true],
+        "YEAR": [1440]
+      },
+      "FAMS": ["F65"],
+      "FAMC": ["F63"],
+      "gen": [4],
+      "position": [5]
+    },
+    "I216": {
+      "NAME": {},
+      "FAMS": ["F65"],
+      "gen": [4],
+      "position": [6]
+    },
+    "I1131": {
+      "NAME": {
+        "SURN": ["Rabianka"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1460"],
+        "CIRCA": [true],
+        "YEAR": [1460]
+      },
+      "DEAT": {
+        "DATE": ["ca.1520"],
+        "CIRCA": [true],
+        "YEAR": [1520]
+      },
+      "FAMS": ["F62"],
+      "gen": [4],
+      "position": [2]
+    },
+    "I512": {
+      "NAME": {
+        "GIVN": ["Mikołaj"],
+        "SURN": ["Rembowski"]
+      },
+      "FAMS": ["F208"],
+      "gen": [4],
+      "position": [7]
+    },
+    "I513": {
+      "NAME": {
+        "GIVN": ["Dorota"],
+        "SURN": ["von Zehmen"]
+      },
+      "FAMS": ["F208"],
+      "gen": [4],
+      "position": [8]
+    },
+    "I200": {
+      "NAME": {
+        "GIVN": ["Fabian I"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["1486"],
+        "CIRCA": [false],
+        "YEAR": [1486]
+      },
+      "DEAT": {
+        "DATE": ["1580"],
+        "CIRCA": [false],
+        "YEAR": [1580]
+      },
+      "FAMC": ["F62"],
+      "FAMS": ["F61"],
+      "gen": [5],
+      "position": [3]
+    },
+    "I205": {
+      "NAME": {
+        "GIVN": ["Jan III"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["1530"],
+        "CIRCA": [false],
+        "YEAR": [1530]
+      },
+      "FAMC": ["F62"],
+      "gen": [5],
+      "position": [5]
+    },
+    "I206": {
+      "NAME": {
+        "GIVN": ["Gothard III"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1485"],
+        "CIRCA": [true],
+        "YEAR": [1485]
+      },
+      "FAMS": ["F68"],
+      "FAMC": ["F62"],
+      "gen": [5],
+      "position": [1]
+    },
+    "I221": {
+      "NAME": {},
+      "BIRT": {
+        "DATE": ["ca.1485"],
+        "CIRCA": [true],
+        "YEAR": [1485]
+      },
+      "FAMS": ["F68"],
+      "gen": [5],
+      "position": [2]
+    },
+    "I207": {
+      "NAME": {
+        "GIVN": ["Krzysztof I"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "FAMC": ["F62"],
+      "gen": [5],
+      "position": [6]
+    },
+    "I208": {
+      "NAME": {
+        "GIVN": ["Filip"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "FAMC": ["F62"],
+      "gen": [5],
+      "position": [7]
+    },
+    "I201": {
+      "NAME": {
+        "GIVN": ["Urszula"],
+        "SURN": ["Rembowska"]
+      },
+      "FAMC": ["F208"],
+      "FAMS": ["F61"],
+      "gen": [5],
+      "position": [4]
+    },
+    "I514": {
+      "NAME": {
+        "GIVN": ["Dietrich"],
+        "SURN": ["Schenk zu Niedegg"]
+      },
+      "FAMS": ["F209"],
+      "gen": [5],
+      "position": [8]
+    },
+    "I515": {
+      "NAME": {
+        "GIVN": ["Margaretha"],
+        "SURN": ["von Wessel"]
+      },
+      "FAMS": ["F209"],
+      "gen": [5],
+      "position": [9]
+    },
+    "I193": {
+      "NAME": {
+        "GIVN": ["Christopher II"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1565"],
+        "CIRCA": [true],
+        "YEAR": [1565]
+      },
+      "DEAT": {
+        "DATE": ["20 May 1620"],
+        "CIRCA": [false],
+        "YEAR": [1620]
+      },
+      "FAMC": ["F61"],
+      "FAMS": ["F60"],
+      "gen": [6],
+      "position": [1]
+    },
+    "I202": {
+      "NAME": {
+        "GIVN": ["Jerzy"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "FAMS": ["F82"],
+      "FAMC": ["F61"],
+      "gen": [6],
+      "position": [3]
+    },
+    "I247": {
+      "NAME": {
+        "GIVN": ["Maria"],
+        "SURN": ["Ostrogska"]
+      },
+      "FAMS": ["F82"],
+      "gen": [6],
+      "position": [4]
+    },
+    "I194": {
+      "NAME": {
+        "GIVN": ["Anna"],
+        "SURN": ["Schenk zu Niedegg"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1560"],
+        "CIRCA": [true],
+        "YEAR": [1560]
+      },
+      "FAMC": ["F209"],
+      "FAMS": ["F60"],
+      "gen": [6],
+      "position": [2]
+    },
+    "I507": {
+      "NAME": {
+        "GIVN": ["Hartwig"],
+        "SURN": ["von Schmölling"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1560"],
+        "CIRCA": [true],
+        "YEAR": [1560]
+      },
+      "FAMS": ["F205"],
+      "gen": [6],
+      "position": [5]
+    },
+    "I508": {
+      "NAME": {
+        "GIVN": ["Gertrud"],
+        "SURN": ["von Vietinghoff"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1560"],
+        "CIRCA": [true],
+        "YEAR": [1560]
+      },
+      "FAMS": ["F205"],
+      "gen": [6],
+      "position": [6]
+    },
+    "I187": {
+      "NAME": {
+        "GIVN": ["Gotthard IV"],
+        "SURN": ["von Bistram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1590"],
+        "CIRCA": [true],
+        "YEAR": [1590]
+      },
+      "DEAT": {
+        "DATE": ["1652"],
+        "CIRCA": [false],
+        "YEAR": [1652]
+      },
+      "FAMS": ["F59"],
+      "FAMC": ["F60"],
+      "gen": [7],
+      "position": [3]
+    },
+    "I188": {
+      "NAME": {
+        "GIVN": ["Gertrude"],
+        "SURN": ["von Schmölling"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1590"],
+        "CIRCA": [true],
+        "YEAR": [1590]
+      },
+      "DEAT": {
+        "DATE": ["po 12.4.1649"],
+        "CIRCA": [false],
+        "YEAR": [1649]
+      },
+      "FAMS": ["F59"],
+      "FAMC": ["F205"],
+      "gen": [7],
+      "position": [4]
+    },
+    "I195": {
+      "NAME": {
+        "GIVN": ["Friedrich"],
+        "SURN": ["von Bistram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["1587"],
+        "CIRCA": [false],
+        "YEAR": [1587]
+      },
+      "FAMS": ["F78"],
+      "FAMC": ["F60"],
+      "gen": [7],
+      "position": [1]
+    },
+    "I240": {
+      "NAME": {
+        "GIVN": ["Katharina"],
+        "SURN": ["von Grotthuss"]
+      },
+      "BIRT": {
+        "DATE": ["1558-1618"],
+        "CIRCA": [true],
+        "YEAR": [1588]
+      },
+      "FAMS": ["F78"],
+      "gen": [7],
+      "position": [2]
+    },
+    "I196": {
+      "NAME": {
+        "GIVN": ["Jerzy"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "FAMS": ["F77"],
+      "FAMC": ["F60"],
+      "gen": [7],
+      "position": [5]
+    },
+    "I239": {
+      "NAME": {},
+      "FAMS": ["F77"],
+      "gen": [7],
+      "position": [6]
+    },
+    "I197": {
+      "NAME": {
+        "GIVN": ["Krzysztof VI"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "FAMS": ["F76"],
+      "FAMC": ["F60"],
+      "gen": [7],
+      "position": [7]
+    },
+    "I238": {
+      "NAME": {
+        "SURN": ["V. Ludinghausen"]
+      },
+      "FAMS": ["F76"],
+      "gen": [7],
+      "position": [8]
+    },
+    "I198": {
+      "NAME": {
+        "GIVN": ["Dietrich"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "DEAT": {
+        "DATE": ["1648"],
+        "CIRCA": [false],
+        "YEAR": [1648]
+      },
+      "FAMS": ["F75"],
+      "FAMC": ["F60"],
+      "gen": [7],
+      "position": [9]
+    },
+    "I1496": {
+      "NAME": {
+        "GIVN": ["Christina"],
+        "SURN": ["von Nettelhorst"]
+      },
+      "DEAT": {
+        "DATE": ["1675-1678"],
+        "CIRCA": [true],
+        "YEAR": [1676]
+      },
+      "FAMS": ["F75"],
+      "gen": [7],
+      "position": [10]
+    },
+    "I199": {
+      "NAME": {
+        "GIVN": ["Fabian III"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "FAMS": ["F74"],
+      "FAMC": ["F60"],
+      "gen": [7],
+      "position": [11]
+    },
+    "I236": {
+      "NAME": {},
+      "FAMS": ["F74"],
+      "gen": [7],
+      "position": [12]
+    },
+    "I1785": {
+      "NAME": {
+        "GIVN": ["Anna Margaretha"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "DEAT": {
+        "DATE": ["1660"],
+        "CIRCA": [false],
+        "YEAR": [1660]
+      },
+      "FAMS": ["F712"],
+      "FAMC": ["F60"],
+      "gen": [7],
+      "position": [13]
+    },
+    "I1786": {
+      "NAME": {
+        "GIVN": ["Johann"],
+        "SURN": ["von Rosen"]
+      },
+      "DEAT": {
+        "DATE": ["1641"],
+        "CIRCA": [false],
+        "YEAR": [1641]
+      },
+      "FAMS": ["F712"],
+      "gen": [7],
+      "position": [14]
+    },
+    "I1294": {
+      "NAME": {
+        "GIVN": ["Heinrich"],
+        "SURN": ["von Schmölling"]
+      },
+      "FAMC": ["F205"],
+      "gen": [7],
+      "position": [15]
+    },
+    "I184": {
+      "NAME": {
+        "GIVN": ["Jan Kazimierz"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1620"],
+        "CIRCA": [true],
+        "YEAR": [1620]
+      },
+      "FAMC": ["F59"],
+      "FAMS": ["F58"],
+      "gen": [8],
+      "position": [3]
+    },
+    "I185": {
+      "NAME": {
+        "GIVN": ["Magdalena"],
+        "SURN": ["von Heyking"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1620"],
+        "CIRCA": [true],
+        "YEAR": [1620]
+      },
+      "FAMS": ["F58"],
+      "gen": [8],
+      "position": [4]
+    },
+    "I189": {
+      "NAME": {
+        "GIVN": ["Christopher VII"],
+        "SURN": ["von Bistram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1620"],
+        "CIRCA": [true],
+        "YEAR": [1620]
+      },
+      "DEAT": {
+        "DATE": ["1661"],
+        "CIRCA": [false],
+        "YEAR": [1661]
+      },
+      "FAMC": ["F59"],
+      "FAMS": ["F206"],
+      "gen": [8],
+      "position": [5]
+    },
+    "I509": {
+      "NAME": {
+        "GIVN": ["Elizabeth"],
+        "SURN": ["von Neuhoff"]
+      },
+      "FAMS": ["F206"],
+      "gen": [8],
+      "position": [6]
+    },
+    "I190": {
+      "NAME": {
+        "GIVN": ["Hartwig"],
+        "SURN": ["von Bistram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1600"],
+        "CIRCA": [true],
+        "YEAR": [1600]
+      },
+      "DEAT": {
+        "DATE": ["1656"],
+        "CIRCA": [false],
+        "YEAR": [1656]
+      },
+      "FAMC": ["F59"],
+      "FAMS": ["F84"],
+      "gen": [8],
+      "position": [1]
+    },
+    "I249": {
+      "NAME": {
+        "GIVN": ["Anna Catharina"],
+        "SURN": ["von Vietinghoff"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1610"],
+        "CIRCA": [true],
+        "YEAR": [1610]
+      },
+      "DEAT": {
+        "DATE": ["1670"],
+        "CIRCA": [false],
+        "YEAR": [1670]
+      },
+      "FAMS": ["F84"],
+      "gen": [8],
+      "position": [2]
+    },
+    "I191": {
+      "NAME": {
+        "GIVN": ["Gotthard V"],
+        "SURN": ["von Bistram z Radlina"]
+      },
+      "FAMC": ["F59"],
+      "FAMS": ["F85"],
+      "gen": [8],
+      "position": [9]
+    },
+    "I250": {
+      "NAME": {
+        "GIVN": ["Anna Margaretha"],
+        "SURN": ["v. Grotthuss"]
+      },
+      "FAMS": ["F85"],
+      "gen": [8],
+      "position": [10]
+    },
+    "I192": {
+      "NAME": {
+        "GIVN": ["Heinrich"],
+        "SURN": ["von Bistram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["1644"],
+        "CIRCA": [false],
+        "YEAR": [1644]
+      },
+      "DEAT": {
+        "DATE": ["24 Nov 1716"],
+        "CIRCA": [false],
+        "YEAR": [1716]
+      },
+      "FAMC": ["F59"],
+      "FAMS": ["F86"],
+      "gen": [8],
+      "position": [7]
+    },
+    "I251": {
+      "NAME": {
+        "GIVN": ["Anna Elisabeth"],
+        "SURN": ["von Redern"]
+      },
+      "BIRT": {
+        "DATE": ["1633"],
+        "CIRCA": [false],
+        "YEAR": [1633]
+      },
+      "DEAT": {
+        "DATE": ["28 Aug 1689"],
+        "CIRCA": [false],
+        "YEAR": [1689]
+      },
+      "FAMS": ["F86"],
+      "gen": [8],
+      "position": [8]
+    },
+    "I179": {
+      "NAME": {
+        "GIVN": ["Jan Ewald"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1640"],
+        "CIRCA": [true],
+        "YEAR": [1640]
+      },
+      "FAMC": ["F58"],
+      "FAMS": ["F141", "F57", "F143", "F453"],
+      "gen": [9],
+      "position": [3]
+    },
+    "I377": {
+      "NAME": {
+        "GIVN": ["Katharina Gertrude"],
+        "SURN": ["von Bistram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1640"],
+        "CIRCA": [true],
+        "YEAR": [1640]
+      },
+      "FAMS": ["F141"],
+      "FAMC": ["F206"],
+      "gen": [9],
+      "position": [6]
+    },
+    "I180": {
+      "NAME": {
+        "GIVN": ["Anna"],
+        "SURN": ["Święcicka"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1650"],
+        "CIRCA": [true],
+        "YEAR": [1650]
+      },
+      "DEAT": {
+        "DATE": ["ca.1670"],
+        "CIRCA": [true],
+        "YEAR": [1670]
+      },
+      "FAMS": ["F57"],
+      "gen": [9],
+      "position": [4]
+    },
+    "I1277": {
+      "NAME": {
+        "GIVN": ["Ottomar Alexander I"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1640"],
+        "CIRCA": [true],
+        "YEAR": [1640]
+      },
+      "FAMC": ["F58"],
+      "FAMS": ["F529"],
+      "gen": [9],
+      "position": [8]
+    },
+    "I1278": {
+      "NAME": {
+        "GIVN": ["Elisabeth Hedwig"],
+        "SURN": ["van der Osten-Sacken"]
+      },
+      "FAMS": ["F529"],
+      "gen": [9],
+      "position": [9]
+    },
+    "I360": {
+      "NAME": {
+        "GIVN": ["Heinrich Friedrich"],
+        "SURN": ["von Bistram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1640"],
+        "CIRCA": [true],
+        "YEAR": [1640]
+      },
+      "DEAT": {
+        "DATE": ["14 Apr 1697"],
+        "CIRCA": [false],
+        "YEAR": [1697]
+      },
+      "FAMC": ["F84"],
+      "FAMS": ["F134"],
+      "gen": [9],
+      "position": [1]
+    },
+    "I361": {
+      "NAME": {
+        "GIVN": ["Thekla Catharina"],
+        "SURN": ["von Franck"]
+      },
+      "BIRT": {
+        "DATE": ["1652"],
+        "CIRCA": [false],
+        "YEAR": [1652]
+      },
+      "FAMS": ["F134"],
+      "gen": [9],
+      "position": [2]
+    },
+    "I152": {
+      "NAME": {
+        "GIVN": ["Mikołaj Tadeusz Bernard"],
+        "SURN": ["Łopaciński"]
+      },
+      "BIRT": {
+        "DATE": ["20 May 1715"],
+        "PLAC": ["Łopacin, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1715]
+      },
+      "DEAT": {
+        "DATE": ["4 Jan 1778"],
+        "PLAC": ["Leonpol, Belarus"],
+        "CIRCA": [false],
+        "YEAR": [1778]
+      },
+      "FAMS": ["F51"],
+      "gen": [9],
+      "position": [10]
+    },
+    "I153": {
+      "NAME": {
+        "GIVN": ["Barbara"],
+        "SURN": ["Kopeć"]
+      },
+      "BIRT": {
+        "DATE": ["1727"],
+        "CIRCA": [false],
+        "YEAR": [1727]
+      },
+      "DEAT": {
+        "DATE": ["14 Dec 1799"],
+        "PLAC": ["Vilnius, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1799]
+      },
+      "FAMS": ["F51"],
+      "gen": [9],
+      "position": [11]
+    },
+    "I384": {
+      "NAME": {
+        "GIVN": ["Zuzanna"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1670"],
+        "CIRCA": [true],
+        "YEAR": [1670]
+      },
+      "FAMC": ["F141"],
+      "FAMS": ["F145", "F146"],
+      "gen": [10],
+      "position": [10]
+    },
+    "I182": {
+      "NAME": {
+        "GIVN": ["Stanisław"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1670"],
+        "CIRCA": [true],
+        "YEAR": [1670]
+      },
+      "FAMC": ["F141"],
+      "FAMS": ["F97"],
+      "gen": [10],
+      "position": [13]
+    },
+    "I383": {
+      "NAME": {
+        "GIVN": ["Elzbieta"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1689"],
+        "CIRCA": [true],
+        "YEAR": [1689]
+      },
+      "FAMC": ["F141"],
+      "FAMS": ["F424"],
+      "gen": [10],
+      "position": [15]
+    },
+    "I181": {
+      "NAME": {
+        "GIVN": ["Mikołaj"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1670"],
+        "CIRCA": [true],
+        "YEAR": [1670]
+      },
+      "FAMC": ["F57"],
+      "FAMS": ["F95"],
+      "gen": [10],
+      "position": [3]
+    },
+    "I177": {
+      "NAME": {
+        "GIVN": ["Bogusław Kazimierz"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1690"],
+        "CIRCA": [true],
+        "YEAR": [1690]
+      },
+      "DEAT": {
+        "DATE": ["29 Jan 1746"],
+        "CIRCA": [false],
+        "YEAR": [1746]
+      },
+      "FAMC": ["F57"],
+      "FAMS": ["F56", "F144"],
+      "gen": [10],
+      "position": [5]
+    },
+    "I183": {
+      "NAME": {
+        "GIVN": ["Aleksander"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1695"],
+        "CIRCA": [true],
+        "YEAR": [1695]
+      },
+      "FAMC": ["F57"],
+      "FAMS": ["F88"],
+      "gen": [10],
+      "position": [8]
+    },
+    "I1280": {
+      "NAME": {
+        "GIVN": ["Johann Ernst"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1680"],
+        "CIRCA": [true],
+        "YEAR": [1680]
+      },
+      "FAMC": ["F529"],
+      "FAMS": ["F531", "F532"],
+      "gen": [10],
+      "position": [17]
+    },
+    "I186": {
+      "NAME": {
+        "GIVN": ["Ottomar AleksanderII"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "FAMC": ["F529"],
+      "FAMS": ["F530", "F87"],
+      "gen": [10],
+      "position": [20]
+    },
+    "I503": {
+      "NAME": {
+        "GIVN": ["George Hartwig"],
+        "SURN": ["von Bistram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1680"],
+        "CIRCA": [true],
+        "YEAR": [1680]
+      },
+      "DEAT": {
+        "DATE": ["1734"],
+        "PLAC": ["Gross-Sessau (Kurlandia)"],
+        "CIRCA": [false],
+        "YEAR": [1734]
+      },
+      "FAMC": ["F134"],
+      "gen": [10],
+      "position": [1]
+    },
+    "I362": {
+      "NAME": {
+        "GIVN": ["Wilhelm"],
+        "SURN": ["von Bistram"]
+      },
+      "BIRT": {
+        "DATE": ["3 Mar 1688"],
+        "CIRCA": [false],
+        "YEAR": [1688]
+      },
+      "DEAT": {
+        "DATE": ["1719"],
+        "CIRCA": [false],
+        "YEAR": [1719]
+      },
+      "FAMC": ["F134"],
+      "gen": [10],
+      "position": [2]
+    },
+    "I385": {
+      "NAME": {
+        "SURN": ["Towianski"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1660"],
+        "CIRCA": [true],
+        "YEAR": [1660]
+      },
+      "FAMS": ["F145"],
+      "gen": [10],
+      "position": [11]
+    },
+    "I386": {
+      "NAME": {
+        "SURN": ["Okmianski"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1660"],
+        "CIRCA": [true],
+        "YEAR": [1660]
+      },
+      "FAMS": ["F146"],
+      "gen": [10],
+      "position": [12]
+    },
+    "I280": {
+      "NAME": {},
+      "FAMS": ["F97"],
+      "gen": [10],
+      "position": [14]
+    },
+    "I1031": {
+      "NAME": {
+        "SURN": ["Abramowski"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1650"],
+        "CIRCA": [true],
+        "YEAR": [1650]
+      },
+      "FAMS": ["F424"],
+      "gen": [10],
+      "position": [16]
+    },
+    "I274": {
+      "NAME": {},
+      "FAMS": ["F95"],
+      "gen": [10],
+      "position": [4]
+    },
+    "I178": {
+      "NAME": {
+        "SURN": ["Korsak"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1700"],
+        "CIRCA": [true],
+        "YEAR": [1700]
+      },
+      "FAMS": ["F56"],
+      "gen": [10],
+      "position": [6]
+    },
+    "I392": {
+      "NAME": {
+        "GIVN": ["Thekla Katharina"],
+        "SURN": ["von Bistram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["ca. 1710"],
+        "CIRCA": [true],
+        "YEAR": [1710]
+      },
+      "DEAT": {
+        "DATE": ["24 Feb 1735"],
+        "CIRCA": [false],
+        "YEAR": [1735]
+      },
+      "FAMS": ["F144"],
+      "gen": [10],
+      "position": [7]
+    },
+    "I2218": {
+      "NAME": {
+        "GIVN": ["Anna"],
+        "SURN": ["von der Ropp"]
+      },
+      "FAMS": ["F88"],
+      "gen": [10],
+      "position": [9]
+    },
+    "I1281": {
+      "NAME": {
+        "GIVN": ["Aldegunda"],
+        "SURN": ["von Pogk"]
+      },
+      "FAMS": ["F531"],
+      "gen": [10],
+      "position": [18]
+    },
+    "I1282": {
+      "NAME": {
+        "SURN": ["von Nettelhorst"]
+      },
+      "FAMS": ["F532"],
+      "gen": [10],
+      "position": [19]
+    },
+    "I1279": {
+      "NAME": {
+        "GIVN": ["Maria Barbara"],
+        "SURN": ["von Mirbach"]
+      },
+      "DEAT": {
+        "DATE": ["ca.1710"],
+        "CIRCA": [true],
+        "YEAR": [1710]
+      },
+      "FAMS": ["F530"],
+      "gen": [10],
+      "position": [21]
+    },
+    "I252": {
+      "NAME": {
+        "GIVN": ["Zofia"],
+        "SURN": ["von Klopmann"]
+      },
+      "FAMS": ["F87"],
+      "gen": [10],
+      "position": [22]
+    },
+    "I145": {
+      "NAME": {
+        "GIVN": ["Jan Nikodem"],
+        "SURN": ["Łopaciński"]
+      },
+      "BIRT": {
+        "DATE": ["15/0/1747"],
+        "PLAC": ["Saria, Greece"],
+        "CIRCA": [false],
+        "YEAR": [1747]
+      },
+      "DEAT": {
+        "DATE": ["13 Oct 1810"],
+        "PLAC": ["Sharkawshchyna, Belarus"],
+        "CIRCA": [false],
+        "YEAR": [1810]
+      },
+      "FAMC": ["F51"],
+      "FAMS": ["F50", "F52"],
+      "gen": [10],
+      "position": [26]
+    },
+    "I154": {
+      "NAME": {
+        "SURN": ["Łopacińska"]
+      },
+      "BIRT": {
+        "DATE": ["1743"],
+        "CIRCA": [false],
+        "YEAR": [1743]
+      },
+      "FAMC": ["F51"],
+      "gen": [10],
+      "position": [23]
+    },
+    "I155": {
+      "NAME": {
+        "SURN": ["Łopaciński"]
+      },
+      "BIRT": {
+        "DATE": ["1744"],
+        "CIRCA": [false],
+        "YEAR": [1744]
+      },
+      "DEAT": {
+        "DATE": ["1750"],
+        "CIRCA": [false],
+        "YEAR": [1750]
+      },
+      "FAMC": ["F51"],
+      "gen": [10],
+      "position": [24]
+    },
+    "I156": {
+      "NAME": {
+        "GIVN": ["Kazimiera Barbara"],
+        "SURN": ["Łopacińska"]
+      },
+      "BIRT": {
+        "DATE": ["1746"],
+        "CIRCA": [false],
+        "YEAR": [1746]
+      },
+      "DEAT": {
+        "DATE": ["1773"],
+        "CIRCA": [false],
+        "YEAR": [1773]
+      },
+      "FAMC": ["F51"],
+      "gen": [10],
+      "position": [25]
+    },
+    "I157": {
+      "NAME": {
+        "SURN": ["Łopacińska"]
+      },
+      "BIRT": {
+        "DATE": ["1750"],
+        "CIRCA": [false],
+        "YEAR": [1750]
+      },
+      "FAMC": ["F51"],
+      "gen": [10],
+      "position": [29]
+    },
+    "I158": {
+      "NAME": {
+        "SURN": ["Łopaciński"]
+      },
+      "BIRT": {
+        "DATE": ["1751"],
+        "CIRCA": [false],
+        "YEAR": [1751]
+      },
+      "DEAT": {
+        "DATE": ["1803"],
+        "CIRCA": [false],
+        "YEAR": [1803]
+      },
+      "FAMC": ["F51"],
+      "gen": [10],
+      "position": [30]
+    },
+    "I159": {
+      "NAME": {
+        "SURN": ["Łopaciński"]
+      },
+      "BIRT": {
+        "DATE": ["1752"],
+        "CIRCA": [false],
+        "YEAR": [1752]
+      },
+      "DEAT": {
+        "DATE": ["1775"],
+        "CIRCA": [false],
+        "YEAR": [1775]
+      },
+      "FAMC": ["F51"],
+      "gen": [10],
+      "position": [31]
+    },
+    "I160": {
+      "NAME": {
+        "SURN": ["Łopaciński"]
+      },
+      "BIRT": {
+        "DATE": ["1753"],
+        "CIRCA": [false],
+        "YEAR": [1753]
+      },
+      "DEAT": {
+        "DATE": ["1817"],
+        "CIRCA": [false],
+        "YEAR": [1817]
+      },
+      "FAMC": ["F51"],
+      "gen": [10],
+      "position": [32]
+    },
+    "I161": {
+      "NAME": {
+        "SURN": ["Łopacińska"]
+      },
+      "BIRT": {
+        "DATE": ["1755"],
+        "CIRCA": [false],
+        "YEAR": [1755]
+      },
+      "FAMC": ["F51"],
+      "gen": [10],
+      "position": [33]
+    },
+    "I162": {
+      "NAME": {
+        "SURN": ["Łopacińska"]
+      },
+      "BIRT": {
+        "DATE": ["1759"],
+        "CIRCA": [false],
+        "YEAR": [1759]
+      },
+      "DEAT": {
+        "DATE": ["1814"],
+        "CIRCA": [false],
+        "YEAR": [1814]
+      },
+      "FAMC": ["F51"],
+      "gen": [10],
+      "position": [34]
+    },
+    "I163": {
+      "NAME": {
+        "GIVN": ["Józefa Zofia"],
+        "SURN": ["Ogińska"]
+      },
+      "BIRT": {
+        "DATE": ["1760"],
+        "CIRCA": [false],
+        "YEAR": [1760]
+      },
+      "DEAT": {
+        "DATE": ["1846"],
+        "CIRCA": [false],
+        "YEAR": [1846]
+      },
+      "FAMS": ["F52"],
+      "gen": [10],
+      "position": [28]
+    },
+    "I146": {
+      "NAME": {
+        "GIVN": ["Helena Wiktoria"],
+        "SURN": ["Ogińska"]
+      },
+      "BIRT": {
+        "DATE": ["7 Sep 1752"],
+        "CIRCA": [false],
+        "YEAR": [1752]
+      },
+      "DEAT": {
+        "DATE": ["25 Dec 1788"],
+        "CIRCA": [false],
+        "YEAR": [1788]
+      },
+      "FAMS": ["F50"],
+      "gen": [10],
+      "position": [27]
+    },
+    "I613": {
+      "NAME": {
+        "GIVN": ["Franciszek"],
+        "SURN": ["Mineyko"]
+      },
+      "BIRT": {
+        "DATE": ["1700"],
+        "CIRCA": [false],
+        "YEAR": [1700]
+      },
+      "FAMS": ["F252"],
+      "gen": [10],
+      "position": [35]
+    },
+    "I614": {
+      "NAME": {},
+      "FAMS": ["F252"],
+      "gen": [10],
+      "position": [36]
+    },
+    "I281": {
+      "NAME": {
+        "GIVN": ["Krzysztof"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1690"],
+        "CIRCA": [true],
+        "YEAR": [1690]
+      },
+      "FAMC": ["F97"],
+      "gen": [11],
+      "position": [12]
+    },
+    "I275": {
+      "NAME": {
+        "GIVN": ["Antoni"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca. 1700"],
+        "CIRCA": [true],
+        "YEAR": [1700]
+      },
+      "FAMC": ["F95"],
+      "gen": [11],
+      "position": [1]
+    },
+    "I276": {
+      "NAME": {
+        "GIVN": ["Jozef"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca. 1700"],
+        "CIRCA": [true],
+        "YEAR": [1700]
+      },
+      "FAMC": ["F95"],
+      "FAMS": ["F96"],
+      "gen": [11],
+      "position": [2]
+    },
+    "I137": {
+      "NAME": {
+        "GIVN": ["Bartłomiej Józef"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1730"],
+        "CIRCA": [true],
+        "YEAR": [1730]
+      },
+      "DEAT": {
+        "DATE": ["9 Aug 1795"],
+        "PLAC": ["Ramygala, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1795]
+      },
+      "FAMC": ["F56"],
+      "FAMS": ["F47", "F445"],
+      "gen": [11],
+      "position": [4]
+    },
+    "I254": {
+      "NAME": {
+        "GIVN": ["Andrzej"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca. 1720"],
+        "CIRCA": [true],
+        "YEAR": [1720]
+      },
+      "FAMC": ["F88"],
+      "FAMS": ["F89"],
+      "gen": [11],
+      "position": [7]
+    },
+    "I255": {
+      "NAME": {
+        "GIVN": ["Antoni"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca. 1720"],
+        "CIRCA": [true],
+        "YEAR": [1720]
+      },
+      "FAMC": ["F88"],
+      "FAMS": ["F90"],
+      "gen": [11],
+      "position": [9]
+    },
+    "I256": {
+      "NAME": {
+        "GIVN": ["Józef"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca. 1720"],
+        "CIRCA": [true],
+        "YEAR": [1720]
+      },
+      "FAMC": ["F88"],
+      "gen": [11],
+      "position": [11]
+    },
+    "I1283": {
+      "NAME": {
+        "GIVN": ["Otto Johann"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["1701"],
+        "CIRCA": [false],
+        "YEAR": [1701]
+      },
+      "DEAT": {
+        "DATE": ["31 Jan 1777"],
+        "PLAC": ["Granteles, Latvia"],
+        "CIRCA": [false],
+        "YEAR": [1777]
+      },
+      "FAMC": ["F531"],
+      "gen": [11],
+      "position": [13]
+    },
+    "I1288": {
+      "NAME": {
+        "GIVN": ["Adam Ferdinand"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["ca. 1721"],
+        "CIRCA": [true],
+        "YEAR": [1721]
+      },
+      "DEAT": {
+        "DATE": ["1798"],
+        "PLAC": ["Bauska, Latvia"],
+        "CIRCA": [false],
+        "YEAR": [1798]
+      },
+      "FAMC": ["F87"],
+      "gen": [11],
+      "position": [14]
+    },
+    "I277": {
+      "NAME": {},
+      "FAMS": ["F96"],
+      "gen": [11],
+      "position": [3]
+    },
+    "I138": {
+      "NAME": {
+        "GIVN": ["Rozalia Anna"],
+        "SURN": ["Antonowicz"]
+      },
+      "BIRT": {
+        "DATE": ["ca1750"],
+        "CIRCA": [true],
+        "YEAR": [1750]
+      },
+      "FAMS": ["F47"],
+      "gen": [11],
+      "position": [5]
+    },
+    "I1068": {
+      "NAME": {},
+      "FAMS": ["F445"],
+      "gen": [11],
+      "position": [6]
+    },
+    "I257": {
+      "NAME": {
+        "GIVN": ["Ewa"],
+        "SURN": ["Białłozor"]
+      },
+      "FAMS": ["F89"],
+      "gen": [11],
+      "position": [8]
+    },
+    "I260": {
+      "NAME": {},
+      "FAMS": ["F90"],
+      "gen": [11],
+      "position": [10]
+    },
+    "I141": {
+      "NAME": {
+        "GIVN": ["Jan"],
+        "SURN": ["Monwiłł-Białłozor"]
+      },
+      "BIRT": {
+        "DATE": ["1770"],
+        "CIRCA": [false],
+        "YEAR": [1770]
+      },
+      "FAMS": ["F49"],
+      "gen": [11],
+      "position": [17]
+    },
+    "I142": {
+      "NAME": {
+        "GIVN": ["Antonina Maria Urszula"],
+        "SURN": ["Łopacińska"]
+      },
+      "BIRT": {
+        "DATE": ["26 Jan 1772"],
+        "PLAC": ["Sharkawshchyna, Belarus"],
+        "CIRCA": [false],
+        "YEAR": [1772]
+      },
+      "FAMS": ["F49"],
+      "FAMC": ["F50"],
+      "gen": [11],
+      "position": [16]
+    },
+    "I147": {
+      "NAME": {
+        "GIVN": ["Barbara Tekla Kunegunda"],
+        "SURN": ["Łopacińska"]
+      },
+      "BIRT": {
+        "DATE": ["1771"],
+        "CIRCA": [false],
+        "YEAR": [1771]
+      },
+      "DEAT": {
+        "DATE": ["1828"],
+        "CIRCA": [false],
+        "YEAR": [1828]
+      },
+      "FAMC": ["F50"],
+      "gen": [11],
+      "position": [15]
+    },
+    "I148": {
+      "NAME": {
+        "SURN": ["Łopaciński"]
+      },
+      "BIRT": {
+        "DATE": ["1775"],
+        "CIRCA": [false],
+        "YEAR": [1775]
+      },
+      "DEAT": {
+        "DATE": ["1832"],
+        "CIRCA": [false],
+        "YEAR": [1832]
+      },
+      "FAMC": ["F50"],
+      "gen": [11],
+      "position": [18]
+    },
+    "I149": {
+      "NAME": {
+        "SURN": ["Łopacińska"]
+      },
+      "BIRT": {
+        "DATE": ["1782"],
+        "CIRCA": [false],
+        "YEAR": [1782]
+      },
+      "DEAT": {
+        "DATE": ["1851"],
+        "CIRCA": [false],
+        "YEAR": [1851]
+      },
+      "FAMC": ["F50"],
+      "gen": [11],
+      "position": [19]
+    },
+    "I150": {
+      "NAME": {
+        "SURN": ["Łopaciński"]
+      },
+      "BIRT": {
+        "DATE": ["1783"],
+        "CIRCA": [false],
+        "YEAR": [1783]
+      },
+      "DEAT": {
+        "DATE": ["1856"],
+        "CIRCA": [false],
+        "YEAR": [1856]
+      },
+      "FAMC": ["F50"],
+      "gen": [11],
+      "position": [20]
+    },
+    "I151": {
+      "NAME": {
+        "SURN": ["Łopacińska"]
+      },
+      "BIRT": {
+        "DATE": ["1784"],
+        "CIRCA": [false],
+        "YEAR": [1784]
+      },
+      "DEAT": {
+        "DATE": ["1842"],
+        "CIRCA": [false],
+        "YEAR": [1842]
+      },
+      "FAMC": ["F50"],
+      "gen": [11],
+      "position": [21]
+    },
+    "I611": {
+      "NAME": {
+        "GIVN": ["Tomasz"],
+        "SURN": ["Mineyko"]
+      },
+      "BIRT": {
+        "DATE": ["1730"],
+        "CIRCA": [false],
+        "YEAR": [1730]
+      },
+      "DEAT": {
+        "DATE": ["1834"],
+        "PLAC": ["Dubniki, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1834]
+      },
+      "FAMC": ["F252"],
+      "FAMS": ["F251"],
+      "gen": [11],
+      "position": [22]
+    },
+    "I615": {
+      "NAME": {
+        "GIVN": ["Rafał"],
+        "SURN": ["Mineyko"]
+      },
+      "BIRT": {
+        "DATE": ["1730"],
+        "CIRCA": [false],
+        "YEAR": [1730]
+      },
+      "FAMS": ["F253"],
+      "FAMC": ["F252"],
+      "gen": [11],
+      "position": [24]
+    },
+    "I616": {
+      "NAME": {
+        "SURN": ["Poniatowska"]
+      },
+      "BIRT": {
+        "DATE": ["1740"],
+        "CIRCA": [false],
+        "YEAR": [1740]
+      },
+      "FAMS": ["F253"],
+      "gen": [11],
+      "position": [25]
+    },
+    "I612": {
+      "NAME": {
+        "GIVN": ["Antonina"],
+        "SURN": ["Przesmycka"]
+      },
+      "BIRT": {
+        "DATE": ["1752"],
+        "CIRCA": [false],
+        "YEAR": [1752]
+      },
+      "DEAT": {
+        "DATE": ["1782"],
+        "CIRCA": [false],
+        "YEAR": [1782]
+      },
+      "FAMS": ["F251"],
+      "gen": [11],
+      "position": [23]
+    },
+    "I603": {
+      "NAME": {
+        "GIVN": ["Michał"],
+        "SURN": ["Szabuniewicz"]
+      },
+      "BIRT": {
+        "DATE": ["1745"],
+        "CIRCA": [false],
+        "YEAR": [1745]
+      },
+      "DEAT": {
+        "DATE": ["21 Jul 1813"],
+        "PLAC": ["Hanuszyszki, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1813]
+      },
+      "FAMS": ["F248"],
+      "gen": [11],
+      "position": [26]
+    },
+    "I604": {
+      "NAME": {
+        "GIVN": ["Wiktoria"]
+      },
+      "BIRT": {
+        "DATE": ["1750"],
+        "CIRCA": [false],
+        "YEAR": [1750]
+      },
+      "FAMS": ["F248"],
+      "gen": [11],
+      "position": [27]
+    },
+    "I278": {
+      "NAME": {
+        "GIVN": ["Dominik"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1740"],
+        "CIRCA": [true],
+        "YEAR": [1740]
+      },
+      "FAMC": ["F96"],
+      "gen": [12],
+      "position": [1]
+    },
+    "I279": {
+      "NAME": {
+        "GIVN": ["Hieronim"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1740"],
+        "CIRCA": [true],
+        "YEAR": [1740]
+      },
+      "FAMC": ["F96"],
+      "gen": [12],
+      "position": [2]
+    },
+    "I139": {
+      "NAME": {
+        "GIVN": ["Zofia"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["1773"],
+        "CIRCA": [false],
+        "YEAR": [1773]
+      },
+      "FAMC": ["F47"],
+      "FAMS": ["F150"],
+      "gen": [12],
+      "position": [3]
+    },
+    "I1788": {
+      "NAME": {
+        "GIVN": ["Wiktoria Franciszka"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["1773"],
+        "PLAC": ["Ramygala, Lithuania,"],
+        "CIRCA": [false],
+        "YEAR": [1773]
+      },
+      "FAMC": ["F47"],
+      "gen": [12],
+      "position": [5]
+    },
+    "I1789": {
+      "NAME": {
+        "GIVN": ["Jozefata Teodora"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["1774"],
+        "PLAC": ["Ramygala, Lithuania,"],
+        "CIRCA": [false],
+        "YEAR": [1774]
+      },
+      "FAMC": ["F47"],
+      "gen": [12],
+      "position": [6]
+    },
+    "I1790": {
+      "NAME": {
+        "GIVN": ["Jozefata Brigyda"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["26 Aug 1776"],
+        "PLAC": ["Ramygala, Lithuania,"],
+        "CIRCA": [false],
+        "YEAR": [1776]
+      },
+      "FAMC": ["F47"],
+      "gen": [12],
+      "position": [7]
+    },
+    "I135": {
+      "NAME": {
+        "GIVN": ["Karol Marcin"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["1776"],
+        "PLAC": ["Ramygala, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1776]
+      },
+      "DEAT": {
+        "DATE": ["1 May 1853"],
+        "CIRCA": [false],
+        "YEAR": [1853]
+      },
+      "FAMC": ["F47"],
+      "FAMS": ["F46"],
+      "gen": [12],
+      "position": [8]
+    },
+    "I263": {
+      "NAME": {
+        "GIVN": ["Franciszek"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1780"],
+        "CIRCA": [true],
+        "YEAR": [1780]
+      },
+      "FAMC": ["F445"],
+      "gen": [12],
+      "position": [10]
+    },
+    "I264": {
+      "NAME": {
+        "GIVN": ["Tomasz Tadeusz"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1780"],
+        "CIRCA": [true],
+        "YEAR": [1780]
+      },
+      "FAMC": ["F445"],
+      "gen": [12],
+      "position": [11]
+    },
+    "I393": {
+      "NAME": {
+        "GIVN": ["Józefata"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca1780"],
+        "CIRCA": [true],
+        "YEAR": [1780]
+      },
+      "FAMC": ["F445"],
+      "FAMS": ["F152"],
+      "gen": [12],
+      "position": [12]
+    },
+    "I394": {
+      "NAME": {
+        "GIVN": ["Apolonia"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1780"],
+        "CIRCA": [true],
+        "YEAR": [1780]
+      },
+      "FAMC": ["F445"],
+      "gen": [12],
+      "position": [14]
+    },
+    "I395": {
+      "NAME": {
+        "GIVN": ["Barbara"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1780"],
+        "CIRCA": [true],
+        "YEAR": [1780]
+      },
+      "FAMC": ["F445"],
+      "gen": [12],
+      "position": [15]
+    },
+    "I259": {
+      "NAME": {
+        "GIVN": ["Dominik"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1750"],
+        "CIRCA": [true],
+        "YEAR": [1750]
+      },
+      "FAMC": ["F89"],
+      "gen": [12],
+      "position": [16]
+    },
+    "I388": {
+      "NAME": {
+        "GIVN": ["Anna"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1750"],
+        "CIRCA": [true],
+        "YEAR": [1750]
+      },
+      "FAMC": ["F89"],
+      "gen": [12],
+      "position": [17]
+    },
+    "I258": {
+      "NAME": {
+        "GIVN": ["Kazimierz"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1760"],
+        "CIRCA": [true],
+        "YEAR": [1760]
+      },
+      "FAMC": ["F89"],
+      "gen": [12],
+      "position": [18]
+    },
+    "I389": {
+      "NAME": {
+        "GIVN": ["Rozalia"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1770"],
+        "CIRCA": [true],
+        "YEAR": [1770]
+      },
+      "FAMC": ["F89"],
+      "gen": [12],
+      "position": [19]
+    },
+    "I261": {
+      "NAME": {
+        "GIVN": ["Jan"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1760"],
+        "CIRCA": [true],
+        "YEAR": [1760]
+      },
+      "FAMC": ["F90"],
+      "gen": [12],
+      "position": [20]
+    },
+    "I262": {
+      "NAME": {
+        "GIVN": ["Izydor"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1760"],
+        "CIRCA": [true],
+        "YEAR": [1760]
+      },
+      "FAMC": ["F90"],
+      "gen": [12],
+      "position": [21]
+    },
+    "I390": {
+      "NAME": {
+        "GIVN": ["Machtylda"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1760"],
+        "CIRCA": [true],
+        "YEAR": [1760]
+      },
+      "FAMC": ["F90"],
+      "gen": [12],
+      "position": [22]
+    },
+    "I391": {
+      "NAME": {
+        "GIVN": ["Marcyana"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1760"],
+        "CIRCA": [true],
+        "YEAR": [1760]
+      },
+      "FAMC": ["F90"],
+      "gen": [12],
+      "position": [23]
+    },
+    "I396": {
+      "NAME": {
+        "GIVN": ["Jan"],
+        "SURN": ["Burniewicz"]
+      },
+      "FAMS": ["F150"],
+      "gen": [12],
+      "position": [4]
+    },
+    "I136": {
+      "NAME": {
+        "GIVN": ["Franciszka Anna"],
+        "SURN": ["Monwiłł-Białłozor"]
+      },
+      "BIRT": {
+        "DATE": ["4 Jun 1789"],
+        "CIRCA": [false],
+        "YEAR": [1789]
+      },
+      "DEAT": {
+        "DATE": ["14 May 1823"],
+        "CIRCA": [false],
+        "YEAR": [1823]
+      },
+      "FAMS": ["F46"],
+      "FAMC": ["F49"],
+      "gen": [12],
+      "position": [9]
+    },
+    "I397": {
+      "NAME": {
+        "GIVN": ["Stanislaw"],
+        "SURN": ["Boban"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1750"],
+        "CIRCA": [true],
+        "YEAR": [1750]
+      },
+      "FAMS": ["F152"],
+      "gen": [12],
+      "position": [13]
+    },
+    "I143": {
+      "NAME": {
+        "GIVN": ["Regina"],
+        "SURN": ["Monwiłł-Białłozor"]
+      },
+      "BIRT": {
+        "DATE": ["1790"],
+        "CIRCA": [false],
+        "YEAR": [1790]
+      },
+      "FAMC": ["F49"],
+      "gen": [12],
+      "position": [24]
+    },
+    "I144": {
+      "NAME": {
+        "GIVN": ["Tekla"],
+        "SURN": ["Monwiłł-Białłozor"]
+      },
+      "BIRT": {
+        "DATE": ["1790"],
+        "CIRCA": [false],
+        "YEAR": [1790]
+      },
+      "FAMC": ["F49"],
+      "gen": [12],
+      "position": [25]
+    },
+    "I400": {
+      "NAME": {
+        "GIVN": ["Michał"],
+        "SURN": ["Mineyko"]
+      },
+      "BIRT": {
+        "DATE": ["1791"],
+        "CIRCA": [false],
+        "YEAR": [1791]
+      },
+      "DEAT": {
+        "DATE": ["1825"],
+        "CIRCA": [false],
+        "YEAR": [1825]
+      },
+      "FAMS": ["F154"],
+      "FAMC": ["F251"],
+      "gen": [12],
+      "position": [26]
+    },
+    "I401": {
+      "NAME": {
+        "GIVN": ["Brygida"],
+        "SURN": ["Szabuniewicz"]
+      },
+      "BIRT": {
+        "DATE": ["1780"],
+        "CIRCA": [false],
+        "YEAR": [1780]
+      },
+      "FAMS": ["F154"],
+      "FAMC": ["F248"],
+      "gen": [12],
+      "position": [27]
+    },
+    "I606": {
+      "NAME": {
+        "SURN": ["Szabuniewicz"]
+      },
+      "BIRT": {
+        "DATE": ["1780"],
+        "CIRCA": [false],
+        "YEAR": [1780]
+      },
+      "FAMC": ["F248"],
+      "gen": [12],
+      "position": [28]
+    },
+    "I607": {
+      "NAME": {
+        "SURN": ["Szabuniewicz"]
+      },
+      "BIRT": {
+        "DATE": ["1780"],
+        "CIRCA": [false],
+        "YEAR": [1780]
+      },
+      "FAMC": ["F248"],
+      "gen": [12],
+      "position": [29]
+    },
+    "I608": {
+      "NAME": {
+        "SURN": ["Szabuniewicz"]
+      },
+      "BIRT": {
+        "DATE": ["1790"],
+        "CIRCA": [false],
+        "YEAR": [1790]
+      },
+      "FAMC": ["F248"],
+      "gen": [12],
+      "position": [30]
+    },
+    "I605": {
+      "NAME": {
+        "GIVN": ["Stanisław"],
+        "SURN": ["Szabuniewicz"]
+      },
+      "BIRT": {
+        "DATE": ["1790"],
+        "CIRCA": [false],
+        "YEAR": [1790]
+      },
+      "FAMS": ["F254"],
+      "FAMC": ["F248"],
+      "gen": [12],
+      "position": [31]
+    },
+    "I618": {
+      "NAME": {
+        "GIVN": ["Antonina"],
+        "SURN": ["Szukszta"]
+      },
+      "BIRT": {
+        "DATE": ["1790"],
+        "CIRCA": [false],
+        "YEAR": [1790]
+      },
+      "FAMS": ["F254"],
+      "gen": [12],
+      "position": [32]
+    },
+    "I609": {
+      "NAME": {
+        "SURN": ["Szabuniewicz"]
+      },
+      "BIRT": {
+        "DATE": ["1800"],
+        "CIRCA": [false],
+        "YEAR": [1800]
+      },
+      "DEAT": {
+        "DATE": ["1871"],
+        "CIRCA": [false],
+        "YEAR": [1871]
+      },
+      "FAMC": ["F248"],
+      "gen": [12],
+      "position": [33]
+    },
+    "I610": {
+      "NAME": {
+        "SURN": ["Szabuniewicz"]
+      },
+      "BIRT": {
+        "DATE": ["1800"],
+        "CIRCA": [false],
+        "YEAR": [1800]
+      },
+      "DEAT": {
+        "DATE": ["1860"],
+        "CIRCA": [false],
+        "YEAR": [1860]
+      },
+      "FAMC": ["F248"],
+      "gen": [12],
+      "position": [34]
+    },
+    "I602": {
+      "NAME": {
+        "GIVN": ["Dominika"],
+        "SURN": ["Szabuniewicz"]
+      },
+      "BIRT": {
+        "DATE": ["1800"],
+        "CIRCA": [false],
+        "YEAR": [1800]
+      },
+      "FAMS": ["F247"],
+      "FAMC": ["F248"],
+      "gen": [12],
+      "position": [35]
+    },
+    "I601": {
+      "NAME": {
+        "GIVN": ["Józef"],
+        "SURN": ["Szetkiewicz"]
+      },
+      "BIRT": {
+        "DATE": ["1770"],
+        "CIRCA": [false],
+        "YEAR": [1770]
+      },
+      "DEAT": {
+        "DATE": ["13 Jan 1858"],
+        "PLAC": ["Hanuszyszki, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1858]
+      },
+      "FAMS": ["F247"],
+      "gen": [12],
+      "position": [36]
+    },
+    "I1791": {
+      "NAME": {
+        "GIVN": ["Maryanna"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["12 Feb 1810"],
+        "PLAC": ["Bystrampol"],
+        "CIRCA": [false],
+        "YEAR": [1810]
+      },
+      "FAMC": ["F46"],
+      "gen": [13],
+      "position": [1]
+    },
+    "I130": {
+      "NAME": {
+        "GIVN": ["Karol Kazimierz Adolf"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["15 Apr 1812"],
+        "PLAC": ["Karolów, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1812]
+      },
+      "DEAT": {
+        "DATE": ["16 Jun 1887"],
+        "PLAC": ["Żmujdki, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1887]
+      },
+      "FAMC": ["F46"],
+      "FAMS": ["F45"],
+      "gen": [13],
+      "position": [2]
+    },
+    "I131": {
+      "NAME": {
+        "GIVN": ["Zofia Dominika Teresa"],
+        "SURN": ["Mineyko"]
+      },
+      "BIRT": {
+        "DATE": ["7 Jun 1819"],
+        "PLAC": ["Worniany, Belarus"],
+        "CIRCA": [false],
+        "YEAR": [1819]
+      },
+      "DEAT": {
+        "DATE": ["10 Feb 1875"],
+        "CIRCA": [false],
+        "YEAR": [1875]
+      },
+      "FAMS": ["F45"],
+      "FAMC": ["F154"],
+      "gen": [13],
+      "position": [3]
+    },
+    "I577": {
+      "NAME": {
+        "GIVN": ["Tomasz"],
+        "SURN": ["Mineyko"]
+      },
+      "BIRT": {
+        "DATE": ["28 Aug 1808"],
+        "PLAC": ["Stokliszki, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1808]
+      },
+      "DEAT": {
+        "DATE": ["31 Jul 1856"],
+        "PLAC": ["Dubniki, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1856]
+      },
+      "FAMS": ["F239"],
+      "FAMC": ["F154"],
+      "gen": [13],
+      "position": [4]
+    },
+    "I578": {
+      "NAME": {
+        "GIVN": ["Emilia"],
+        "SURN": ["Wawrzecka"]
+      },
+      "BIRT": {
+        "DATE": ["1812"],
+        "CIRCA": [false],
+        "YEAR": [1812]
+      },
+      "DEAT": {
+        "DATE": ["1878"],
+        "CIRCA": [false],
+        "YEAR": [1878]
+      },
+      "FAMS": ["F239"],
+      "gen": [13],
+      "position": [5]
+    },
+    "I617": {
+      "NAME": {
+        "GIVN": ["Ludwika"],
+        "SURN": ["Mineyko"]
+      },
+      "BIRT": {
+        "DATE": ["1812"],
+        "CIRCA": [false],
+        "YEAR": [1812]
+      },
+      "FAMC": ["F154"],
+      "gen": [13],
+      "position": [6]
+    },
+    "I381": {
+      "NAME": {
+        "GIVN": ["Kazimierz"],
+        "SURN": ["Kamieński"]
+      },
+      "FAMS": ["F147"],
+      "gen": [13],
+      "position": [7]
+    },
+    "I382": {
+      "NAME": {
+        "GIVN": ["Malwina"],
+        "SURN": ["Strawińska"]
+      },
+      "FAMS": ["F147"],
+      "gen": [13],
+      "position": [8]
+    },
+    "I2216": {
+      "NAME": {
+        "GIVN": ["Edward"],
+        "SURN": ["Meysztowicz z Pojoscia"]
+      },
+      "BIRT": {
+        "DATE": ["13 Mar 1821"],
+        "PLAC": ["Pojoscie, Litwa"],
+        "CIRCA": [false],
+        "YEAR": [1821]
+      },
+      "DEAT": {
+        "DATE": ["25 May 1889"],
+        "PLAC": ["Pojoscie, Litwa"],
+        "CIRCA": [false],
+        "YEAR": [1889]
+      },
+      "FAMS": ["F903"],
+      "gen": [13],
+      "position": [9]
+    },
+    "I2217": {
+      "NAME": {
+        "GIVN": ["Maria"],
+        "SURN": ["Szyryn"]
+      },
+      "BIRT": {
+        "DATE": ["22 Oct 1841"],
+        "CIRCA": [false],
+        "YEAR": [1841]
+      },
+      "DEAT": {
+        "DATE": ["15 Jul 1912"],
+        "PLAC": ["Pojoscie, Litwa"],
+        "CIRCA": [false],
+        "YEAR": [1912]
+      },
+      "FAMS": ["F903"],
+      "gen": [13],
+      "position": [10]
+    },
+    "I109": {
+      "NAME": {
+        "GIVN": ["Władysław Kazimierz Józef Tomasz"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["14 May 1839"],
+        "PLAC": ["Bystrampol, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1839]
+      },
+      "DEAT": {
+        "DATE": ["13 Nov 1918"],
+        "CIRCA": [false],
+        "YEAR": [1918]
+      },
+      "FAMC": ["F45"],
+      "FAMS": ["F40"],
+      "gen": [14],
+      "position": [1]
+    },
+    "I132": {
+      "NAME": {
+        "GIVN": ["Celestyna"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["1843"],
+        "CIRCA": [false],
+        "YEAR": [1843]
+      },
+      "DEAT": {
+        "DATE": ["1867"],
+        "CIRCA": [false],
+        "YEAR": [1867]
+      },
+      "FAMC": ["F45"],
+      "FAMS": ["F110"],
+      "gen": [14],
+      "position": [3]
+    },
+    "I133": {
+      "NAME": {
+        "GIVN": ["Melania"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["1848"],
+        "CIRCA": [false],
+        "YEAR": [1848]
+      },
+      "DEAT": {
+        "DATE": ["12 May 1884"],
+        "CIRCA": [false],
+        "YEAR": [1884]
+      },
+      "FAMC": ["F45"],
+      "FAMS": ["F111"],
+      "gen": [14],
+      "position": [5]
+    },
+    "I134": {
+      "NAME": {
+        "GIVN": ["Kazimierz"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["1859"],
+        "PLAC": ["Bystrampol, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1859]
+      },
+      "DEAT": {
+        "DATE": ["28 Jul 1923"],
+        "PLAC": ["Vyazyn, Belarus"],
+        "CIRCA": [false],
+        "YEAR": [1923]
+      },
+      "FAMC": ["F45"],
+      "FAMS": ["F91"],
+      "gen": [14],
+      "position": [7]
+    },
+    "I473": {
+      "NAME": {
+        "GIVN": ["Emilia"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "FAMC": ["F45"],
+      "FAMS": ["F190"],
+      "gen": [14],
+      "position": [9]
+    },
+    "I110": {
+      "NAME": {
+        "GIVN": ["Michalina"],
+        "SURN": ["Kamieńska"]
+      },
+      "BIRT": {
+        "DATE": ["1850"],
+        "CIRCA": [false],
+        "YEAR": [1850]
+      },
+      "DEAT": {
+        "DATE": ["5 Oct 1934"],
+        "PLAC": ["Vilnius, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1934]
+      },
+      "FAMS": ["F40"],
+      "FAMC": ["F147"],
+      "gen": [14],
+      "position": [2]
+    },
+    "I316": {
+      "NAME": {
+        "GIVN": ["Henryk"],
+        "SURN": ["Wojnicki"]
+      },
+      "BIRT": {
+        "DATE": ["15 Nov 1832"],
+        "CIRCA": [false],
+        "YEAR": [1832]
+      },
+      "DEAT": {
+        "DATE": ["15 Aug 1915"],
+        "CIRCA": [false],
+        "YEAR": [1915]
+      },
+      "FAMS": ["F110"],
+      "gen": [14],
+      "position": [4]
+    },
+    "I317": {
+      "NAME": {
+        "GIVN": ["Jozef"],
+        "SURN": ["Hoppen"]
+      },
+      "BIRT": {
+        "DATE": ["1843"],
+        "CIRCA": [false],
+        "YEAR": [1843]
+      },
+      "DEAT": {
+        "DATE": ["15 Feb 1900"],
+        "PLAC": ["Vilnius"],
+        "CIRCA": [false],
+        "YEAR": [1900]
+      },
+      "FAMS": ["F111"],
+      "gen": [14],
+      "position": [6]
+    },
+    "I265": {
+      "NAME": {
+        "GIVN": ["Anna"],
+        "SURN": ["Szabuniewicz"]
+      },
+      "BIRT": {
+        "DATE": ["1863"],
+        "PLAC": ["Antonów, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1863]
+      },
+      "DEAT": {
+        "DATE": ["Oct 1931"],
+        "PLAC": ["Vilnius, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1931]
+      },
+      "FAMS": ["F91"],
+      "gen": [14],
+      "position": [8]
+    },
+    "I474": {
+      "NAME": {
+        "GIVN": ["Władysław"],
+        "SURN": ["Hoppen"]
+      },
+      "FAMS": ["F190"],
+      "gen": [14],
+      "position": [10]
+    },
+    "I562": {
+      "NAME": {
+        "GIVN": ["Kazimiera"],
+        "SURN": ["Kamieńska"]
+      },
+      "FAMS": ["F234"],
+      "FAMC": ["F147"],
+      "gen": [14],
+      "position": [11]
+    },
+    "I563": {
+      "NAME": {
+        "SURN": ["Szachno"]
+      },
+      "FAMS": ["F234"],
+      "gen": [14],
+      "position": [12]
+    },
+    "I438": {
+      "NAME": {
+        "GIVN": ["Aleksander Michal Marian"],
+        "SURN": ["Meysztowicz"]
+      },
+      "BIRT": {
+        "DATE": ["20 Dec 1864"],
+        "PLAC": ["Pojoscie, Litwa"],
+        "CIRCA": [false],
+        "YEAR": [1864]
+      },
+      "DEAT": {
+        "DATE": ["14 Feb 1943"],
+        "PLAC": ["Rzym, Italia"],
+        "CIRCA": [false],
+        "YEAR": [1943]
+      },
+      "FAMC": ["F903"],
+      "FAMS": ["F165"],
+      "gen": [14],
+      "position": [13]
+    },
+    "I423": {
+      "NAME": {
+        "GIVN": ["Zofia Pelagia Aleksandra"],
+        "SURN": ["Korwin Kossakowska"]
+      },
+      "BIRT": {
+        "DATE": ["23 Sep 1868"],
+        "PLAC": ["Warszawa"],
+        "CIRCA": [false],
+        "YEAR": [1868]
+      },
+      "DEAT": {
+        "DATE": ["7 Nov 1932"],
+        "CIRCA": [false],
+        "YEAR": [1932]
+      },
+      "FAMS": ["F165"],
+      "gen": [14],
+      "position": [14]
+    },
+    "I111": {
+      "NAME": {
+        "GIVN": ["Władysław Karol Kazimierz Felicjan"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["9 Jun 1874"],
+        "PLAC": ["Bystrampol, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1874]
+      },
+      "DEAT": {
+        "DATE": ["1926"],
+        "PLAC": ["Ukmerge, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1926]
+      },
+      "FAMC": ["F40"],
+      "FAMS": ["F102"],
+      "gen": [15],
+      "position": [1]
+    },
+    "I112": {
+      "NAME": {
+        "GIVN": ["Karol"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["17 Feb 1876"],
+        "PLAC": ["Bystrampol, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1876]
+      },
+      "DEAT": {
+        "DATE": ["5 Apr 1919"],
+        "PLAC": ["Upyté, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1919]
+      },
+      "FAMC": ["F40"],
+      "FAMS": ["F100"],
+      "gen": [15],
+      "position": [3]
+    },
+    "I100": {
+      "NAME": {
+        "GIVN": ["Kazimierz Eugeniusz Tomasz"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["13 Jul 1877"],
+        "PLAC": ["Bystrampol, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1877]
+      },
+      "DEAT": {
+        "DATE": ["21 Feb 1941"],
+        "PLAC": ["Vilnius, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1941]
+      },
+      "FAMC": ["F40"],
+      "FAMS": ["F37"],
+      "gen": [15],
+      "position": [5]
+    },
+    "I290": {
+      "NAME": {
+        "GIVN": ["Witold Michal"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["Mar 1879"],
+        "PLAC": ["Bystrampol, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1879]
+      },
+      "DEAT": {
+        "DATE": ["22 May 1879"],
+        "PLAC": ["Bystrampol, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1879]
+      },
+      "FAMC": ["F40"],
+      "gen": [15],
+      "position": [7]
+    },
+    "I113": {
+      "NAME": {
+        "GIVN": ["Gabriela"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["10 Apr 1880"],
+        "PLAC": ["Bystrampol, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1880]
+      },
+      "DEAT": {
+        "DATE": ["Dec 1948"],
+        "PLAC": ["Bydgoszcz, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1948]
+      },
+      "FAMC": ["F40"],
+      "FAMS": ["F123"],
+      "gen": [15],
+      "position": [8]
+    },
+    "I114": {
+      "NAME": {
+        "GIVN": ["Jadwiga"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["1880"],
+        "CIRCA": [false],
+        "YEAR": [1880]
+      },
+      "DEAT": {
+        "DATE": ["25 May 1975"],
+        "PLAC": ["Gdansk"],
+        "CIRCA": [false],
+        "YEAR": [1975]
+      },
+      "FAMC": ["F40"],
+      "FAMS": ["F124"],
+      "gen": [15],
+      "position": [10]
+    },
+    "I115": {
+      "NAME": {
+        "GIVN": ["Michalina"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["1882"],
+        "PLAC": ["Bystrampol, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1882]
+      },
+      "DEAT": {
+        "DATE": ["3 Dec 1977"],
+        "PLAC": ["Radom, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1977]
+      },
+      "FAMC": ["F40"],
+      "FAMS": ["F109"],
+      "gen": [15],
+      "position": [12]
+    },
+    "I116": {
+      "NAME": {
+        "GIVN": ["Tadeusz"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["22 Jan 1886"],
+        "PLAC": ["Bystrampol, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1886]
+      },
+      "DEAT": {
+        "DATE": ["18 Nov 1935"],
+        "PLAC": ["Vilnius, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1935]
+      },
+      "FAMC": ["F40"],
+      "FAMS": ["F98"],
+      "gen": [15],
+      "position": [14]
+    },
+    "I117": {
+      "NAME": {
+        "GIVN": ["Irena"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["19 Aug 1895"],
+        "PLAC": ["Bystrampolis, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1895]
+      },
+      "DEAT": {
+        "DATE": ["15 Feb 1960"],
+        "PLAC": ["Warsaw, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1960]
+      },
+      "FAMC": ["F40"],
+      "FAMS": ["F133"],
+      "gen": [15],
+      "position": [16]
+    },
+    "I466": {
+      "NAME": {
+        "GIVN": ["Maria"],
+        "SURN": ["Wojnicka"]
+      },
+      "BIRT": {
+        "DATE": ["1867"],
+        "CIRCA": [false],
+        "YEAR": [1867]
+      },
+      "DEAT": {
+        "DATE": ["1891"],
+        "CIRCA": [false],
+        "YEAR": [1891]
+      },
+      "FAMC": ["F110"],
+      "FAMS": ["F195"],
+      "gen": [15],
+      "position": [18]
+    },
+    "I320": {
+      "NAME": {
+        "GIVN": ["Felicja"],
+        "SURN": ["Hoppen"]
+      },
+      "BIRT": {
+        "DATE": ["1868"],
+        "CIRCA": [false],
+        "YEAR": [1868]
+      },
+      "DEAT": {
+        "DATE": ["8 Aug 1934"],
+        "PLAC": ["Meteliai,Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1934]
+      },
+      "FAMC": ["F111"],
+      "FAMS": ["F186", "F187"],
+      "gen": [15],
+      "position": [20]
+    },
+    "I321": {
+      "NAME": {
+        "GIVN": ["Emil"],
+        "SURN": ["Hoppen"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1870"],
+        "CIRCA": [true],
+        "YEAR": [1870]
+      },
+      "FAMC": ["F111"],
+      "FAMS": ["F185"],
+      "gen": [15],
+      "position": [23]
+    },
+    "I322": {
+      "NAME": {
+        "GIVN": ["Antoni"],
+        "SURN": ["Hoppen"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1870"],
+        "CIRCA": [true],
+        "YEAR": [1870]
+      },
+      "FAMC": ["F111"],
+      "gen": [15],
+      "position": [25]
+    },
+    "I323": {
+      "NAME": {
+        "GIVN": ["Witold"],
+        "SURN": ["Hoppen"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1870"],
+        "CIRCA": [true],
+        "YEAR": [1870]
+      },
+      "FAMC": ["F111"],
+      "gen": [15],
+      "position": [26]
+    },
+    "I324": {
+      "NAME": {
+        "GIVN": ["Michał"],
+        "SURN": ["Hoppen"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1870"],
+        "CIRCA": [true],
+        "YEAR": [1870]
+      },
+      "FAMC": ["F111"],
+      "FAMS": ["F232"],
+      "gen": [15],
+      "position": [27]
+    },
+    "I325": {
+      "NAME": {
+        "GIVN": ["Marian Seweryn"],
+        "SURN": ["Hoppen"]
+      },
+      "BIRT": {
+        "DATE": ["2 Jan 1878"],
+        "CIRCA": [false],
+        "YEAR": [1878]
+      },
+      "DEAT": {
+        "DATE": ["1944"],
+        "PLAC": ["Vilnius"],
+        "CIRCA": [false],
+        "YEAR": [1944]
+      },
+      "FAMC": ["F111"],
+      "FAMS": ["F188"],
+      "gen": [15],
+      "position": [29]
+    },
+    "I471": {
+      "NAME": {
+        "GIVN": ["Wiktoria"],
+        "SURN": ["Hoppen"]
+      },
+      "BIRT": {
+        "DATE": ["1881"],
+        "CIRCA": [false],
+        "YEAR": [1881]
+      },
+      "DEAT": {
+        "DATE": ["1882"],
+        "CIRCA": [false],
+        "YEAR": [1882]
+      },
+      "FAMC": ["F111"],
+      "gen": [15],
+      "position": [31]
+    },
+    "I472": {
+      "NAME": {
+        "GIVN": ["Piotr"],
+        "SURN": ["Hoppen"]
+      },
+      "BIRT": {
+        "DATE": ["1883"],
+        "CIRCA": [false],
+        "YEAR": [1883]
+      },
+      "DEAT": {
+        "DATE": ["1886"],
+        "CIRCA": [false],
+        "YEAR": [1886]
+      },
+      "FAMC": ["F111"],
+      "gen": [15],
+      "position": [32]
+    },
+    "I318": {
+      "NAME": {
+        "GIVN": ["Maria Amelia"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["1880"],
+        "CIRCA": [false],
+        "YEAR": [1880]
+      },
+      "DEAT": {
+        "DATE": ["1906"],
+        "CIRCA": [false],
+        "YEAR": [1906]
+      },
+      "FAMC": ["F91"],
+      "FAMS": ["F178"],
+      "gen": [15],
+      "position": [33]
+    },
+    "I266": {
+      "NAME": {
+        "GIVN": ["Wiktor"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["30 Jan 1884"],
+        "PLAC": ["Antonów"],
+        "CIRCA": [false],
+        "YEAR": [1884]
+      },
+      "DEAT": {
+        "DATE": ["15 Oct 1946"],
+        "PLAC": ["Warszawa"],
+        "CIRCA": [false],
+        "YEAR": [1946]
+      },
+      "FAMC": ["F91"],
+      "FAMS": ["F92", "F180"],
+      "gen": [15],
+      "position": [35]
+    },
+    "I463": {
+      "NAME": {
+        "GIVN": ["Karol Henryk"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["1885"],
+        "CIRCA": [false],
+        "YEAR": [1885]
+      },
+      "DEAT": {
+        "DATE": ["9 Jun 1886"],
+        "PLAC": ["Zmujdki, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1886]
+      },
+      "FAMC": ["F91"],
+      "gen": [15],
+      "position": [38]
+    },
+    "I267": {
+      "NAME": {
+        "GIVN": ["Stanisław"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["1887"],
+        "PLAC": ["Zmujdki"],
+        "CIRCA": [false],
+        "YEAR": [1887]
+      },
+      "DEAT": {
+        "DATE": ["1954"],
+        "PLAC": ["Slupsk"],
+        "CIRCA": [false],
+        "YEAR": [1954]
+      },
+      "FAMC": ["F91"],
+      "FAMS": ["F94"],
+      "gen": [15],
+      "position": [39]
+    },
+    "I268": {
+      "NAME": {
+        "GIVN": ["Edward"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["1889"],
+        "CIRCA": [false],
+        "YEAR": [1889]
+      },
+      "DEAT": {
+        "DATE": ["1957"],
+        "PLAC": ["Słupsk, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1957]
+      },
+      "FAMC": ["F91"],
+      "gen": [15],
+      "position": [41]
+    },
+    "I319": {
+      "NAME": {
+        "GIVN": ["Krystyna"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["1894"],
+        "CIRCA": [false],
+        "YEAR": [1894]
+      },
+      "DEAT": {
+        "DATE": ["24 Jun 1943"],
+        "PLAC": ["Zbydniów"],
+        "CIRCA": [false],
+        "YEAR": [1943]
+      },
+      "FAMC": ["F91"],
+      "FAMS": ["F184"],
+      "gen": [15],
+      "position": [42]
+    },
+    "I475": {
+      "NAME": {
+        "GIVN": ["Czesław"],
+        "SURN": ["Hoppen"]
+      },
+      "FAMC": ["F190"],
+      "FAMS": ["F191"],
+      "gen": [15],
+      "position": [44]
+    },
+    "I476": {
+      "NAME": {
+        "GIVN": ["Zofia"],
+        "SURN": ["Hoppen"]
+      },
+      "FAMC": ["F190"],
+      "FAMS": ["F192"],
+      "gen": [15],
+      "position": [46]
+    },
+    "I482": {
+      "NAME": {
+        "GIVN": ["Helena"],
+        "SURN": ["Hoppen"]
+      },
+      "FAMC": ["F190"],
+      "FAMS": ["F193"],
+      "gen": [15],
+      "position": [48]
+    },
+    "I484": {
+      "NAME": {
+        "GIVN": ["Bronisław"],
+        "SURN": ["Hoppen"]
+      },
+      "FAMC": ["F190"],
+      "gen": [15],
+      "position": [50]
+    },
+    "I298": {
+      "NAME": {
+        "GIVN": ["Waleria"],
+        "SURN": ["Kontowt"]
+      },
+      "BIRT": {
+        "DATE": ["23 Mar 1879"],
+        "CIRCA": [false],
+        "YEAR": [1879]
+      },
+      "DEAT": {
+        "DATE": ["27 Sep 1955"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1955]
+      },
+      "FAMS": ["F102"],
+      "gen": [15],
+      "position": [2]
+    },
+    "I291": {
+      "NAME": {
+        "GIVN": ["Jozefina"],
+        "SURN": ["Puzynianka"]
+      },
+      "BIRT": {
+        "DATE": ["17 Apr 1889"],
+        "PLAC": ["Wolmar, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1889]
+      },
+      "DEAT": {
+        "DATE": ["24 Jan 1927"],
+        "PLAC": ["Upyté, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1927]
+      },
+      "FAMS": ["F100"],
+      "gen": [15],
+      "position": [4]
+    },
+    "I101": {
+      "NAME": {
+        "GIVN": ["Karolina Wiktoria"],
+        "SURN": ["Bogdanowicz"]
+      },
+      "BIRT": {
+        "DATE": ["12 Jul 1879"],
+        "PLAC": ["Jamontany, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1879]
+      },
+      "DEAT": {
+        "DATE": ["27 Dec 1944"],
+        "PLAC": ["Vilnius, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1944]
+      },
+      "FAMS": ["F37"],
+      "gen": [15],
+      "position": [6]
+    },
+    "I343": {
+      "NAME": {
+        "GIVN": ["Tadeusz"],
+        "SURN": ["Łańcucki"]
+      },
+      "BIRT": {
+        "DATE": ["1861"],
+        "CIRCA": [false],
+        "YEAR": [1861]
+      },
+      "DEAT": {
+        "DATE": ["1955"],
+        "PLAC": ["Bydgoszcz, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1955]
+      },
+      "FAMS": ["F123"],
+      "gen": [15],
+      "position": [9]
+    },
+    "I344": {
+      "NAME": {
+        "GIVN": ["Edmund"],
+        "SURN": ["Rymwid-Mickiewicz"]
+      },
+      "BIRT": {
+        "DATE": ["1875"],
+        "PLAC": ["Antonów, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1875]
+      },
+      "DEAT": {
+        "DATE": ["1 Apr 1938"],
+        "PLAC": ["Warsaw, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1938]
+      },
+      "FAMS": ["F124"],
+      "gen": [15],
+      "position": [11]
+    },
+    "I315": {
+      "NAME": {
+        "GIVN": ["Michał Rudolf"],
+        "SURN": ["von Kleist"]
+      },
+      "BIRT": {
+        "DATE": ["18 Aug 1883"],
+        "PLAC": ["Warsaw, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1883]
+      },
+      "DEAT": {
+        "DATE": ["6 Dec 1936"],
+        "PLAC": ["Warsaw, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1936]
+      },
+      "FAMS": ["F109"],
+      "gen": [15],
+      "position": [13]
+    },
+    "I282": {
+      "NAME": {
+        "GIVN": ["Maria Aleksandra"],
+        "SURN": ["Meysztowicz"]
+      },
+      "BIRT": {
+        "DATE": ["22 Dec 1896"],
+        "PLAC": ["Pojoscie, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1896]
+      },
+      "DEAT": {
+        "DATE": ["22 Jan 1989"],
+        "PLAC": ["Montréal, Canada"],
+        "CIRCA": [false],
+        "YEAR": [1989]
+      },
+      "FAMS": ["F98"],
+      "FAMC": ["F165"],
+      "gen": [15],
+      "position": [15]
+    },
+    "I359": {
+      "NAME": {
+        "GIVN": ["Witold"],
+        "SURN": ["Swacinski"]
+      },
+      "BIRT": {
+        "DATE": ["1890"],
+        "CIRCA": [false],
+        "YEAR": [1890]
+      },
+      "DEAT": {
+        "DATE": ["1943"],
+        "PLAC": ["Auschwitz, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1943]
+      },
+      "FAMS": ["F133"],
+      "gen": [15],
+      "position": [17]
+    },
+    "I487": {
+      "NAME": {
+        "GIVN": ["Józef Witold"],
+        "SURN": ["Sokołowski"]
+      },
+      "BIRT": {
+        "DATE": ["1854"],
+        "CIRCA": [false],
+        "YEAR": [1854]
+      },
+      "DEAT": {
+        "DATE": ["1891"],
+        "CIRCA": [false],
+        "YEAR": [1891]
+      },
+      "FAMS": ["F195"],
+      "gen": [15],
+      "position": [19]
+    },
+    "I468": {
+      "NAME": {
+        "GIVN": ["Józef Bolesław"],
+        "SURN": ["Muszynski"]
+      },
+      "BIRT": {
+        "DATE": ["1862"],
+        "CIRCA": [false],
+        "YEAR": [1862]
+      },
+      "DEAT": {
+        "DATE": ["1926"],
+        "CIRCA": [false],
+        "YEAR": [1926]
+      },
+      "FAMS": ["F186"],
+      "gen": [15],
+      "position": [22]
+    },
+    "I469": {
+      "NAME": {
+        "GIVN": ["Piotr"],
+        "SURN": ["Kremer"]
+      },
+      "BIRT": {
+        "DATE": ["1860"],
+        "CIRCA": [false],
+        "YEAR": [1860]
+      },
+      "FAMS": ["F187"],
+      "gen": [15],
+      "position": [21]
+    },
+    "I467": {
+      "NAME": {
+        "GIVN": ["Maria"],
+        "SURN": ["Honesti"]
+      },
+      "FAMS": ["F185"],
+      "gen": [15],
+      "position": [24]
+    },
+    "I554": {
+      "NAME": {
+        "GIVN": ["Stanislawa"],
+        "SURN": ["Pomarnacka"]
+      },
+      "FAMS": ["F232"],
+      "gen": [15],
+      "position": [28]
+    },
+    "I470": {
+      "NAME": {
+        "GIVN": ["Janina Barbara"],
+        "SURN": ["Skarzynska"]
+      },
+      "BIRT": {
+        "DATE": ["15 Nov 1891"],
+        "CIRCA": [false],
+        "YEAR": [1891]
+      },
+      "DEAT": {
+        "DATE": ["1983"],
+        "PLAC": ["Lódz"],
+        "CIRCA": [false],
+        "YEAR": [1983]
+      },
+      "FAMS": ["F188"],
+      "gen": [15],
+      "position": [30]
+    },
+    "I455": {
+      "NAME": {
+        "GIVN": ["Józef"],
+        "SURN": ["Zaleski"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1870"],
+        "CIRCA": [true],
+        "YEAR": [1870]
+      },
+      "FAMS": ["F178"],
+      "gen": [15],
+      "position": [34]
+    },
+    "I269": {
+      "NAME": {
+        "GIVN": ["Leonia"],
+        "SURN": ["Kujawska"]
+      },
+      "BIRT": {
+        "DATE": ["1885"],
+        "PLAC": ["Stanislawów"],
+        "CIRCA": [false],
+        "YEAR": [1885]
+      },
+      "DEAT": {
+        "DATE": ["1941"],
+        "PLAC": ["Stanislawów"],
+        "CIRCA": [false],
+        "YEAR": [1941]
+      },
+      "FAMS": ["F92"],
+      "gen": [15],
+      "position": [36]
+    },
+    "I459": {
+      "NAME": {
+        "GIVN": ["Józefina"],
+        "SURN": ["Korwin-Piotrowska"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1890"],
+        "CIRCA": [true],
+        "YEAR": [1890]
+      },
+      "DEAT": {
+        "PLAC": ["Warsaw-Anin, Poland"]
+      },
+      "FAMS": ["F180"],
+      "gen": [15],
+      "position": [37]
+    },
+    "I273": {
+      "NAME": {
+        "GIVN": ["Helena"],
+        "SURN": ["Szemis"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1900"],
+        "CIRCA": [true],
+        "YEAR": [1900]
+      },
+      "DEAT": {
+        "DATE": ["?.7.1971"],
+        "CIRCA": [false],
+        "YEAR": [1971]
+      },
+      "FAMS": ["F94"],
+      "gen": [15],
+      "position": [40]
+    },
+    "I464": {
+      "NAME": {
+        "GIVN": ["Leon"],
+        "SURN": ["Gieczewicz"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1890"],
+        "CIRCA": [true],
+        "YEAR": [1890]
+      },
+      "FAMS": ["F184"],
+      "gen": [15],
+      "position": [43]
+    },
+    "I477": {
+      "NAME": {
+        "GIVN": ["Maria"],
+        "SURN": ["Burhardt"]
+      },
+      "FAMS": ["F191"],
+      "gen": [15],
+      "position": [45]
+    },
+    "I481": {
+      "NAME": {
+        "SURN": ["Soroka"]
+      },
+      "FAMS": ["F192"],
+      "gen": [15],
+      "position": [47]
+    },
+    "I483": {
+      "NAME": {
+        "SURN": ["Pomarnacki"]
+      },
+      "FAMS": ["F193"],
+      "gen": [15],
+      "position": [49]
+    },
+    "I299": {
+      "NAME": {
+        "GIVN": ["Jadwiga"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["23 Sep 1907"],
+        "PLAC": ["Wielka Wieś, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1907]
+      },
+      "DEAT": {
+        "DATE": ["21 Aug 1961"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1961]
+      },
+      "FAMC": ["F102"],
+      "gen": [16],
+      "position": [1]
+    },
+    "I300": {
+      "NAME": {
+        "GIVN": ["Maria"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["1 Apr 1911"],
+        "PLAC": ["Wielka Wieś, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1911]
+      },
+      "DEAT": {
+        "DATE": ["22 Mar 1977"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1977]
+      },
+      "FAMC": ["F102"],
+      "FAMS": ["F112"],
+      "gen": [16],
+      "position": [2]
+    },
+    "I301": {
+      "NAME": {
+        "GIVN": ["Mieczysław Antoni"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["9 Feb 1913"],
+        "PLAC": ["Wielka Wieś, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1913]
+      },
+      "DEAT": {
+        "DATE": ["17 May 1982"],
+        "PLAC": ["Bydgoszcz, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1982]
+      },
+      "FAMC": ["F102"],
+      "FAMS": ["F103"],
+      "gen": [16],
+      "position": [4]
+    },
+    "I292": {
+      "NAME": {
+        "GIVN": ["Karol"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["6 Dec 1911"],
+        "PLAC": ["Upyté, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1911]
+      },
+      "DEAT": {
+        "DATE": ["20 Jan 1961"],
+        "PLAC": ["Elblag, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1961]
+      },
+      "FAMC": ["F100"],
+      "FAMS": ["F101"],
+      "gen": [16],
+      "position": [6]
+    },
+    "I293": {
+      "NAME": {
+        "GIVN": ["Władysław"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["1912"],
+        "PLAC": ["Upyté, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1912]
+      },
+      "DEAT": {
+        "DATE": ["1912"],
+        "PLAC": ["Upyté, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1912]
+      },
+      "FAMC": ["F100"],
+      "gen": [16],
+      "position": [8]
+    },
+    "I294": {
+      "NAME": {
+        "GIVN": ["Tadeusz"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["1919"],
+        "PLAC": ["Upytė, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1919]
+      },
+      "DEAT": {
+        "DATE": ["1940"],
+        "PLAC": ["Upytė, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1940]
+      },
+      "FAMC": ["F100"],
+      "gen": [16],
+      "position": [9]
+    },
+    "I6": {
+      "NAME": {
+        "GIVN": ["Kazimierz Karol"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["13 Apr 1910"],
+        "PLAC": ["Riga, Latvia"],
+        "CIRCA": [false],
+        "YEAR": [1910]
+      },
+      "DEAT": {
+        "DATE": ["9 Apr 1993"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1993]
+      },
+      "FAMC": ["F37"],
+      "FAMS": ["F2"],
+      "gen": [16],
+      "position": [10]
+    },
+    "I102": {
+      "NAME": {
+        "GIVN": ["Karol Leon"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["18 Oct 1911"],
+        "PLAC": ["Kurkliai, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1911]
+      },
+      "DEAT": {
+        "DATE": ["20 Dec 1999"],
+        "PLAC": ["Lomianki, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1999]
+      },
+      "FAMC": ["F37"],
+      "FAMS": ["F120", "F121"],
+      "gen": [16],
+      "position": [12]
+    },
+    "I103": {
+      "NAME": {
+        "GIVN": ["Anna"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["3 Jul 1916"],
+        "PLAC": ["Smolensk, Russia"],
+        "CIRCA": [false],
+        "YEAR": [1916]
+      },
+      "DEAT": {
+        "DATE": ["22 Sep 1985"],
+        "PLAC": ["Poznań, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1985]
+      },
+      "FAMC": ["F37"],
+      "FAMS": ["F122"],
+      "gen": [16],
+      "position": [15]
+    },
+    "I345": {
+      "NAME": {
+        "GIVN": ["Edmund"],
+        "SURN": ["Rymwid-Mickiewicz"]
+      },
+      "BIRT": {
+        "DATE": ["1915"],
+        "CIRCA": [false],
+        "YEAR": [1915]
+      },
+      "FAMC": ["F124"],
+      "FAMS": ["F125"],
+      "gen": [16],
+      "position": [17]
+    },
+    "I350": {
+      "NAME": {
+        "GIVN": ["Jadwiga"],
+        "SURN": ["Rymwid-Mickiewicz"]
+      },
+      "BIRT": {
+        "DATE": ["1917"],
+        "CIRCA": [false],
+        "YEAR": [1917]
+      },
+      "DEAT": {
+        "DATE": ["26 Jun 2014"],
+        "PLAC": ["London, UK"],
+        "CIRCA": [false],
+        "YEAR": [2014]
+      },
+      "FAMC": ["F124"],
+      "FAMS": ["F128"],
+      "gen": [16],
+      "position": [19]
+    },
+    "I346": {
+      "NAME": {
+        "GIVN": ["Irena"],
+        "SURN": ["Rymwid-Mickiewicz"]
+      },
+      "BIRT": {
+        "DATE": ["1918"],
+        "CIRCA": [false],
+        "YEAR": [1918]
+      },
+      "DEAT": {
+        "DATE": ["1991"],
+        "CIRCA": [false],
+        "YEAR": [1991]
+      },
+      "FAMC": ["F124"],
+      "FAMS": ["F126"],
+      "gen": [16],
+      "position": [21]
+    },
+    "I349": {
+      "NAME": {
+        "GIVN": ["Antonina"],
+        "SURN": ["Rymwid-Mickiewicz"]
+      },
+      "BIRT": {
+        "DATE": ["1920"],
+        "CIRCA": [false],
+        "YEAR": [1920]
+      },
+      "FAMC": ["F124"],
+      "FAMS": ["F127"],
+      "gen": [16],
+      "position": [23]
+    },
+    "I351": {
+      "NAME": {
+        "GIVN": ["Wanda"],
+        "SURN": ["Rymwid-Mickiewicz"]
+      },
+      "BIRT": {
+        "DATE": ["1921"],
+        "CIRCA": [false],
+        "YEAR": [1921]
+      },
+      "DEAT": {
+        "DATE": ["2003"],
+        "CIRCA": [false],
+        "YEAR": [2003]
+      },
+      "FAMC": ["F124"],
+      "FAMS": ["F129"],
+      "gen": [16],
+      "position": [25]
+    },
+    "I283": {
+      "NAME": {
+        "GIVN": ["Maria Aleksandra"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["1922"],
+        "CIRCA": [false],
+        "YEAR": [1922]
+      },
+      "DEAT": {
+        "DATE": ["1928"],
+        "CIRCA": [false],
+        "YEAR": [1928]
+      },
+      "FAMC": ["F98"],
+      "gen": [16],
+      "position": [27]
+    },
+    "I284": {
+      "NAME": {
+        "GIVN": ["Aleksander Tadeusz Dominik"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["8 May 1923"],
+        "PLAC": ["Bystrampol, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1923]
+      },
+      "DEAT": {
+        "DATE": ["2 Jul 2001"],
+        "PLAC": ["London, UK"],
+        "CIRCA": [false],
+        "YEAR": [2001]
+      },
+      "FAMC": ["F98"],
+      "FAMS": ["F130"],
+      "gen": [16],
+      "position": [28]
+    },
+    "I285": {
+      "NAME": {
+        "GIVN": ["Eugeniusz Tomasz"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["4 Jul 1929"],
+        "PLAC": ["Vilnius, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1929]
+      },
+      "DEAT": {
+        "DATE": ["11 Nov 1995"],
+        "PLAC": ["Ottawa, Canada"],
+        "CIRCA": [false],
+        "YEAR": [1995]
+      },
+      "FAMC": ["F98"],
+      "FAMS": ["F99", "F132"],
+      "gen": [16],
+      "position": [30]
+    },
+    "I448": {
+      "NAME": {
+        "GIVN": ["Aleksander"],
+        "SURN": ["Swacinski"]
+      },
+      "BIRT": {
+        "DATE": ["1923"],
+        "CIRCA": [false],
+        "YEAR": [1923]
+      },
+      "DEAT": {
+        "DATE": ["1941"],
+        "PLAC": ["Auschwitz, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1941]
+      },
+      "FAMC": ["F133"],
+      "gen": [16],
+      "position": [33]
+    },
+    "I488": {
+      "NAME": {
+        "GIVN": ["Zofia"],
+        "SURN": ["Sokołowska"]
+      },
+      "BIRT": {
+        "DATE": ["1889"],
+        "CIRCA": [false],
+        "YEAR": [1889]
+      },
+      "DEAT": {
+        "DATE": ["1972"],
+        "CIRCA": [false],
+        "YEAR": [1972]
+      },
+      "FAMC": ["F195"],
+      "gen": [16],
+      "position": [34]
+    },
+    "I489": {
+      "NAME": {
+        "GIVN": ["Stanisław"],
+        "SURN": ["Sokołowski"]
+      },
+      "BIRT": {
+        "DATE": ["1890"],
+        "CIRCA": [false],
+        "YEAR": [1890]
+      },
+      "DEAT": {
+        "DATE": ["1950"],
+        "CIRCA": [false],
+        "YEAR": [1950]
+      },
+      "FAMC": ["F195"],
+      "gen": [16],
+      "position": [35]
+    },
+    "I553": {
+      "NAME": {
+        "GIVN": ["Janusz"],
+        "SURN": ["Muszynski"]
+      },
+      "FAMC": ["F186"],
+      "gen": [16],
+      "position": [41]
+    },
+    "I1086": {
+      "NAME": {
+        "GIVN": ["Józef"],
+        "SURN": ["Muszynski"]
+      },
+      "BIRT": {
+        "DATE": ["1887"],
+        "CIRCA": [false],
+        "YEAR": [1887]
+      },
+      "DEAT": {
+        "DATE": ["1895"],
+        "CIRCA": [false],
+        "YEAR": [1895]
+      },
+      "FAMC": ["F186"],
+      "gen": [16],
+      "position": [36]
+    },
+    "I1087": {
+      "NAME": {
+        "GIVN": ["Antoni Konstanty"],
+        "SURN": ["Muszynski"]
+      },
+      "BIRT": {
+        "DATE": ["1891"],
+        "CIRCA": [false],
+        "YEAR": [1891]
+      },
+      "DEAT": {
+        "DATE": ["1914"],
+        "CIRCA": [false],
+        "YEAR": [1914]
+      },
+      "FAMC": ["F186"],
+      "gen": [16],
+      "position": [37]
+    },
+    "I552": {
+      "NAME": {
+        "GIVN": ["Maria"],
+        "SURN": ["Muszynska"]
+      },
+      "BIRT": {
+        "DATE": ["1893"],
+        "CIRCA": [false],
+        "YEAR": [1893]
+      },
+      "DEAT": {
+        "DATE": ["1981"],
+        "CIRCA": [false],
+        "YEAR": [1981]
+      },
+      "FAMC": ["F186"],
+      "gen": [16],
+      "position": [38]
+    },
+    "I1088": {
+      "NAME": {
+        "GIVN": ["Feliks Franciszek"],
+        "SURN": ["Muszynski"]
+      },
+      "BIRT": {
+        "DATE": ["1899"],
+        "CIRCA": [false],
+        "YEAR": [1899]
+      },
+      "DEAT": {
+        "DATE": ["1920"],
+        "CIRCA": [false],
+        "YEAR": [1920]
+      },
+      "FAMC": ["F186"],
+      "gen": [16],
+      "position": [39]
+    },
+    "I1089": {
+      "NAME": {
+        "GIVN": ["Jan Jakub"],
+        "SURN": ["Muszynski"]
+      },
+      "BIRT": {
+        "DATE": ["1900"],
+        "CIRCA": [false],
+        "YEAR": [1900]
+      },
+      "DEAT": {
+        "DATE": ["ca 1970"],
+        "CIRCA": [true],
+        "YEAR": [1970]
+      },
+      "FAMC": ["F186"],
+      "gen": [16],
+      "position": [40]
+    },
+    "I555": {
+      "NAME": {
+        "GIVN": ["Kazimierz"],
+        "SURN": ["Hoppen"]
+      },
+      "FAMC": ["F232"],
+      "gen": [16],
+      "position": [42]
+    },
+    "I556": {
+      "NAME": {
+        "GIVN": ["Marian"],
+        "SURN": ["Hoppen"]
+      },
+      "FAMC": ["F232"],
+      "gen": [16],
+      "position": [43]
+    },
+    "I557": {
+      "NAME": {
+        "GIVN": ["Antoni"],
+        "SURN": ["Hoppen"]
+      },
+      "FAMC": ["F232"],
+      "gen": [16],
+      "position": [44]
+    },
+    "I1095": {
+      "NAME": {
+        "GIVN": ["Jadwiga"],
+        "SURN": ["Hoppen"]
+      },
+      "BIRT": {
+        "DATE": ["1921"],
+        "CIRCA": [false],
+        "YEAR": [1921]
+      },
+      "DEAT": {
+        "DATE": ["2005"],
+        "CIRCA": [false],
+        "YEAR": [2005]
+      },
+      "FAMC": ["F188"],
+      "gen": [16],
+      "position": [45]
+    },
+    "I1096": {
+      "NAME": {
+        "GIVN": ["Edward"],
+        "SURN": ["Hoppen"]
+      },
+      "BIRT": {
+        "DATE": ["1923"],
+        "CIRCA": [false],
+        "YEAR": [1923]
+      },
+      "DEAT": {
+        "DATE": ["1998"],
+        "CIRCA": [false],
+        "YEAR": [1998]
+      },
+      "FAMC": ["F188"],
+      "gen": [16],
+      "position": [46]
+    },
+    "I1097": {
+      "NAME": {
+        "GIVN": ["Czeslaw"],
+        "SURN": ["Hoppen"]
+      },
+      "BIRT": {
+        "DATE": ["1925"],
+        "CIRCA": [false],
+        "YEAR": [1925]
+      },
+      "DEAT": {
+        "DATE": ["1944"],
+        "CIRCA": [false],
+        "YEAR": [1944]
+      },
+      "FAMC": ["F188"],
+      "gen": [16],
+      "position": [47]
+    },
+    "I456": {
+      "NAME": {
+        "GIVN": ["Irena"],
+        "SURN": ["Zaleska"]
+      },
+      "BIRT": {
+        "DATE": ["30 Mar 1902"],
+        "CIRCA": [false],
+        "YEAR": [1902]
+      },
+      "DEAT": {
+        "DATE": ["2 Feb 1984"],
+        "CIRCA": [false],
+        "YEAR": [1984]
+      },
+      "FAMC": ["F178"],
+      "gen": [16],
+      "position": [48]
+    },
+    "I270": {
+      "NAME": {
+        "GIVN": ["Jerzy"],
+        "SURN": ["Bystram z Radlina"]
+      },
+      "BIRT": {
+        "DATE": ["9 Sept 1911"],
+        "PLAC": ["Gostkowo, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1911]
+      },
+      "DEAT": {
+        "DATE": ["27 Apr 1971"],
+        "PLAC": ["Plock"],
+        "CIRCA": [false],
+        "YEAR": [1971]
+      },
+      "FAMC": ["F92"],
+      "gen": [16],
+      "position": [49]
+    },
+    "I465": {
+      "NAME": {
+        "GIVN": ["Leon"],
+        "SURN": ["Gieczewicz"]
+      },
+      "BIRT": {
+        "DATE": ["1930"],
+        "CIRCA": [false],
+        "YEAR": [1930]
+      },
+      "DEAT": {
+        "DATE": ["24 Jun 1943"],
+        "PLAC": ["Zbydniów, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1943]
+      },
+      "FAMC": ["F184"],
+      "gen": [16],
+      "position": [50]
+    },
+    "I478": {
+      "NAME": {
+        "GIVN": ["Kazimierz"],
+        "SURN": ["Hoppen"]
+      },
+      "FAMC": ["F191"],
+      "gen": [16],
+      "position": [51]
+    },
+    "I479": {
+      "NAME": {
+        "GIVN": ["Władysław"],
+        "SURN": ["Hoppen"]
+      },
+      "FAMC": ["F191"],
+      "gen": [16],
+      "position": [52]
+    },
+    "I480": {
+      "NAME": {
+        "GIVN": ["Stanisław"],
+        "SURN": ["Hoppen"]
+      },
+      "FAMC": ["F191"],
+      "gen": [16],
+      "position": [53]
+    },
+    "I326": {
+      "NAME": {
+        "GIVN": ["Emeryk"],
+        "SURN": ["Pozerski"]
+      },
+      "BIRT": {
+        "DATE": ["17 May 1906"],
+        "PLAC": ["Towiany, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1906]
+      },
+      "DEAT": {
+        "DATE": ["11 Aug 1979"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1979]
+      },
+      "FAMS": ["F112"],
+      "gen": [16],
+      "position": [3]
+    },
+    "I303": {
+      "NAME": {
+        "GIVN": ["Alina"],
+        "SURN": ["Jacuńska"]
+      },
+      "BIRT": {
+        "DATE": ["7 Jul 1917"],
+        "PLAC": ["Szemetyszki, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1917]
+      },
+      "DEAT": {
+        "PLAC": ["Kołuda Mała, Poland"]
+      },
+      "FAMS": ["F103"],
+      "gen": [16],
+      "position": [5]
+    },
+    "I295": {
+      "NAME": {
+        "GIVN": ["Ida"],
+        "SURN": ["Zaleska"]
+      },
+      "BIRT": {
+        "DATE": ["1 Apr 1912"],
+        "PLAC": ["Sauliai, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1912]
+      },
+      "DEAT": {
+        "DATE": ["28 May 1997"],
+        "PLAC": ["Zegrze Płd, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1997]
+      },
+      "FAMS": ["F101"],
+      "gen": [16],
+      "position": [7]
+    },
+    "I7": {
+      "NAME": {
+        "GIVN": ["Halina Maria"],
+        "SURN": ["Domańska"]
+      },
+      "BIRT": {
+        "DATE": ["26 Jul 1917"],
+        "PLAC": ["Paris, France"],
+        "CIRCA": [false],
+        "YEAR": [1917]
+      },
+      "DEAT": {
+        "DATE": ["24 May 2012"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [2012]
+      },
+      "FAMS": ["F2"],
+      "gen": [16],
+      "position": [11]
+    },
+    "I340": {
+      "NAME": {
+        "GIVN": ["Irena"],
+        "SURN": ["Kopystynska"]
+      },
+      "BIRT": {
+        "DATE": ["17 Oct 1909"],
+        "PLAC": ["Ejreniszki, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1909]
+      },
+      "DEAT": {
+        "DATE": ["28 Aug 1954"],
+        "PLAC": ["Zakopane, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1954]
+      },
+      "FAMS": ["F120"],
+      "gen": [16],
+      "position": [13]
+    },
+    "I341": {
+      "NAME": {
+        "GIVN": ["Wanda"],
+        "SURN": ["Chwastowska"]
+      },
+      "BIRT": {
+        "DATE": ["30 Apr 1916"],
+        "PLAC": ["Lviv, Ukraine"],
+        "CIRCA": [false],
+        "YEAR": [1916]
+      },
+      "DEAT": {
+        "DATE": ["16 Feb 2006"],
+        "PLAC": ["Gliwice, Poland"],
+        "CIRCA": [false],
+        "YEAR": [2006]
+      },
+      "FAMS": ["F121"],
+      "gen": [16],
+      "position": [14]
+    },
+    "I342": {
+      "NAME": {
+        "GIVN": ["Kazimierz Ludwik"],
+        "SURN": ["Slaski"]
+      },
+      "BIRT": {
+        "DATE": ["2 Feb 1912"],
+        "PLAC": ["Orlowo, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1912]
+      },
+      "DEAT": {
+        "DATE": ["14 Jun 1990"],
+        "PLAC": ["Poznan, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1990]
+      },
+      "FAMS": ["F122"],
+      "gen": [16],
+      "position": [16]
+    },
+    "I348": {
+      "NAME": {
+        "GIVN": ["Krystyna"],
+        "SURN": ["Burhardt"]
+      },
+      "BIRT": {
+        "DATE": ["1930"],
+        "CIRCA": [false],
+        "YEAR": [1930]
+      },
+      "FAMS": ["F125"],
+      "gen": [16],
+      "position": [18]
+    },
+    "I354": {
+      "NAME": {
+        "GIVN": ["Borys"],
+        "SURN": ["Karnicki"]
+      },
+      "BIRT": {
+        "DATE": ["25 Sep 1907"],
+        "PLAC": ["Vladivostok, Russia"],
+        "CIRCA": [false],
+        "YEAR": [1907]
+      },
+      "DEAT": {
+        "DATE": ["15 Feb 1985"],
+        "PLAC": ["London, UK"],
+        "CIRCA": [false],
+        "YEAR": [1985]
+      },
+      "FAMS": ["F128"],
+      "gen": [16],
+      "position": [20]
+    },
+    "I352": {
+      "NAME": {
+        "GIVN": ["Tadeusz"],
+        "SURN": ["Olańczuk"]
+      },
+      "BIRT": {
+        "DATE": ["1912"],
+        "CIRCA": [false],
+        "YEAR": [1912]
+      },
+      "DEAT": {
+        "DATE": ["1972"],
+        "CIRCA": [false],
+        "YEAR": [1972]
+      },
+      "FAMS": ["F126"],
+      "gen": [16],
+      "position": [22]
+    },
+    "I353": {
+      "NAME": {
+        "GIVN": ["Henryk Tadeusz"],
+        "SURN": ["Bartmański"]
+      },
+      "BIRT": {
+        "DATE": ["1911"],
+        "CIRCA": [false],
+        "YEAR": [1911]
+      },
+      "DEAT": {
+        "DATE": ["2002"],
+        "CIRCA": [false],
+        "YEAR": [2002]
+      },
+      "FAMS": ["F127"],
+      "gen": [16],
+      "position": [24]
+    },
+    "I355": {
+      "NAME": {
+        "GIVN": ["Kazimierz"],
+        "SURN": ["Druet"]
+      },
+      "BIRT": {
+        "DATE": ["1910"],
+        "CIRCA": [false],
+        "YEAR": [1910]
+      },
+      "DEAT": {
+        "DATE": ["1991"],
+        "CIRCA": [false],
+        "YEAR": [1991]
+      },
+      "FAMS": ["F129"],
+      "gen": [16],
+      "position": [26]
+    },
+    "I356": {
+      "NAME": {
+        "GIVN": ["Micheline"],
+        "SURN": ["Cuypers"]
+      },
+      "BIRT": {
+        "DATE": ["23 Nov 1918"],
+        "PLAC": ["Amsterdam, Holland"],
+        "CIRCA": [false],
+        "YEAR": [1918]
+      },
+      "DEAT": {
+        "DATE": ["21 Jan 2014"],
+        "PLAC": ["London, UK"],
+        "CIRCA": [false],
+        "YEAR": [2014]
+      },
+      "FAMS": ["F130"],
+      "gen": [16],
+      "position": [29]
+    },
+    "I286": {
+      "NAME": {
+        "GIVN": ["Agota Maria Maia"],
+        "SURN": ["Pethö"]
+      },
+      "BIRT": {
+        "DATE": ["2 Feb 1934"],
+        "PLAC": ["Nagykanizsa, Hungary"],
+        "CIRCA": [false],
+        "YEAR": [1934]
+      },
+      "DEAT": {
+        "DATE": ["14 Jan 1994"],
+        "PLAC": ["Gatineau, Canada"],
+        "CIRCA": [false],
+        "YEAR": [1994]
+      },
+      "FAMS": ["F99"],
+      "gen": [16],
+      "position": [31]
+    },
+    "I358": {
+      "NAME": {
+        "GIVN": ["Irena Antonina"],
+        "SURN": ["Ronikier-Dolańska"]
+      },
+      "BIRT": {
+        "DATE": ["13 Jun 1941"],
+        "PLAC": ["Grebów, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1941]
+      },
+      "DEAT": {
+        "DATE": ["24 Oct 2006"],
+        "PLAC": ["Ottawa, Canada"],
+        "CIRCA": [false],
+        "YEAR": [2006]
+      },
+      "FAMS": ["F132"],
+      "gen": [16],
+      "position": [32]
+    },
+    "I1746": {
+      "NAME": {
+        "GIVN": ["Marian"],
+        "SURN": ["Pozerski"]
+      },
+      "BIRT": {
+        "DATE": ["30 Jan 1937"],
+        "PLAC": ["Szowków, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1937]
+      },
+      "DEAT": {
+        "DATE": ["?.10.1983"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1983]
+      },
+      "FAMC": ["F112"],
+      "FAMS": ["F699"],
+      "gen": [17],
+      "position": [1]
+    },
+    "I1751": {
+      "NAME": {
+        "GIVN": ["Grazyna"],
+        "SURN": ["Glowacka"]
+      },
+      "BIRT": {
+        "DATE": ["4 Mar 1939"],
+        "CIRCA": [false],
+        "YEAR": [1939]
+      },
+      "FAMS": ["F699"],
+      "gen": [17],
+      "position": [2]
+    },
+    "I1747": {
+      "NAME": {
+        "GIVN": ["Jadwiga"],
+        "SURN": ["Pozerska"]
+      },
+      "BIRT": {
+        "DATE": ["20 Sep 1938"],
+        "PLAC": ["Szowków, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1938]
+      },
+      "FAMC": ["F112"],
+      "gen": [17],
+      "position": [3]
+    },
+    "I1748": {
+      "NAME": {
+        "GIVN": ["Krystyna"],
+        "SURN": ["Pozerska"]
+      },
+      "BIRT": {
+        "DATE": ["5 Feb 1947"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1947]
+      },
+      "FAMC": ["F112"],
+      "FAMS": ["F702"],
+      "gen": [17],
+      "position": [4]
+    },
+    "I1760": {
+      "NAME": {
+        "GIVN": ["Ernst Otfried"],
+        "SURN": ["Beyer"]
+      },
+      "BIRT": {
+        "DATE": ["1944"],
+        "CIRCA": [false],
+        "YEAR": [1944]
+      },
+      "DEAT": {
+        "DATE": ["2008"],
+        "CIRCA": [false],
+        "YEAR": [2008]
+      },
+      "FAMS": ["F702"],
+      "gen": [17],
+      "position": [5]
+    },
+    "I1749": {
+      "NAME": {
+        "GIVN": ["Danuta"],
+        "SURN": ["Pozerska"]
+      },
+      "BIRT": {
+        "DATE": ["2 Dec 1948"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1948]
+      },
+      "FAMC": ["F112"],
+      "gen": [17],
+      "position": [6]
+    },
+    "I1750": {
+      "NAME": {
+        "GIVN": ["Jan"],
+        "SURN": ["Pozerski"]
+      },
+      "BIRT": {
+        "DATE": ["22 Jun 1951"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1951]
+      },
+      "FAMC": ["F112"],
+      "FAMS": ["F703"],
+      "gen": [17],
+      "position": [7]
+    },
+    "I1762": {
+      "NAME": {
+        "GIVN": ["Miroslawa"],
+        "SURN": ["Fryza"]
+      },
+      "BIRT": {
+        "DATE": ["24 Mar 1953"],
+        "CIRCA": [false],
+        "YEAR": [1953]
+      },
+      "FAMS": ["F703"],
+      "gen": [17],
+      "position": [8]
+    },
+    "I304": {
+      "NAME": {
+        "GIVN": ["Zofia"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["20 Sep 1942"],
+        "PLAC": ["Szemetyski, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1942]
+      },
+      "DEAT": {
+        "DATE": ["24 Mar 1999"],
+        "PLAC": ["Białe Błota, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1999]
+      },
+      "FAMC": ["F103"],
+      "FAMS": ["F113", "F114"],
+      "gen": [17],
+      "position": [9]
+    },
+    "I327": {
+      "NAME": {
+        "GIVN": ["Leon"],
+        "SURN": ["Zimiński"]
+      },
+      "BIRT": {
+        "DATE": ["1940"],
+        "CIRCA": [false],
+        "YEAR": [1940]
+      },
+      "FAMS": ["F113"],
+      "gen": [17],
+      "position": [10]
+    },
+    "I329": {
+      "NAME": {
+        "GIVN": ["Seweryn"],
+        "SURN": ["Dziadoń"]
+      },
+      "BIRT": {
+        "DATE": ["8 Jan 1946"],
+        "PLAC": ["Dabrowa Wielka, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1946]
+      },
+      "FAMS": ["F114"],
+      "gen": [17],
+      "position": [11]
+    },
+    "I305": {
+      "NAME": {
+        "GIVN": ["Kazimierz Władysław"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["11 Sep 1946"],
+        "PLAC": ["Bydgoszcz, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1946]
+      },
+      "DEAT": {
+        "DATE": ["6 Oct 1946"],
+        "PLAC": ["Bydgoszcz, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1946]
+      },
+      "FAMC": ["F103"],
+      "gen": [17],
+      "position": [12]
+    },
+    "I296": {
+      "NAME": {
+        "GIVN": ["Maria"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["18 Dec 1934"],
+        "PLAC": ["Upytė, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1934]
+      },
+      "FAMC": ["F101"],
+      "FAMS": ["F116", "F117"],
+      "gen": [17],
+      "position": [13]
+    },
+    "I333": {
+      "NAME": {
+        "GIVN": ["Edward"],
+        "SURN": ["Trzcinski"]
+      },
+      "BIRT": {
+        "DATE": ["1930"],
+        "CIRCA": [false],
+        "YEAR": [1930]
+      },
+      "FAMS": ["F116"],
+      "gen": [17],
+      "position": [14]
+    },
+    "I335": {
+      "NAME": {
+        "GIVN": ["Tadeusz"],
+        "SURN": ["Kocinski"]
+      },
+      "BIRT": {
+        "DATE": ["1929"],
+        "CIRCA": [false],
+        "YEAR": [1929]
+      },
+      "FAMS": ["F117"],
+      "gen": [17],
+      "position": [15]
+    },
+    "I297": {
+      "NAME": {
+        "GIVN": ["Stanisława Ida"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["5 May 1936"],
+        "PLAC": ["Upytė, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1936]
+      },
+      "FAMC": ["F101"],
+      "FAMS": ["F115"],
+      "gen": [17],
+      "position": [16]
+    },
+    "I330": {
+      "NAME": {
+        "GIVN": ["Kazimierz"],
+        "SURN": ["Wisniewski"]
+      },
+      "BIRT": {
+        "DATE": ["1929"],
+        "CIRCA": [false],
+        "YEAR": [1929]
+      },
+      "DEAT": {
+        "DATE": ["2009"],
+        "CIRCA": [false],
+        "YEAR": [2009]
+      },
+      "FAMS": ["F115"],
+      "gen": [17],
+      "position": [17]
+    },
+    "I4": {
+      "NAME": {
+        "GIVN": ["Krzysztof Karol Maria"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["27 Dec 1948"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1948]
+      },
+      "FAMC": ["F2"],
+      "FAMS": ["F1"],
+      "gen": [17],
+      "position": [18]
+    },
+    "I5": {
+      "NAME": {
+        "GIVN": ["Hermelinda"],
+        "SURN": ["Cornelis"]
+      },
+      "BIRT": {
+        "DATE": ["4 Jun 1951"],
+        "PLAC": ["Leuven, Belgium"],
+        "CIRCA": [false],
+        "YEAR": [1951]
+      },
+      "FAMS": ["F1"],
+      "gen": [17],
+      "position": [19]
+    },
+    "I91": {
+      "NAME": {
+        "GIVN": ["Zygmunt Tadeusz Maria"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["13 Oct 1951"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1951]
+      },
+      "DEAT": {
+        "DATE": ["28 Oct 2000"],
+        "PLAC": ["Brodnica, Poland"],
+        "CIRCA": [false],
+        "YEAR": [2000]
+      },
+      "FAMC": ["F2"],
+      "FAMS": ["F104"],
+      "gen": [17],
+      "position": [20]
+    },
+    "I306": {
+      "NAME": {
+        "GIVN": ["Barbara"],
+        "SURN": ["Chrzaniecka"]
+      },
+      "BIRT": {
+        "DATE": ["14 Nov 1950"],
+        "CIRCA": [false],
+        "YEAR": [1950]
+      },
+      "FAMS": ["F104"],
+      "gen": [17],
+      "position": [21]
+    },
+    "I92": {
+      "NAME": {
+        "GIVN": ["Maria Kazimiera Anna"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["8 Jan 1953"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1953]
+      },
+      "DEAT": {
+        "DATE": ["5 Jun 2017"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [2017]
+      },
+      "FAMC": ["F2"],
+      "FAMS": ["F38"],
+      "gen": [17],
+      "position": [22]
+    },
+    "I104": {
+      "NAME": {
+        "GIVN": ["Christian"],
+        "SURN": ["Hamel"]
+      },
+      "BIRT": {
+        "DATE": ["3 Jan 1955"],
+        "PLAC": ["Lille, France"],
+        "CIRCA": [false],
+        "YEAR": [1955]
+      },
+      "FAMS": ["F38"],
+      "gen": [17],
+      "position": [23]
+    },
+    "I288": {
+      "NAME": {
+        "GIVN": ["Catherine Maria Sophia"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["31 Oct 1959"],
+        "PLAC": ["Montreal, Canada"],
+        "CIRCA": [false],
+        "YEAR": [1959]
+      },
+      "FAMC": ["F99"],
+      "FAMS": ["F131"],
+      "gen": [17],
+      "position": [24]
+    },
+    "I357": {
+      "NAME": {
+        "GIVN": ["Robert Christopher"],
+        "SURN": ["Plowright"]
+      },
+      "BIRT": {
+        "DATE": ["1938"],
+        "CIRCA": [false],
+        "YEAR": [1938],
+        "PLAC": ["Sheffield, UK"]
+      },
+      "FAMS": ["F131"],
+      "gen": [17],
+      "position": [25]
+    },
+    "I287": {
+      "NAME": {
+        "GIVN": ["Alexander Stephan Charles"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["24 Sep 1961"],
+        "PLAC": ["Montreal, Canada"],
+        "CIRCA": [false],
+        "YEAR": [1961]
+      },
+      "FAMC": ["F99"],
+      "FAMS": ["F902"],
+      "gen": [17],
+      "position": [26]
+    },
+    "I2213": {
+      "NAME": {
+        "GIVN": ["Lynne"],
+        "SURN": ["Chichackian"]
+      },
+      "FAMS": ["F902"],
+      "BIRT": {
+        "DATE": ["September 9, 1962"],
+        "YEAR": [1962],
+        "PLAC": ["Toronto, Canada"]
+      },
+      "gen": [17],
+      "position": [27]
+    },
+    "I289": {
+      "NAME": {
+        "GIVN": ["Elisabeth Anne"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["11 Nov 1962"],
+        "PLAC": ["Montréal, Canada"],
+        "CIRCA": [false],
+        "YEAR": [1962]
+      },
+      "FAMC": ["F99"],
+      "FAMS": ["F176"],
+      "gen": [17],
+      "position": [28]
+    },
+    "I447": {
+      "NAME": {
+        "GIVN": ["Pierre"],
+        "SURN": ["Tremblay"]
+      },
+      "FAMS": ["F176"],
+      "BIRT": {
+        "DATE": ["August 18, 1961"],
+        "YEAR": [1961],
+        "PLAC": ["Ottawa, Canada"]
+      },
+      "gen": [17],
+      "position": [29]
+    },
+    "I1752": {
+      "NAME": {
+        "GIVN": ["Leszek"],
+        "SURN": ["Pozerski"]
+      },
+      "BIRT": {
+        "DATE": ["7 Nov 1958"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1958]
+      },
+      "FAMC": ["F699"],
+      "FAMS": ["F700"],
+      "gen": [18],
+      "position": [1]
+    },
+    "I1753": {
+      "NAME": {
+        "GIVN": ["Jolanta"],
+        "SURN": ["Ziemienczyk"]
+      },
+      "BIRT": {
+        "DATE": ["ca.1960"],
+        "CIRCA": [true],
+        "YEAR": [1960]
+      },
+      "FAMS": ["F700"],
+      "gen": [18],
+      "position": [2]
+    },
+    "I1756": {
+      "NAME": {
+        "GIVN": ["Anna"],
+        "SURN": ["Pozerska"]
+      },
+      "BIRT": {
+        "DATE": ["12 May 1960"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1960]
+      },
+      "FAMC": ["F699"],
+      "FAMS": ["F701"],
+      "gen": [18],
+      "position": [3]
+    },
+    "I1757": {
+      "NAME": {
+        "GIVN": ["Witold"],
+        "SURN": ["Opilka"]
+      },
+      "FAMS": ["F701"],
+      "gen": [18],
+      "position": [4]
+    },
+    "I1761": {
+      "NAME": {
+        "GIVN": ["Kamila"],
+        "SURN": ["Beyer"]
+      },
+      "BIRT": {
+        "DATE": ["6 Dec 1985"],
+        "PLAC": ["Meissen, Germany"],
+        "CIRCA": [false],
+        "YEAR": [1985]
+      },
+      "FAMC": ["F702"],
+      "gen": [18],
+      "position": [5]
+    },
+    "I1763": {
+      "NAME": {
+        "GIVN": ["Dorota"],
+        "SURN": ["Pozerska"]
+      },
+      "BIRT": {
+        "DATE": ["12 Nov 1976"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1976]
+      },
+      "FAMC": ["F703"],
+      "FAMS": ["F704"],
+      "gen": [18],
+      "position": [6]
+    },
+    "I1765": {
+      "NAME": {
+        "GIVN": ["Igor"],
+        "SURN": ["Borecki"]
+      },
+      "BIRT": {
+        "DATE": ["12 Nov 1978"],
+        "CIRCA": [false],
+        "YEAR": [1978]
+      },
+      "FAMS": ["F704"],
+      "gen": [18],
+      "position": [7]
+    },
+    "I1764": {
+      "NAME": {
+        "GIVN": ["Daria"],
+        "SURN": ["Pozerska"]
+      },
+      "BIRT": {
+        "DATE": ["13 Dec 1977"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1977]
+      },
+      "FAMC": ["F703"],
+      "FAMS": ["F705"],
+      "gen": [18],
+      "position": [8]
+    },
+    "I1767": {
+      "NAME": {
+        "GIVN": ["Krzysztof"],
+        "SURN": ["Konicki"]
+      },
+      "BIRT": {
+        "DATE": ["11 Jul 1976"],
+        "CIRCA": [false],
+        "YEAR": [1976]
+      },
+      "FAMS": ["F705"],
+      "gen": [18],
+      "position": [9]
+    },
+    "I328": {
+      "NAME": {
+        "GIVN": ["Alina Mieczysława"],
+        "SURN": ["Zimińska"]
+      },
+      "BIRT": {
+        "DATE": ["1965"],
+        "CIRCA": [false],
+        "YEAR": [1965]
+      },
+      "FAMC": ["F113"],
+      "gen": [18],
+      "position": [10]
+    },
+    "I334": {
+      "NAME": {
+        "GIVN": ["Tomasz"],
+        "SURN": ["Trzcinski"]
+      },
+      "BIRT": {
+        "DATE": ["6 Aug 1962"],
+        "PLAC": ["Mława, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1962]
+      },
+      "FAMC": ["F116"],
+      "FAMS": ["F160"],
+      "gen": [18],
+      "position": [11]
+    },
+    "I410": {
+      "NAME": {
+        "GIVN": ["Marzena"],
+        "SURN": ["Borkowska"]
+      },
+      "BIRT": {
+        "DATE": ["1970"],
+        "CIRCA": [false],
+        "YEAR": [1970]
+      },
+      "FAMS": ["F160"],
+      "gen": [18],
+      "position": [12]
+    },
+    "I414": {
+      "NAME": {
+        "GIVN": ["Anna"],
+        "SURN": ["Kocinski"]
+      },
+      "FAMC": ["F117"],
+      "FAMS": ["F161"],
+      "gen": [18],
+      "position": [13]
+    },
+    "I415": {
+      "NAME": {
+        "SURN": ["Gwardys"]
+      },
+      "FAMS": ["F161"],
+      "gen": [18],
+      "position": [14]
+    },
+    "I331": {
+      "NAME": {
+        "GIVN": ["Grzegorz Karol"],
+        "SURN": ["Wisniewski"]
+      },
+      "BIRT": {
+        "DATE": ["1959"],
+        "CIRCA": [false],
+        "YEAR": [1959]
+      },
+      "DEAT": {
+        "DATE": ["2009"],
+        "CIRCA": [false],
+        "YEAR": [2009]
+      },
+      "FAMC": ["F115"],
+      "gen": [18],
+      "position": [15]
+    },
+    "I332": {
+      "NAME": {
+        "GIVN": ["Wojciech Kazimierz"],
+        "SURN": ["Wisniewski"]
+      },
+      "BIRT": {
+        "DATE": ["1962"],
+        "CIRCA": [false],
+        "YEAR": [1962]
+      },
+      "FAMC": ["F115"],
+      "gen": [18],
+      "position": [16]
+    },
+    "I1": {
+      "NAME": {
+        "GIVN": ["Jan Kazimierz"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["14 Apr 1980"],
+        "PLAC": ["Leuven, Belgium"],
+        "CIRCA": [false],
+        "YEAR": [1980]
+      },
+      "FAMC": ["F1"],
+      "gen": [18],
+      "position": [17]
+    },
+    "I2": {
+      "NAME": {
+        "GIVN": ["Karolina Maria"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["17 Dec 1981"],
+        "PLAC": ["Leuven, Belgium"],
+        "CIRCA": [false],
+        "YEAR": [1981]
+      },
+      "FAMC": ["F1"],
+      "FAMS": ["F34"],
+      "gen": [18],
+      "position": [18]
+    },
+    "I94": {
+      "NAME": {
+        "GIVN": ["Mattias"],
+        "SURN": ["Van Dyck"]
+      },
+      "BIRT": {
+        "DATE": ["4 Oct 1987"],
+        "CIRCA": [false],
+        "YEAR": [1987]
+      },
+      "FAMS": ["F34"],
+      "gen": [18],
+      "position": [19]
+    },
+    "I3": {
+      "NAME": {
+        "GIVN": ["Stefan Karol"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["6 May 1986"],
+        "PLAC": ["Leuven, Belgium"],
+        "CIRCA": [false],
+        "YEAR": [1986]
+      },
+      "FAMC": ["F1"],
+      "FAMS": ["F35"],
+      "gen": [18],
+      "position": [20]
+    },
+    "I97": {
+      "NAME": {
+        "GIVN": ["Titilayo"],
+        "SURN": ["Obiri"]
+      },
+      "BIRT": {
+        "DATE": ["8 Jun 1988"],
+        "PLAC": ["Nashville, USA"],
+        "CIRCA": [false],
+        "YEAR": [1988]
+      },
+      "FAMS": ["F35"],
+      "gen": [18],
+      "position": [21]
+    },
+    "I307": {
+      "NAME": {
+        "GIVN": ["Andrzej Zygmunt"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["9 Feb 1980"],
+        "PLAC": ["Chełmno, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1980]
+      },
+      "FAMC": ["F104"],
+      "FAMS": ["F118", "F119"],
+      "gen": [18],
+      "position": [22]
+    },
+    "I336": {
+      "NAME": {
+        "GIVN": ["Justyna"],
+        "SURN": ["Kwiatkowska"]
+      },
+      "BIRT": {
+        "DATE": ["1980"],
+        "CIRCA": [false],
+        "YEAR": [1980]
+      },
+      "FAMS": ["F118"],
+      "gen": [18],
+      "position": [23]
+    },
+    "I338": {
+      "NAME": {
+        "GIVN": ["Agnieszka"],
+        "SURN": ["Wyłoga"]
+      },
+      "BIRT": {
+        "DATE": ["2 Jul 1980"],
+        "CIRCA": [false],
+        "YEAR": [1980]
+      },
+      "FAMS": ["F119"],
+      "gen": [18],
+      "position": [24]
+    },
+    "I308": {
+      "NAME": {
+        "GIVN": ["Przemysław Zygmunt"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["4 Jul 1984"],
+        "PLAC": ["Chełmno, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1984]
+      },
+      "FAMC": ["F104"],
+      "FAMS": ["F107"],
+      "gen": [18],
+      "position": [25]
+    },
+    "I313": {
+      "NAME": {
+        "GIVN": ["Monika"],
+        "SURN": ["Niedzwiedzka"]
+      },
+      "FAMS": ["F107"],
+      "gen": [18],
+      "position": [26]
+    },
+    "I106": {
+      "NAME": {
+        "GIVN": ["Agata"],
+        "SURN": ["Hamel"]
+      },
+      "BIRT": {
+        "DATE": ["20 Feb 1979"],
+        "PLAC": ["Lille, France"],
+        "CIRCA": [false],
+        "YEAR": [1979]
+      },
+      "FAMC": ["F38"],
+      "FAMS": ["F168", "F169"],
+      "gen": [18],
+      "position": [27]
+    },
+    "I429": {
+      "NAME": {},
+      "FAMS": ["F168"],
+      "gen": [18],
+      "position": [28]
+    },
+    "I430": {
+      "NAME": {
+        "GIVN": ["Eric"],
+        "SURN": ["Vagnol"]
+      },
+      "BIRT": {
+        "DATE": ["5 Jan 1977"],
+        "PLAC": ["Gap, France"],
+        "CIRCA": [false],
+        "YEAR": [1977]
+      },
+      "FAMS": ["F169"],
+      "gen": [18],
+      "position": [29]
+    },
+    "I105": {
+      "NAME": {
+        "GIVN": ["Caroline"],
+        "SURN": ["Hamel"]
+      },
+      "BIRT": {
+        "DATE": ["1981"],
+        "CIRCA": [false],
+        "YEAR": [1981]
+      },
+      "FAMC": ["F38"],
+      "gen": [18],
+      "position": [30]
+    },
+    "I2210": {
+      "NAME": {
+        "GIVN": ["Andrew Alexander"],
+        "SURN": ["Plowright"]
+      },
+      "BIRT": {
+        "DATE": ["22 Apr 1986"],
+        "PLAC": ["Toronto, Canada"],
+        "CIRCA": [false],
+        "YEAR": [1986]
+      },
+      "FAMC": ["F131"],
+      "gen": [18],
+      "position": [31]
+    },
+    "I445": {
+      "NAME": {
+        "GIVN": ["Carl Elizabeth"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["3 Jun 1991"],
+        "PLAC": ["Ottawa, Canada"],
+        "CIRCA": [false],
+        "YEAR": [1991]
+      },
+      "FAMC": ["F131"],
+      "gen": [18],
+      "position": [32]
+    },
+    "I446": {
+      "NAME": {
+        "GIVN": ["Isabele Anne"],
+        "SURN": ["Plowright"]
+      },
+      "BIRT": {
+        "DATE": ["3 Jun 1991"],
+        "PLAC": ["Ottawa, Canada"],
+        "CIRCA": [false],
+        "YEAR": [1991]
+      },
+      "FAMC": ["F131"],
+      "gen": [18],
+      "position": [33]
+    },
+    "I2214": {
+      "NAME": {
+        "GIVN": ["Anya"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["18 Mar 1997"],
+        "PLAC": ["Toronto, Canada"],
+        "CIRCA": [false],
+        "YEAR": [1997]
+      },
+      "FAMC": ["F902"],
+      "gen": [18],
+      "position": [34]
+    },
+    "I2215": {
+      "NAME": {
+        "GIVN": ["Justine"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["20 Dec 2000"],
+        "PLAC": ["Toronto, Canada"],
+        "CIRCA": [false],
+        "YEAR": [2000]
+      },
+      "FAMC": ["F902"],
+      "gen": [18],
+      "position": [35]
+    },
+    "I2211": {
+      "NAME": {
+        "GIVN": ["Matthew"],
+        "SURN": ["Tremblay"]
+      },
+      "BIRT": {
+        "DATE": ["19 Dec 1992"],
+        "CIRCA": [false],
+        "YEAR": [1992],
+        "PLAC": ["Ottawa, Canada"]
+      },
+      "FAMC": ["F176"],
+      "gen": [18],
+      "position": [36]
+    },
+    "I2212": {
+      "NAME": {
+        "GIVN": ["Michael"],
+        "SURN": ["Tremblay"]
+      },
+      "BIRT": {
+        "DATE": ["12 Nov 1994"],
+        "CIRCA": [false],
+        "YEAR": [1994],
+        "PLAC": ["Ottawa, Canada"]
+      },
+      "FAMC": ["F176"],
+      "gen": [18],
+      "position": [37]
+    },
+    "I1754": {
+      "NAME": {
+        "GIVN": ["Pawel"],
+        "SURN": ["Pozerski"]
+      },
+      "BIRT": {
+        "DATE": ["7 Sep 1982"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1982]
+      },
+      "FAMC": ["F700"],
+      "gen": [19],
+      "position": [1]
+    },
+    "I1755": {
+      "NAME": {
+        "GIVN": ["Sandra"],
+        "SURN": ["Pozerska"]
+      },
+      "BIRT": {
+        "DATE": ["7 Feb 1995"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1995]
+      },
+      "FAMC": ["F700"],
+      "gen": [19],
+      "position": [2]
+    },
+    "I1758": {
+      "NAME": {
+        "GIVN": ["Dagmara"],
+        "SURN": ["Opilka"]
+      },
+      "BIRT": {
+        "DATE": ["4 Oct 1983"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1983]
+      },
+      "FAMC": ["F701"],
+      "gen": [19],
+      "position": [3]
+    },
+    "I1759": {
+      "NAME": {
+        "GIVN": ["Michal"],
+        "SURN": ["Opilka"]
+      },
+      "BIRT": {
+        "DATE": ["25 Feb 1987"],
+        "CIRCA": [false],
+        "YEAR": [1987]
+      },
+      "FAMC": ["F701"],
+      "gen": [19],
+      "position": [4]
+    },
+    "I1766": {
+      "NAME": {
+        "GIVN": ["Tamara Joanna"],
+        "SURN": ["Borecka"]
+      },
+      "BIRT": {
+        "DATE": ["21 Aug 2009"],
+        "CIRCA": [false],
+        "YEAR": [2009]
+      },
+      "FAMC": ["F704"],
+      "gen": [19],
+      "position": [5]
+    },
+    "I1768": {
+      "NAME": {
+        "GIVN": ["Kaja"],
+        "SURN": ["Konicka"]
+      },
+      "BIRT": {
+        "DATE": ["4 Oct 2003"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [2003]
+      },
+      "FAMC": ["F705"],
+      "gen": [19],
+      "position": [6]
+    },
+    "I1769": {
+      "NAME": {
+        "GIVN": ["Karina"],
+        "SURN": ["Konicka"]
+      },
+      "BIRT": {
+        "DATE": ["7 Sep 2005"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [2005]
+      },
+      "FAMC": ["F705"],
+      "gen": [19],
+      "position": [7]
+    },
+    "I411": {
+      "NAME": {
+        "GIVN": ["Marta"],
+        "SURN": ["Trzcinska"]
+      },
+      "BIRT": {
+        "DATE": ["1991"],
+        "CIRCA": [false],
+        "YEAR": [1991]
+      },
+      "DEAT": {
+        "DATE": ["2002"],
+        "CIRCA": [false],
+        "YEAR": [2002]
+      },
+      "FAMC": ["F160"],
+      "gen": [19],
+      "position": [8]
+    },
+    "I412": {
+      "NAME": {
+        "GIVN": ["Wojciech"],
+        "SURN": ["Trzcinski"]
+      },
+      "BIRT": {
+        "DATE": ["1997"],
+        "CIRCA": [false],
+        "YEAR": [1997]
+      },
+      "FAMC": ["F160"],
+      "gen": [19],
+      "position": [9]
+    },
+    "I413": {
+      "NAME": {
+        "GIVN": ["Aleksandra"],
+        "SURN": ["Trzcinska"]
+      },
+      "BIRT": {
+        "DATE": ["2006"],
+        "CIRCA": [false],
+        "YEAR": [2006]
+      },
+      "FAMC": ["F160"],
+      "gen": [19],
+      "position": [10]
+    },
+    "I95": {
+      "NAME": {
+        "GIVN": ["Olivia"],
+        "SURN": ["Van Dyck"]
+      },
+      "BIRT": {
+        "DATE": ["8 Jan 2015"],
+        "PLAC": ["Leuven, Belgium"],
+        "CIRCA": [false],
+        "YEAR": [2015]
+      },
+      "FAMC": ["F34"],
+      "gen": [19],
+      "position": [11]
+    },
+    "I96": {
+      "NAME": {
+        "GIVN": ["Stan"],
+        "SURN": ["Van Dyck"]
+      },
+      "BIRT": {
+        "DATE": ["5 Jul 2017"],
+        "PLAC": ["Leuven, Belgium"],
+        "CIRCA": [false],
+        "YEAR": [2017]
+      },
+      "FAMC": ["F34"],
+      "gen": [19],
+      "position": [12]
+    },
+    "I1181": {
+      "NAME": {
+        "GIVN": ["Isabelle"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["13 Aug 2019"],
+        "PLAC": ["Leuven, Belgium"],
+        "CIRCA": [false],
+        "YEAR": [2019]
+      },
+      "FAMC": ["F35"],
+      "gen": [19],
+      "position": [13]
+    },
+    "I337": {
+      "NAME": {
+        "GIVN": ["Natalia Agnieszka"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["2007"],
+        "PLAC": ["Gdansk, Poland"],
+        "CIRCA": [false],
+        "YEAR": [2007]
+      },
+      "FAMC": ["F118"],
+      "gen": [19],
+      "position": [14]
+    },
+    "I339": {
+      "NAME": {
+        "GIVN": ["Wiktoria Agnieszka"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "DATE": ["Oct 2014"],
+        "PLAC": ["Gdansk, Poland"],
+        "CIRCA": [false],
+        "YEAR": [2014]
+      },
+      "FAMC": ["F119"],
+      "gen": [19],
+      "position": [15]
+    },
+    "I431": {
+      "NAME": {
+        "GIVN": ["Chloé"],
+        "SURN": ["Vagnol"]
+      },
+      "BIRT": {
+        "DATE": ["15 Sep 2017"],
+        "PLAC": ["Gap, France"],
+        "CIRCA": [false],
+        "YEAR": [2017]
+      },
+      "FAMC": ["F169"],
+      "gen": [19],
+      "position": [16]
+    }
+  },
+  "families": {
+    "F59": {
+      "HUSB": ["I187"],
+      "WIFE": ["I188"],
+      "CHIL": ["I184", "I189", "I190", "I191", "I192"]
+    },
+    "F60": {
+      "HUSB": ["I193"],
+      "WIFE": ["I194"],
+      "MARR": {
+        "DATE": ["ca.1585"],
+        "CIRCA": [true],
+        "YEAR": [1585]
+      },
+      "CHIL": ["I195", "I187", "I196", "I197", "I198", "I199", "I1785"]
+    },
+    "F61": {
+      "HUSB": ["I200"],
+      "WIFE": ["I201"],
+      "CHIL": ["I193", "I202"]
+    },
+    "F62": {
+      "HUSB": ["I203"],
+      "WIFE": ["I1131"],
+      "MARR": {
+        "DATE": ["ca.1480"],
+        "CIRCA": [true],
+        "YEAR": [1480]
+      },
+      "CHIL": ["I205", "I206", "I200", "I207", "I208"]
+    },
+    "F63": {
+      "HUSB": ["I209"],
+      "WIFE": ["I210"],
+      "MARR": {
+        "DATE": ["ca.1440"],
+        "CIRCA": [true],
+        "YEAR": [1440]
+      },
+      "CHIL": ["I203", "I212", "I211"]
+    },
+    "F474": {
+      "HUSB": ["I1134"],
+      "WIFE": ["I1135"],
+      "MARR": {
+        "DATE": ["ca.1400"],
+        "CIRCA": [true],
+        "YEAR": [1400]
+      },
+      "CHIL": ["I209"]
+    },
+    "F64": {
+      "HUSB": ["I213"],
+      "WIFE": ["I214"],
+      "CHIL": ["I1134"]
+    },
+    "F477": {
+      "HUSB": ["I1134"],
+      "WIFE": ["I1138"],
+      "MARR": {
+        "DATE": ["ca.1400"],
+        "CIRCA": [true],
+        "YEAR": [1400]
+      }
+    },
+    "F714": {
+      "HUSB": ["I1132"],
+      "WIFE": ["I1787"],
+      "CHIL": ["I210", "I893"]
+    },
+    "F475": {
+      "HUSB": ["I510"],
+      "WIFE": ["I1136"],
+      "CHIL": ["I1132"]
+    },
+    "F207": {
+      "HUSB": ["I510"],
+      "WIFE": ["I511"],
+      "MARR": {
+        "DATE": ["ca.1430"],
+        "CIRCA": [true],
+        "YEAR": [1430]
+      }
+    },
+    "F473": {
+      "HUSB": ["I1132"],
+      "WIFE": ["I1133"],
+      "MARR": {
+        "DATE": ["ca.1470"],
+        "CIRCA": [true],
+        "YEAR": [1470]
+      }
+    },
+    "F69": {
+      "HUSB": ["I212"],
+      "WIFE": ["I223"]
+    },
+    "F65": {
+      "HUSB": ["I211"],
+      "WIFE": ["I216"]
+    },
+    "F68": {
+      "HUSB": ["I206"],
+      "WIFE": ["I221"],
+      "MARR": {
+        "DATE": ["ca.1505"],
+        "CIRCA": [true],
+        "YEAR": [1505]
+      }
+    },
+    "F208": {
+      "HUSB": ["I512"],
+      "WIFE": ["I513"],
+      "CHIL": ["I201"]
+    },
+    "F82": {
+      "HUSB": ["I202"],
+      "WIFE": ["I247"]
+    },
+    "F209": {
+      "HUSB": ["I514"],
+      "WIFE": ["I515"],
+      "CHIL": ["I194"]
+    },
+    "F78": {
+      "HUSB": ["I195"],
+      "WIFE": ["I240"]
+    },
+    "F77": {
+      "HUSB": ["I196"],
+      "WIFE": ["I239"]
+    },
+    "F76": {
+      "HUSB": ["I197"],
+      "WIFE": ["I238"]
+    },
+    "F75": {
+      "HUSB": ["I198"],
+      "WIFE": ["I1496"]
+    },
+    "F74": {
+      "HUSB": ["I199"],
+      "WIFE": ["I236"]
+    },
+    "F712": {
+      "HUSB": ["I1786"],
+      "WIFE": ["I1785"]
+    },
+    "F58": {
+      "HUSB": ["I184"],
+      "WIFE": ["I185"],
+      "MARR": {
+        "DATE": ["ca.1640"],
+        "CIRCA": [true],
+        "YEAR": [1640]
+      },
+      "CHIL": ["I179", "I1277"]
+    },
+    "F141": {
+      "HUSB": ["I179"],
+      "WIFE": ["I377"],
+      "MARR": {
+        "DATE": ["po 20 Jul 1672"],
+        "CIRCA": [false],
+        "YEAR": [1672]
+      },
+      "CHIL": ["I384", "I182", "I383"]
+    },
+    "F57": {
+      "HUSB": ["I179"],
+      "WIFE": ["I180"],
+      "MARR": {
+        "DATE": ["ca1670"],
+        "CIRCA": [true],
+        "YEAR": [1670]
+      },
+      "CHIL": ["I181", "I177", "I183"]
+    },
+
+    "F529": {
+      "HUSB": ["I1277"],
+      "WIFE": ["I1278"],
+      "CHIL": ["I1280", "I186"]
+    },
+    "F206": {
+      "HUSB": ["I189"],
+      "WIFE": ["I509"],
+      "MARR": {
+        "DATE": ["ca.1630"],
+        "CIRCA": [true],
+        "YEAR": [1630]
+      },
+      "CHIL": ["I377"]
+    },
+    "F84": {
+      "HUSB": ["I190"],
+      "WIFE": ["I249"],
+      "CHIL": ["I360"]
+    },
+    "F134": {
+      "HUSB": ["I360"],
+      "WIFE": ["I361"],
+      "MARR": {
+        "DATE": ["ca.1674"],
+        "CIRCA": [true],
+        "YEAR": [1674]
+      },
+      "CHIL": ["I362", "I503"]
+    },
+    "F85": {
+      "HUSB": ["I191"],
+      "WIFE": ["I250"]
+    },
+    "F86": {
+      "HUSB": ["I192"],
+      "WIFE": ["I251"],
+      "MARR": {
+        "DATE": ["ca.1650"],
+        "CIRCA": [true],
+        "YEAR": [1650]
+      }
+    },
+    "F205": {
+      "HUSB": ["I507"],
+      "WIFE": ["I508"],
+      "CHIL": ["I188", "I1294"]
+    },
+    "F145": {
+      "HUSB": ["I385"],
+      "WIFE": ["I384"],
+      "MARR": {
+        "DATE": ["1696"],
+        "CIRCA": [false],
+        "YEAR": [1696]
+      }
+    },
+    "F146": {
+      "HUSB": ["I386"],
+      "WIFE": ["I384"],
+      "MARR": {
+        "DATE": ["1698"],
+        "CIRCA": [false],
+        "YEAR": [1698]
+      }
+    },
+    "F97": {
+      "HUSB": ["I182"],
+      "WIFE": ["I280"],
+      "CHIL": ["I281"]
+    },
+    "F424": {
+      "HUSB": ["I1031"],
+      "WIFE": ["I383"],
+      "MARR": {
+        "DATE": ["ca.1689"],
+        "CIRCA": [true],
+        "YEAR": [1689]
+      }
+    },
+    "F95": {
+      "HUSB": ["I181"],
+      "WIFE": ["I274"],
+      "CHIL": ["I275", "I276"]
+    },
+    "F56": {
+      "HUSB": ["I177"],
+      "WIFE": ["I178"],
+      "MARR": {
+        "DATE": ["ca.1720"],
+        "CIRCA": [true],
+        "YEAR": [1720]
+      },
+      "CHIL": ["I137"]
+    },
+    "F144": {
+      "HUSB": ["I177"],
+      "WIFE": ["I392"],
+      "MARR": {
+        "DATE": ["23 Jun 1726"],
+        "CIRCA": [false],
+        "YEAR": [1726]
+      }
+    },
+    "F88": {
+      "HUSB": ["I183"],
+      "WIFE": ["I2218"],
+      "CHIL": ["I254", "I255", "I256"]
+    },
+    "F531": {
+      "HUSB": ["I1280"],
+      "WIFE": ["I1281"],
+      "CHIL": ["I1283"]
+    },
+    "F532": {
+      "HUSB": ["I1280"],
+      "WIFE": ["I1282"]
+    },
+    "F530": {
+      "HUSB": ["I186"],
+      "WIFE": ["I1279"]
+    },
+    "F87": {
+      "HUSB": ["I186"],
+      "WIFE": ["I252"],
+      "CHIL": ["I1288"]
+    },
+    "F96": {
+      "HUSB": ["I276"],
+      "WIFE": ["I277"],
+      "CHIL": ["I278", "I279"]
+    },
+    "F47": {
+      "HUSB": ["I137"],
+      "WIFE": ["I138"],
+      "MARR": {
+        "DATE": ["1770"],
+        "CIRCA": [false],
+        "YEAR": [1770]
+      },
+      "CHIL": ["I139", "I1788", "I1789", "I1790", "I135"]
+    },
+    "F445": {
+      "HUSB": ["I137"],
+      "WIFE": ["I1068"],
+      "CHIL": ["I263", "I264", "I393", "I394", "I395"]
+    },
+    "F89": {
+      "HUSB": ["I254"],
+      "WIFE": ["I257"],
+      "CHIL": ["I259", "I388", "I258", "I389"]
+    },
+    "F90": {
+      "HUSB": ["I255"],
+      "WIFE": ["I260"],
+      "CHIL": ["I261", "I262", "I390", "I391"]
+    },
+    "F150": {
+      "HUSB": ["I396"],
+      "WIFE": ["I139"],
+      "MARR": {
+        "DATE": ["ca.1790"],
+        "CIRCA": [true],
+        "YEAR": [1790]
+      }
+    },
+    "F46": {
+      "HUSB": ["I135"],
+      "WIFE": ["I136"],
+      "MARR": {
+        "DATE": ["1810"],
+        "CIRCA": [false],
+        "YEAR": [1810]
+      },
+      "CHIL": ["I1791", "I130"]
+    },
+    "F152": {
+      "HUSB": ["I397"],
+      "WIFE": ["I393"],
+      "MARR": {
+        "DATE": ["ca.1790"],
+        "CIRCA": [true],
+        "YEAR": [1790]
+      }
+    },
+    "F45": {
+      "HUSB": ["I130"],
+      "WIFE": ["I131"],
+      "MARR": {
+        "DATE": ["1838"],
+        "CIRCA": [false],
+        "YEAR": [1838]
+      },
+      "CHIL": ["I109", "I132", "I133", "I134", "I473"]
+    },
+    "F40": {
+      "HUSB": ["I109"],
+      "WIFE": ["I110"],
+      "MARR": {
+        "DATE": ["21 Nov 1872"],
+        "PLAC": ["Kurkle, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1872]
+      },
+      "CHIL": ["I111", "I112", "I100", "I290", "I113", "I114", "I115", "I116", "I117"]
+    },
+    "F110": {
+      "HUSB": ["I316"],
+      "WIFE": ["I132"],
+      "MARR": {
+        "DATE": ["ca.1860"],
+        "CIRCA": [true],
+        "YEAR": [1860]
+      },
+      "CHIL": ["I466"]
+    },
+    "F111": {
+      "HUSB": ["I317"],
+      "WIFE": ["I133"],
+      "MARR": {
+        "DATE": ["ca.1860"],
+        "CIRCA": [true],
+        "YEAR": [1860]
+      },
+      "CHIL": ["I320", "I321", "I322", "I323", "I324", "I325", "I471", "I472"]
+    },
+    "F91": {
+      "HUSB": ["I134"],
+      "WIFE": ["I265"],
+      "MARR": {
+        "DATE": ["1883"],
+        "PLAC": ["Antonów"],
+        "CIRCA": [false],
+        "YEAR": [1883]
+      },
+      "CHIL": ["I318", "I266", "I463", "I267", "I268", "I319"]
+    },
+    "F190": {
+      "HUSB": ["I474"],
+      "WIFE": ["I473"],
+      "CHIL": ["I475", "I476", "I482", "I484"]
+    },
+    "F49": {
+      "HUSB": ["I141"],
+      "WIFE": ["I142"],
+      "MARR": {
+        "DATE": ["1780"],
+        "CIRCA": [false],
+        "YEAR": [1780]
+      },
+      "CHIL": ["I136", "I143", "I144"]
+    },
+    "F102": {
+      "HUSB": ["I111"],
+      "WIFE": ["I298"],
+      "MARR": {
+        "DATE": ["1906"],
+        "PLAC": ["Szowków, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1906]
+      },
+      "CHIL": ["I299", "I300", "I301"]
+    },
+    "F100": {
+      "HUSB": ["I112"],
+      "WIFE": ["I291"],
+      "CHIL": ["I292", "I293", "I294"]
+    },
+    "F37": {
+      "HUSB": ["I100"],
+      "WIFE": ["I101"],
+      "MARR": {
+        "DATE": ["29 Apr 1909"],
+        "PLAC": ["Rozalimas, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1909]
+      },
+      "CHIL": ["I6", "I102", "I103"]
+    },
+    "F123": {
+      "HUSB": ["I343"],
+      "WIFE": ["I113"],
+      "MARR": {
+        "DATE": ["7 Jan 1912"],
+        "PLAC": ["Bistrampolis, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1912]
+      }
+    },
+    "F124": {
+      "HUSB": ["I344"],
+      "WIFE": ["I114"],
+      "MARR": {
+        "DATE": ["1910"],
+        "PLAC": ["Bistrampolis, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1910]
+      },
+      "CHIL": ["I345", "I350", "I346", "I349", "I351"]
+    },
+    "F109": {
+      "HUSB": ["I315"],
+      "WIFE": ["I115"],
+      "MARR": {
+        "DATE": ["29 Sep 1923"],
+        "PLAC": ["Warsaw, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1923]
+      }
+    },
+    "F98": {
+      "HUSB": ["I116"],
+      "WIFE": ["I282"],
+      "MARR": {
+        "DATE": ["11 Apr 1921"],
+        "PLAC": ["Kaunas, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1921]
+      },
+      "CHIL": ["I283", "I284", "I285"]
+    },
+    "F133": {
+      "HUSB": ["I359"],
+      "WIFE": ["I117"],
+      "MARR": {
+        "DATE": ["1922"],
+        "PLAC": ["Warsaw, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1922]
+      },
+      "CHIL": ["I448"]
+    },
+    "F195": {
+      "HUSB": ["I487"],
+      "WIFE": ["I466"],
+      "MARR": {
+        "DATE": ["ca.1888"],
+        "CIRCA": [true],
+        "YEAR": [1888]
+      },
+      "CHIL": ["I488", "I489"]
+    },
+    "F186": {
+      "HUSB": ["I468"],
+      "WIFE": ["I320"],
+      "CHIL": ["I553", "I1086", "I1087", "I552", "I1088", "I1089"]
+    },
+    "F187": {
+      "HUSB": ["I469"],
+      "WIFE": ["I320"],
+      "MARR": {
+        "DATE": ["ca.1880"],
+        "CIRCA": [true],
+        "YEAR": [1880]
+      }
+    },
+    "F185": {
+      "HUSB": ["I321"],
+      "WIFE": ["I467"]
+    },
+    "F232": {
+      "HUSB": ["I324"],
+      "WIFE": ["I554"],
+      "CHIL": ["I555", "I556", "I557"]
+    },
+    "F188": {
+      "HUSB": ["I325"],
+      "WIFE": ["I470"],
+      "MARR": {
+        "DATE": ["ca.1920"],
+        "CIRCA": [true],
+        "YEAR": [1920]
+      },
+      "CHIL": ["I1095", "I1096", "I1097"]
+    },
+    "F178": {
+      "HUSB": ["I455"],
+      "WIFE": ["I318"],
+      "MARR": {
+        "DATE": ["ca.1900"],
+        "CIRCA": [true],
+        "YEAR": [1900]
+      },
+      "CHIL": ["I456"]
+    },
+    "F92": {
+      "HUSB": ["I266"],
+      "WIFE": ["I269"],
+      "MARR": {
+        "DATE": ["ca.1910"],
+        "CIRCA": [true],
+        "YEAR": [1910]
+      },
+      "CHIL": ["I270"]
+    },
+    "F180": {
+      "HUSB": ["I266"],
+      "WIFE": ["I459"],
+      "MARR": {
+        "DATE": ["ca.1945"],
+        "CIRCA": [true],
+        "YEAR": [1945]
+      }
+    },
+    "F94": {
+      "HUSB": ["I267"],
+      "WIFE": ["I273"],
+      "MARR": {
+        "DATE": ["ca.1910"],
+        "PLAC": ["Vilnius, Lithuania"],
+        "CIRCA": [true],
+        "YEAR": [1910]
+      }
+    },
+    "F184": {
+      "HUSB": ["I464"],
+      "WIFE": ["I319"],
+      "MARR": {
+        "DATE": ["ca.1920"],
+        "CIRCA": [true],
+        "YEAR": [1920]
+      },
+      "CHIL": ["I465"]
+    },
+    "F191": {
+      "HUSB": ["I475"],
+      "WIFE": ["I477"],
+      "CHIL": ["I478", "I479", "I480"]
+    },
+    "F192": {
+      "HUSB": ["I481"],
+      "WIFE": ["I476"]
+    },
+    "F193": {
+      "HUSB": ["I483"],
+      "WIFE": ["I482"]
+    },
+    "F154": {
+      "HUSB": ["I400"],
+      "WIFE": ["I401"],
+      "MARR": {
+        "DATE": ["25 Oct 1807"],
+        "PLAC": ["Hanuszyszki, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1807]
+      },
+      "CHIL": ["I577", "I617", "I131"]
+    },
+    "F239": {
+      "HUSB": ["I577"],
+      "WIFE": ["I578"]
+    },
+    "F112": {
+      "HUSB": ["I326"],
+      "WIFE": ["I300"],
+      "MARR": {
+        "DATE": ["27 Jun 1934"],
+        "PLAC": ["Szowków, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1934]
+      },
+      "CHIL": ["I1746", "I1747", "I1748", "I1749", "I1750"]
+    },
+    "F699": {
+      "HUSB": ["I1746"],
+      "WIFE": ["I1751"],
+      "MARR": {
+        "DATE": ["ca.1950"],
+        "PLAC": ["Torun, Poland"],
+        "CIRCA": [true],
+        "YEAR": [1950]
+      },
+      "CHIL": ["I1752", "I1756"]
+    },
+    "F700": {
+      "HUSB": ["I1752"],
+      "WIFE": ["I1753"],
+      "MARR": {
+        "DATE": ["ca.1980"],
+        "CIRCA": [true],
+        "YEAR": [1980]
+      },
+      "CHIL": ["I1754", "I1755"]
+    },
+    "F701": {
+      "HUSB": ["I1757"],
+      "WIFE": ["I1756"],
+      "MARR": {
+        "DATE": ["ca.1980"],
+        "CIRCA": [true],
+        "YEAR": [1980]
+      },
+      "CHIL": ["I1758", "I1759"]
+    },
+    "F702": {
+      "HUSB": ["I1760"],
+      "WIFE": ["I1748"],
+      "MARR": {
+        "DATE": ["ca.1985"],
+        "CIRCA": [true],
+        "YEAR": [1985]
+      },
+      "CHIL": ["I1761"]
+    },
+    "F703": {
+      "HUSB": ["I1750"],
+      "WIFE": ["I1762"],
+      "MARR": {
+        "DATE": ["ca.1975"],
+        "CIRCA": [true],
+        "YEAR": [1975]
+      },
+      "CHIL": ["I1763", "I1764"]
+    },
+    "F704": {
+      "HUSB": ["I1765"],
+      "WIFE": ["I1763"],
+      "MARR": {
+        "DATE": ["ca.2000"],
+        "CIRCA": [true],
+        "YEAR": [2000]
+      },
+      "CHIL": ["I1766"]
+    },
+    "F705": {
+      "HUSB": ["I1767"],
+      "WIFE": ["I1764"],
+      "MARR": {
+        "DATE": ["ca.200"],
+        "CIRCA": [true],
+        "YEAR": []
+      },
+      "CHIL": ["I1768", "I1769"]
+    },
+    "F103": {
+      "HUSB": ["I301"],
+      "WIFE": ["I303"],
+      "MARR": {
+        "DATE": ["1940"],
+        "CIRCA": [false],
+        "YEAR": [1940]
+      },
+      "CHIL": ["I304", "I305"]
+    },
+    "F113": {
+      "HUSB": ["I327"],
+      "WIFE": ["I304"],
+      "MARR": {
+        "DATE": ["1960"],
+        "CIRCA": [false],
+        "YEAR": [1960]
+      },
+      "CHIL": ["I328"]
+    },
+    "F114": {
+      "HUSB": ["I329"],
+      "WIFE": ["I304"],
+      "MARR": {
+        "DATE": ["27 Mar 1976"],
+        "PLAC": ["Bydgoszcz, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1976]
+      }
+    },
+    "F101": {
+      "HUSB": ["I292"],
+      "WIFE": ["I295"],
+      "MARR": {
+        "DATE": ["1933"],
+        "CIRCA": [false],
+        "YEAR": [1933]
+      },
+      "CHIL": ["I296", "I297"]
+    },
+    "F116": {
+      "HUSB": ["I333"],
+      "WIFE": ["I296"],
+      "MARR": {
+        "DATE": ["1960"],
+        "CIRCA": [false],
+        "YEAR": [1960]
+      },
+      "CHIL": ["I334"]
+    },
+    "F160": {
+      "HUSB": ["I334"],
+      "WIFE": ["I410"],
+      "CHIL": ["I411", "I412", "I413"]
+    },
+    "F117": {
+      "HUSB": ["I335"],
+      "WIFE": ["I296"],
+      "MARR": {
+        "DATE": ["Jun 1965"],
+        "PLAC": ["Gizycko"],
+        "CIRCA": [false],
+        "YEAR": [1965]
+      },
+      "CHIL": ["I414"]
+    },
+    "F161": {
+      "HUSB": ["I414"],
+      "WIFE": ["I415"]
+    },
+    "F115": {
+      "HUSB": ["I330"],
+      "WIFE": ["I297"],
+      "MARR": {
+        "DATE": ["1958"],
+        "CIRCA": [false],
+        "YEAR": [1958]
+      },
+      "CHIL": ["I331", "I332"]
+    },
+    "F2": {
+      "HUSB": ["I6"],
+      "WIFE": ["I7"],
+      "MARR": {
+        "DATE": ["8 Feb 1948"],
+        "CIRCA": [false],
+        "YEAR": [1948]
+      },
+      "CHIL": ["I4", "I91", "I92"]
+    },
+    "F1": {
+      "HUSB": ["I4"],
+      "WIFE": ["I5"],
+      "MARR": {
+        "DATE": ["8 Sep 1977"],
+        "PLAC": ["Leuven, Belgium"],
+        "CIRCA": [false],
+        "YEAR": [1977]
+      },
+      "CHIL": ["I1", "I2", "I3"]
+    },
+    "F34": {
+      "HUSB": ["I94"],
+      "WIFE": ["I2"],
+      "CHIL": ["I95", "I96"]
+    },
+    "F35": {
+      "HUSB": ["I3"],
+      "WIFE": ["I97"],
+      "MARR": {
+        "DATE": ["19 Sep 2014"],
+        "PLAC": ["Leuven, Belgium"],
+        "CIRCA": [false],
+        "YEAR": [2014]
+      },
+      "CHIL": ["I1181"]
+    },
+    "F104": {
+      "HUSB": ["I91"],
+      "WIFE": ["I306"],
+      "MARR": {
+        "DATE": ["7 Jul 1977"],
+        "PLAC": ["Brodnica, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1977]
+      },
+      "CHIL": ["I307", "I308"]
+    },
+    "F118": {
+      "HUSB": ["I307"],
+      "WIFE": ["I336"],
+      "MARR": {
+        "DATE": ["25 Jun 2000"],
+        "PLAC": ["Gdansk, Poland"],
+        "CIRCA": [false],
+        "YEAR": [2000]
+      },
+      "CHIL": ["I337"]
+    },
+    "F119": {
+      "HUSB": ["I307"],
+      "WIFE": ["I338"],
+      "CHIL": ["I339"]
+    },
+    "F107": {
+      "HUSB": ["I308"],
+      "WIFE": ["I313"],
+      "MARR": {
+        "DATE": ["3 Jul 2015"],
+        "PLAC": ["Brodnica, Poland"],
+        "CIRCA": [false],
+        "YEAR": [2015]
+      }
+    },
+    "F38": {
+      "HUSB": ["I104"],
+      "WIFE": ["I92"],
+      "MARR": {
+        "DATE": ["28 May 1978"],
+        "PLAC": ["Toruń, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1978]
+      },
+      "CHIL": ["I106", "I105"]
+    },
+    "F168": {
+      "HUSB": ["I429"],
+      "WIFE": ["I106"]
+    },
+    "F169": {
+      "HUSB": ["I430"],
+      "WIFE": ["I106"],
+      "CHIL": ["I431"]
+    },
+    "F120": {
+      "HUSB": ["I102"],
+      "WIFE": ["I340"],
+      "MARR": {
+        "DATE": ["28 Feb 1934"],
+        "PLAC": ["Dębowo, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1934]
+      }
+    },
+    "F121": {
+      "HUSB": ["I102"],
+      "WIFE": ["I341"],
+      "MARR": {
+        "DATE": ["23 Oct 1954"],
+        "PLAC": ["Gdansk, Poland"],
+        "CIRCA": [false],
+        "YEAR": [1954]
+      }
+    },
+    "F122": {
+      "HUSB": ["I342"],
+      "WIFE": ["I103"],
+      "MARR": {
+        "DATE": ["2 Sep 1939"],
+        "PLAC": ["Kaunas, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1939]
+      }
+    },
+    "F125": {
+      "HUSB": ["I345"],
+      "WIFE": ["I348"]
+    },
+    "F128": {
+      "HUSB": ["I354"],
+      "WIFE": ["I350"]
+    },
+    "F126": {
+      "HUSB": ["I352"],
+      "WIFE": ["I346"],
+      "MARR": {
+        "DATE": ["1940"],
+        "CIRCA": [false],
+        "YEAR": [1940]
+      }
+    },
+    "F127": {
+      "HUSB": ["I353"],
+      "WIFE": ["I349"]
+    },
+    "F129": {
+      "HUSB": ["I355"],
+      "WIFE": ["I351"]
+    },
+    "F130": {
+      "HUSB": ["I284"],
+      "WIFE": ["I356"],
+      "MARR": {
+        "DATE": ["30 Oct 1963"],
+        "PLAC": ["London, Great Britain"],
+        "CIRCA": [false],
+        "YEAR": [1963]
+      }
+    },
+    "F99": {
+      "HUSB": ["I285"],
+      "WIFE": ["I286"],
+      "MARR": {
+        "DATE": ["10 Oct 1959"],
+        "PLAC": ["Montreal, Canada"],
+        "CIRCA": [false],
+        "YEAR": [1959]
+      },
+      "CHIL": ["I288", "I287", "I289"]
+    },
+    "F131": {
+      "HUSB": ["I357"],
+      "WIFE": ["I288"],
+      "MARR": {
+        "DATE": ["12 Oct 1984"],
+        "PLAC": ["Toronto, Canada"],
+        "CIRCA": [false],
+        "YEAR": [1984]
+      },
+      "CHIL": ["I2210", "I445", "I446"]
+    },
+    "F902": {
+      "HUSB": ["I287"],
+      "WIFE": ["I2213"],
+      "MARR": {
+        "PLAC": ["Toronto, Canada"]
+      },
+      "CHIL": ["I2214", "I2215"]
+    },
+    "F176": {
+      "HUSB": ["I447"],
+      "WIFE": ["I289"],
+      "CHIL": ["I2211", "I2212"]
+    },
+    "F132": {
+      "HUSB": ["I285"],
+      "WIFE": ["I358"],
+      "MARR": {
+        "DATE": ["10 Sep 1983"],
+        "PLAC": ["Montreal, Canada"],
+        "CIRCA": [false],
+        "YEAR": [1983]
+      }
+    },
+    "F50": {
+      "HUSB": ["I145"],
+      "WIFE": ["I146"],
+      "MARR": {
+        "DATE": ["24 Aug 1770"],
+        "CIRCA": [false],
+        "YEAR": [1770]
+      },
+      "CHIL": ["I147", "I142", "I148", "I149", "I150", "I151"]
+    },
+    "F51": {
+      "HUSB": ["I152"],
+      "WIFE": ["I153"],
+      "MARR": {
+        "DATE": ["1743"],
+        "CIRCA": [false],
+        "YEAR": [1743]
+      },
+      "CHIL": ["I154", "I155", "I156", "I145", "I157", "I158", "I159", "I160", "I161", "I162"]
+    },
+    "F52": {
+      "HUSB": ["I145"],
+      "WIFE": ["I163"],
+      "MARR": {
+        "DATE": ["1789"],
+        "CIRCA": [false],
+        "YEAR": [1789]
+      }
+    },
+    "F251": {
+      "HUSB": ["I611"],
+      "WIFE": ["I612"],
+      "MARR": {
+        "DATE": ["23 Jan 1776"],
+        "PLAC": ["Stokliszki, Lithuania"],
+        "CIRCA": [false],
+        "YEAR": [1776]
+      },
+      "CHIL": ["I400"]
+    },
+    "F252": {
+      "HUSB": ["I613"],
+      "WIFE": ["I614"],
+      "CHIL": ["I611", "I615"]
+    },
+    "F253": {
+      "HUSB": ["I615"],
+      "WIFE": ["I616"]
+    },
+    "F248": {
+      "HUSB": ["I603"],
+      "WIFE": ["I604"],
+      "CHIL": ["I606", "I607", "I401", "I608", "I605", "I609", "I610", "I602"]
+    },
+    "F254": {
+      "HUSB": ["I605"],
+      "WIFE": ["I618"],
+      "MARR": {
+        "DATE": ["ca.1820"],
+        "CIRCA": [true],
+        "YEAR": [1820]
+      }
+    },
+    "F247": {
+      "HUSB": ["I601"],
+      "WIFE": ["I602"]
+    },
+    "F147": {
+      "HUSB": ["I381"],
+      "WIFE": ["I382"],
+      "CHIL": ["I110", "I562"]
+    },
+    "F234": {
+      "HUSB": ["I562"],
+      "WIFE": ["I563"]
+    },
+    "F165": {
+      "HUSB": ["I438"],
+      "WIFE": ["I423"],
+      "CHIL": ["I282"]
+    },
+    "F903": {
+      "HUSB": ["I2216"],
+      "WIFE": ["I2217"],
+      "MARR": {
+        "DATE": ["ok. 1860"],
+        "CIRCA": [false],
+        "YEAR": [1860]
+      },
+      "CHIL": ["I438"]
+    }
+  }
+}
