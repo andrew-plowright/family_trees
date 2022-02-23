@@ -12,9 +12,9 @@ source('R/4_positions.R')
 source('bystram_data_corrections.R')
 
 # Project folder
-proj_folder  <- 'C:/Users/andre/Dropbox/Work/Personal/BystramGeneology/'
+proj_folder  <- 'C:/Users/andre/Dropbox/Work/Personal/BystramGeneology'
 gedcom_files <- list.files(file.path(proj_folder, "GEDCOM"), recursive = TRUE, pattern = "\\.ged$", full.names = TRUE)
-json_file    <- file.path(json_folder, "JSON", 'bystram_family_tree.json')
+json_file    <- file.path(proj_folder, "JSON", 'data.json')
 
 
 # PROCESSING ----

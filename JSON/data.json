@@ -3734,6 +3734,24 @@
       "gen": [15],
       "position": [49]
     },
+    "I441": {
+      "NAME": {
+        "GIVN": ["Ludovic"],
+        "SURN": ["Pethö"]
+      },
+      "FAMS": ["F174"],
+      "gen": [15],
+      "position": [51]
+    },
+    "I442": {
+      "NAME": {
+        "GIVN": ["Maria"],
+        "SURN": ["Krajcivs"]
+      },
+      "FAMS": ["F174"],
+      "gen": [15],
+      "position": [52]
+    },
     "I299": {
       "NAME": {
         "GIVN": ["Jadwiga"],
@@ -4675,7 +4693,7 @@
     },
     "I286": {
       "NAME": {
-        "GIVN": ["Agota Maria Maia"],
+        "GIVN": ["Ágota Maria Maia"],
         "SURN": ["Pethö"]
       },
       "BIRT": {
@@ -4691,6 +4709,7 @@
         "YEAR": [1994]
       },
       "FAMS": ["F99"],
+      "FAMC": ["F174"],
       "gen": [16],
       "position": [31]
     },
@@ -5134,7 +5153,7 @@
     },
     "I287": {
       "NAME": {
-        "GIVN": ["Alexander Stephan Charles"],
+        "GIVN": ["Alexander Stephen Charles"],
         "SURN": ["Bystram"]
       },
       "BIRT": {
@@ -5165,7 +5184,7 @@
     },
     "I289": {
       "NAME": {
-        "GIVN": ["Elisabeth Anne"],
+        "GIVN": ["Elizabeth Anne Bystram"],
         "SURN": ["Bystram"]
       },
       "BIRT": {
@@ -5633,7 +5652,7 @@
     "I445": {
       "NAME": {
         "GIVN": ["Carl Elizabeth"],
-        "SURN": ["Bystram"]
+        "SURN": ["Plowright"]
       },
       "BIRT": {
         "DATE": ["3 Jun 1991"],
@@ -5647,7 +5666,7 @@
     },
     "I446": {
       "NAME": {
-        "GIVN": ["Isabele Anne"],
+        "GIVN": ["Isabel Anne"],
         "SURN": ["Plowright"]
       },
       "BIRT": {
@@ -7047,6 +7066,11 @@
         "YEAR": [1860]
       },
       "CHIL": ["I438"]
+    },
+    "F174": {
+      "HUSB": ["I441"],
+      "WIFE": ["I442"],
+      "CHIL": ["I286"]
     }
   }
 }

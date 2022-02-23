@@ -54,10 +54,10 @@ family_corrections <- list(
 
 individual_corrections <- list(
   
-  # Chris Plowright
-  I357 = list(
-    BIRT = list(
-      PLAC = "Sheffield, UK"
+  # Agota Maria Maia Pethö 
+  I286 = list(
+    NAME = list(
+      GIVN = "Ágota Maria Maia"
     )
   ),
   
@@ -68,21 +68,20 @@ individual_corrections <- list(
     )
   ),
   
-  # Carl Bystram
-  I445 = list(
-    NAME = list(
-      GIVN = "Carl Elizabeth",
-      SURN = "Bystram"
+  # Chris Plowright
+  I357 = list(
+    BIRT = list(
+      PLAC = "Sheffield, UK"
     )
   ),
   
-  # Anna Elisabeth
-  I251 = list(
+  # Alex Bystram
+  I287 = list(
     NAME = list(
-      GIVN = "Anna Elisabeth"
+      GIVN = "Alexander Stephen Charles"
     )
   ),
-  
+
   # Lynne Chickakian
   I2213 = list(
     BIRT = list(
@@ -90,6 +89,37 @@ individual_corrections <- list(
       YEAR = 1962,
       PLAC = "Toronto, Canada",
       CIRCA = FALSE
+    )
+  ),
+  
+  # Liz Bystram
+  I289 = list(
+    NAME = list(
+      GIVN = "Elizabeth Anne Bystram"
+    )
+  ),
+  
+  # Pierre Tremblay
+  I447 =  list(
+    BIRT = list(
+      DATE = 'August 18, 1961',
+      YEAR = 1961,
+      PLAC = "Ottawa, Canada",
+      CIRCA = FALSE
+    )
+  ),
+  
+  # Carl Plowright
+  I445 = list(
+    NAME = list(
+      GIVN = "Carl Elizabeth",
+    )
+  ),
+  
+  # Isabel Plowright
+  I446 = list(
+    NAME = list(
+      GIVN = "Isabel Anne"
     )
   ),
   
@@ -105,15 +135,7 @@ individual_corrections <- list(
       PLAC = "Ottawa, Canada"
     )
   ),
-  # Pierre Tremblay
-  I447 =  list(
-    BIRT = list(
-      DATE = 'August 18, 1961',
-      YEAR = 1961,
-      PLAC = "Ottawa, Canada",
-      CIRCA = FALSE
-    )
-  ),
+
   
   # George Hartwig
   # who needs to be replaced in the correct (F134) family
@@ -145,6 +167,13 @@ individual_corrections <- list(
   I186 = list(
     NAME = list(
       GIVN = 'Ottomar Aleksander II'
+    )
+  ),
+  
+  # Anna Elisabeth
+  I251 = list(
+    NAME = list(
+      GIVN = "Anna Elisabeth"
     )
   )
 )
