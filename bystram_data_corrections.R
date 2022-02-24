@@ -57,7 +57,7 @@ individual_corrections <- list(
   # Agota Maria Maia Pethö 
   I286 = list(
     NAME = list(
-      GIVN = "Ágota Maria Maia"
+      GIVN = "Ágota Maria"
     )
   ),
   
