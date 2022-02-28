@@ -26,11 +26,11 @@ data <- read_gedcom(gedcom_files)
 
 ## 2) Clean data ----
 data <- clean_data(data, name_swaps, individual_corrections, family_corrections, delete_individuals, delete_families)
-print_individuals(data)
+#print_individuals(data)
 
 ## 3) Set relative generation ----
 data <- set_relative_generations(data, init_id= "I109")
-print_relative_generations(data)
+#print_relative_generations(data)
 
 ## 4) Set lateral positions ----
 data <- set_positions(data, init_id='I213')

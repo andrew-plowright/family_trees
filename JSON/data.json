@@ -3737,7 +3737,7 @@
     "I441": {
       "NAME": {
         "GIVN": ["Ludovic"],
-        "SURN": ["Pethö"]
+        "SURN": ["Pethő"]
       },
       "FAMS": ["F174"],
       "gen": [15],
@@ -4694,7 +4694,7 @@
     "I286": {
       "NAME": {
         "GIVN": ["Ágota Maria"],
-        "SURN": ["Pethö"]
+        "SURN": ["Pethő"]
       },
       "BIRT": {
         "DATE": ["2 Feb 1934"],

@@ -54,10 +54,17 @@ family_corrections <- list(
 
 individual_corrections <- list(
   
-  # Agota Maria Maia Pethö 
+  # Agota Maria Maia Pethő 
   I286 = list(
     NAME = list(
-      GIVN = "Ágota Maria"
+      GIVN = "\u00C1gota Maria",
+      SURN = "Peth\u0151"
+    )
+  ),
+  
+  I441 = list(
+    NAME = list(
+      SURN = "Peth\u0151"
     )
   ),
   
@@ -112,7 +119,7 @@ individual_corrections <- list(
   # Carl Plowright
   I445 = list(
     NAME = list(
-      GIVN = "Carl Elizabeth",
+      GIVN = "Carl Elizabeth"
     )
   ),
   
