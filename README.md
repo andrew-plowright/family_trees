@@ -1,5 +1,5 @@
 # BYSTRAM FAMILY TREE
-Version 0.9.1
+Version 0.9.2
 
 <img src="PNG/tarnawa_crest.png" width="200">
 
@@ -11,9 +11,10 @@ The goal of this project is to create a printable family tree for my uncle Alex 
 
 ## Updates
 
-- **2022-02-23**: Added suggestions from Catherine Plowright. Added family tree for Ágota Pethö (`I286`).
-- **2022-02-20**: First draft completed. Sent to Catherine Plowright for first review.
-- **2021-12-28**: Began project. Downloaded data from [Bystram family website](https://cornelis.bystram.be/)
+- **v0.9.2, 2022-04-03**: Added middle names for Mathieu Tremblay, Michael Tremblay, Justine Bystram, and Anya Bystram
+- **v0.9.1, 2022-02-23**: Added suggestions from Catherine Plowright. Added family tree for Ágota Pethö (`I286`).
+- **v0.9.0, 2022-02-20**: First draft completed. Sent to Catherine Plowright for first review.
+- **v0.9.0, 2021-12-28**: Began project. Downloaded data from [Bystram family website](https://cornelis.bystram.be/)
 
 ## Processing
 

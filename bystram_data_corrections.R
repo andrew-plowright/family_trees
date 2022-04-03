@@ -71,7 +71,7 @@ individual_corrections <- list(
   # Catherine Plowright
   I288 = list(
     NAME = list(
-      GIVN = "Catherine Maria Sophia"
+      GIVN = "Catherine Maria Sophie"
     )
   ),
   
@@ -132,17 +132,36 @@ individual_corrections <- list(
   
   # Matthew Tremblay
   I2211 = list(
+    NAME = list(
+      GIVN = "Mathieu Alexander de Gaspé-Taché"
+    ),
     BIRT = list(
       PLAC = "Ottawa, Canada"
     )
   ),
   # Michael Tremblay
   I2212 = list(
+    NAME = list(
+      GIVN = "Michael Thomas Cameron"
+    ),
     BIRT = list(
       PLAC = "Ottawa, Canada"
     )
   ),
 
+  # Anya Bystram
+  I2214 = list(
+    NAME = list(
+      GIVN = "Anya Elizabeth Maria"
+    )
+  ),
+  
+  # Justine Bystram
+  I2215 = list(
+    NAME = list(
+      GIVN = "Justine Victoria"
+    )
+  ),
   
   # George Hartwig
   # who needs to be replaced in the correct (F134) family

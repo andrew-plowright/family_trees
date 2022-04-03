@@ -5681,7 +5681,7 @@
     },
     "I2214": {
       "NAME": {
-        "GIVN": ["Anya"],
+        "GIVN": ["Anya Elizabeth Maria"],
         "SURN": ["Bystram"]
       },
       "BIRT": {
@@ -5696,7 +5696,7 @@
     },
     "I2215": {
       "NAME": {
-        "GIVN": ["Justine"],
+        "GIVN": ["Justine Victoria"],
         "SURN": ["Bystram"]
       },
       "BIRT": {
@@ -5711,7 +5711,7 @@
     },
     "I2211": {
       "NAME": {
-        "GIVN": ["Matthew"],
+        "GIVN": ["Mathieu Alexander de Gaspé-Taché"],
         "SURN": ["Tremblay"]
       },
       "BIRT": {
@@ -5726,7 +5726,7 @@
     },
     "I2212": {
       "NAME": {
-        "GIVN": ["Michael"],
+        "GIVN": ["Michael Thomas Cameron"],
         "SURN": ["Tremblay"]
       },
       "BIRT": {
