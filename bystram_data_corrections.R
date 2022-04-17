@@ -67,11 +67,17 @@ individual_corrections <- list(
       SURN = "Peth\u0151"
     )
   ),
+  I442 = list(
+    NAME = list(
+      GIVN = "M\u00e1ria",
+      SURN = "Krajcsits"
+    )
+  ),
   
   # Catherine Plowright
   I288 = list(
     NAME = list(
-      GIVN = "Catherine Maria Sophie"
+      GIVN = "Catherine Maria Sophia"
     )
   ),
   
@@ -133,7 +139,7 @@ individual_corrections <- list(
   # Matthew Tremblay
   I2211 = list(
     NAME = list(
-      GIVN = "Mathieu Alexander de Gaspé-Taché"
+      GIVN = "Mathieu Alexander de Gasp\u00e9-Tach\u00e9"
     ),
     BIRT = list(
       PLAC = "Ottawa, Canada"
