@@ -260,15 +260,15 @@ function draw_links(fam_id){
                         }else if(mid_pt < chil_lines_x_min){
                             chilspouse_coords = [
                                 [mid_pt, husb_centr[1] - link_offset],
-                                [mid_pt, husb_centr[1] - (link_offset * 1.25)],
-                                [chil_lines_x_min,  chil_lines_y_mid + (link_offset * 1.25)],
+                                [mid_pt, husb_centr[1] - link_offset - 10],
+                                [chil_lines_x_min,  chil_lines_y_mid + link_offset],
                                 [chil_lines_x_min, chil_lines_y_mid + link_offset]	   
                             ]
                         }else if(mid_pt > chil_lines_x_max){
                             chilspouse_coords = [
                                 [mid_pt, husb_centr[1] - link_offset],
-                                [mid_pt, husb_centr[1] - (link_offset * 1.25)],
-                                [chil_lines_x_max,  chil_lines_y_mid + (link_offset * 1.25)],
+                                [mid_pt, husb_centr[1] - link_offset -10],
+                                [chil_lines_x_max,  chil_lines_y_mid + (link_offset)],
                                 [chil_lines_x_max, chil_lines_y_mid + link_offset]	   
                             ]
                         }

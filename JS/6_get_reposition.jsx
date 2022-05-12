@@ -1,6 +1,8 @@
 ﻿#include "json2.js";
 #include "../paths.js";  
  
+// 2_skeleton_trimmed.ai 
+ 
  var out_file = new File(reposition_path)
  
  // Get document

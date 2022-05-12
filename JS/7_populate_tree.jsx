@@ -22,11 +22,11 @@ var lyr_links_disc = doc.layers.getByName('Links').layers.getByName('Discontinue
 var lyr_templates = doc.layers.getByName('Template')
 
 // Set variables
-var space_x = 25
+var space_x = 30
 var space_y = 75
-var offset_x = 150
+var offset_x = 125
 var offset_y = 150
-var link_offset = 30
+var link_offset = 32.5
 
 // Set style
 var link_style = {
