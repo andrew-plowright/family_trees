@@ -1,5 +1,8 @@
-﻿var root_folder = File($.fileName).parent
+﻿var family = 'bystram'
 
-var data_path       = root_folder+ "/JSON/data.json"
-var reposition_path = root_folder + "/JSON/repositions.json"
-var discontinued_path    = root_folder + "/JSON/discontinued_branches.json"
+var root_folder = File($.fileName).parent
+var data_folder = root_folder + '/families/' + family + "/JSON/"
+
+var data_path = data_folder + "data_cleaned.json"
+var reposition_path = data_folder + "repositions.json"
+var discontinued_path = data_folder + "discontinued_branches.json"

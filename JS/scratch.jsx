@@ -1,3 +1,11 @@
 ﻿#include "json2.js";
-var in_folder = "C:/Users/andre/Dropbox/Work/Personal/BystramGeneology/JSON/"
-var data_tree = readJSON(in_folder + "data.json")
+#include "../paths.js"; 
+
+
+// Read content
+var data_file = File(data_path);
+data_file.open('r');
+var data = JSON.parse(data_file.read());
+// data_file.close(); 
+
+alert("helo")
