@@ -1,21 +1,21 @@
+setwd("families/bystram")
+
 # SOURCE SCRIPTS ----
 
-source('R/1_read_gedcom.R')
-source('R/2_cleanup.R')
-source('R/3_generations.R')
-source('R/4_positions.R')
+# Processing functions
+source('R/read_gedcom.R')
+source('R/cleanup.R')
+source('R/generations.R')
+source('R/positions.R')
 
+# Corrections
+source('corrections/bystram_data_corrections.R')
 
 # SET VARIABLES ----
 
-# Corrections
-source('bystram_data_corrections.R')
-
 # Project folder
-proj_folder  <- 'C:/Users/andre/Dropbox/Work/Personal/BystramGeneology/families/bystram'
-gedcom_files <- list.files(file.path(proj_folder, "GEDCOM"), recursive = TRUE, pattern = "\\.ged$", full.names = TRUE)
-json_file    <- file.path(proj_folder, "JSON", 'data_cleaned.json')
-
+gedcom_files <- list.files("gedcom", recursive = TRUE, pattern = "\\.ged$", full.names = TRUE)
+json_file    <- file.path("json", 'bystram_data_cleaned.json')
 
 # PROCESSING ----
 

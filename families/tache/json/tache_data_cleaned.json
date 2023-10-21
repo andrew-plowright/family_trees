@@ -1,0 +1,6265 @@
+{
+  "individuals": {
+    "xxx": {
+      "NAME": {
+        "GIVN": ["Jean"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1642"],
+        "PLAC": ["Garganvillar France"]
+      },
+      "FAMS": ["ooo"],
+      "gen": [1],
+      "position": [1],
+      "graph": [true]
+    },
+    "xxx(s)": {
+      "NAME": {
+        "GIVN": ["Françoise"],
+        "SURN": ["Peres"]
+      },
+      "BIRT": {
+        "YEAR": ["1647"]
+      },
+      "FAMS": ["ooo"],
+      "gen": [1],
+      "position": [2],
+      "graph": [true]
+    },
+    "xx": {
+      "NAME": {
+        "GIVN": ["Étienne"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1666"],
+        "PLAC": ["Garganvillar France"]
+      },
+      "FAMC": ["ooo"],
+      "FAMS": ["oo"],
+      "gen": [2],
+      "position": [1],
+      "graph": [true]
+    },
+    "xx(s)": {
+      "NAME": {
+        "GIVN": ["Marguerite"],
+        "SURN": ["D'Auzet"]
+      },
+      "BIRT": {
+        "YEAR": ["1671"]
+      },
+      "FAMS": ["oo"],
+      "gen": [2],
+      "position": [2],
+      "graph": [true]
+    },
+    "x": {
+      "NAME": {
+        "GIVN": ["Jean-Paschal"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1697"],
+        "PLAC": ["Garganvillar France"]
+      },
+      "DEAT": {
+        "YEAR": ["1768"]
+      },
+      "FAMC": ["oo"],
+      "FAMS": ["o"],
+      "gen": [3],
+      "position": [1],
+      "graph": [true]
+    },
+    "x(s)": {
+      "NAME": {
+        "GIVN": ["Marie Anne"],
+        "SURN": ["de Mingan"]
+      },
+      "BIRT": {
+        "YEAR": ["1714"],
+        "PLAC": ["Montréal Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1776"]
+      },
+      "FAMS": ["o"],
+      "gen": [3],
+      "position": [2],
+      "graph": [true]
+    },
+    "1": {
+      "NAME": {
+        "GIVN": ["Charles"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1752"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1826"]
+      },
+      "HONO": ["Co-Seigneur de Mingan"],
+      "FAMC": ["o"],
+      "FAMS": ["1"],
+      "gen": [4],
+      "position": [1],
+      "graph": [true]
+    },
+    "1(s)": {
+      "NAME": {
+        "GIVN": ["Geneviève"],
+        "SURN": ["Michon"]
+      },
+      "BIRT": {
+        "YEAR": ["1758"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1849"]
+      },
+      "FAMS": ["1"],
+      "gen": [4],
+      "position": [2],
+      "graph": [true]
+    },
+    "2": {
+      "NAME": {
+        "GIVN": ["Paschal-Jacques"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1757"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1830"]
+      },
+      "HONO": ["Seigneur de Kamouraska"],
+      "FAMC": ["o"],
+      "FAMS": ["2"],
+      "gen": [4],
+      "position": [3],
+      "graph": [true]
+    },
+    "2(s)": {
+      "NAME": {
+        "GIVN": ["Marie-Louise"],
+        "SURN": ["Decharnay"]
+      },
+      "BIRT": {
+        "YEAR": ["1755"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1813"]
+      },
+      "FAMS": ["2"],
+      "gen": [4],
+      "position": [4],
+      "graph": [true]
+    },
+    "1.A": {
+      "NAME": {
+        "GIVN": ["Charles"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1784"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1826"]
+      },
+      "FAMC": ["1"],
+      "FAMS": ["1A"],
+      "gen": [5],
+      "position": [1],
+      "graph": [true]
+    },
+    "1.A(s)": {
+      "NAME": {
+        "GIVN": ["Louise-Henriette"],
+        "SURN": ["de Labroquerie"]
+      },
+      "BIRT": {
+        "YEAR": ["1798"],
+        "PLAC": ["Boucherville Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1871"]
+      },
+      "FAMS": ["1A"],
+      "gen": [5],
+      "position": [2],
+      "graph": [true]
+    },
+    "1.B": {
+      "NAME": {
+        "GIVN": ["Hon., Jean-Baptiste"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1786"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1849"]
+      },
+      "HONO": ["Député provincial"],
+      "FAMC": ["1"],
+      "FAMS": ["1B"],
+      "gen": [5],
+      "position": [3],
+      "graph": [true]
+    },
+    "1.B(s)": {
+      "NAME": {
+        "GIVN": ["Charlotte"],
+        "SURN": ["Mure"]
+      },
+      "BIRT": {
+        "YEAR": ["1800"]
+      },
+      "DEAT": {
+        "YEAR": ["1857"]
+      },
+      "FAMS": ["1B"],
+      "gen": [5],
+      "position": [4],
+      "graph": [true]
+    },
+    "1.x": {
+      "NAME": {
+        "GIVN": ["Elisabeth"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1789"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1830"]
+      },
+      "FAMC": ["1"],
+      "FAMS": ["1x"],
+      "gen": [5],
+      "position": [5],
+      "graph": [true]
+    },
+    "1.x(s)": {
+      "NAME": {
+        "GIVN": ["Thomas"],
+        "SURN": ["Casault"]
+      },
+      "BIRT": {
+        "YEAR": ["1787"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1837"]
+      },
+      "FAMS": ["1x"],
+      "gen": [5],
+      "position": [6],
+      "graph": [true]
+    },
+    "1.C": {
+      "NAME": {
+        "GIVN": ["Sir., Etienne-Pascal"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1795"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1864"]
+      },
+      "HONO": ["Premier ministre du Canada-Uni"],
+      "FAMC": ["1"],
+      "FAMS": ["1C"],
+      "gen": [5],
+      "position": [7],
+      "graph": [true]
+    },
+    "1.C(s)": {
+      "NAME": {
+        "GIVN": ["Sophie"],
+        "SURN": ["Boucher dit Morency"]
+      },
+      "BIRT": {
+        "YEAR": ["1800"]
+      },
+      "FAMS": ["1C"],
+      "gen": [5],
+      "position": [8],
+      "graph": [true]
+    },
+    "1.D": {
+      "NAME": {
+        "GIVN": ["Marie-Claire"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1797"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1880"]
+      },
+      "FAMC": ["1"],
+      "FAMS": ["1D"],
+      "gen": [5],
+      "position": [9],
+      "graph": [true]
+    },
+    "1.D(s)": {
+      "NAME": {
+        "GIVN": ["Thomas"],
+        "SURN": ["Ansbrow"]
+      },
+      "BIRT": {
+        "YEAR": ["1796"]
+      },
+      "FAMS": ["1D"],
+      "gen": [5],
+      "position": [10],
+      "graph": [true]
+    },
+    "1.E": {
+      "NAME": {
+        "GIVN": ["Émilie"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1799"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1826"]
+      },
+      "FAMC": ["1"],
+      "FAMS": ["1E"],
+      "gen": [5],
+      "position": [11],
+      "graph": [true]
+    },
+    "1.E(s)": {
+      "NAME": {
+        "GIVN": ["Edouard"],
+        "SURN": ["Chamberland"]
+      },
+      "BIRT": {
+        "YEAR": ["1800"]
+      },
+      "FAMS": ["1E"],
+      "gen": [5],
+      "position": [12],
+      "graph": [true]
+    },
+    "2.A": {
+      "NAME": {
+        "GIVN": ["Paschal-Jacques"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1786"],
+        "PLAC": ["Kamouraska Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1833"]
+      },
+      "HONO": ["Seigneur de Kamouraska"],
+      "FAMC": ["2"],
+      "FAMS": ["2A"],
+      "gen": [5],
+      "position": [13],
+      "graph": [true]
+    },
+    "2.A(s)": {
+      "NAME": {
+        "GIVN": ["Julie"],
+        "SURN": ["Larue"]
+      },
+      "BIRT": {
+        "YEAR": ["1790"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1852"]
+      },
+      "FAMS": ["2A"],
+      "gen": [5],
+      "position": [14],
+      "graph": [true]
+    },
+    "1.A.I": {
+      "NAME": {
+        "GIVN": ["Dr., Joseph-Charles"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1820"],
+        "PLAC": ["Kamouraska Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1894"]
+      },
+      "HONO": ["Député de Rimouski"],
+      "FAMC": ["1A"],
+      "FAMS": ["1A-I"],
+      "gen": [6],
+      "position": [1],
+      "graph": [true]
+    },
+    "1.A.I(s)": {
+      "NAME": {
+        "GIVN": ["Françoise"],
+        "SURN": ["Lepage"]
+      },
+      "BIRT": {
+        "YEAR": ["1819"],
+        "PLAC": ["Rimouski Qc."]
+      },
+      "FAMS": ["1A-I"],
+      "gen": [6],
+      "position": [2],
+      "graph": [true]
+    },
+    "1.A.II": {
+      "NAME": {
+        "GIVN": ["Louis J.E."],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1822"],
+        "PLAC": ["Kamouraska Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1881"]
+      },
+      "FAMC": ["1A"],
+      "FAMS": ["1A-II"],
+      "gen": [6],
+      "position": [3],
+      "graph": [true]
+    },
+    "1.A.II(s)": {
+      "NAME": {
+        "GIVN": ["Charlotte-Odile"],
+        "SURN": ["Beaudet"]
+      },
+      "BIRT": {
+        "YEAR": ["1827"],
+        "PLAC": ["Les Cèdres Qc."]
+      },
+      "FAMS": ["1A-II"],
+      "gen": [6],
+      "position": [4],
+      "graph": [true]
+    },
+    "1.A.III": {
+      "NAME": {
+        "GIVN": ["Msgr., Alexandre"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1823"],
+        "PLAC": ["Rivière-du-Loup Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1894"]
+      },
+      "HONO": ["Archevêque des Oblats de Marie-Immaculée"],
+      "FAMC": ["1A"],
+      "gen": [6],
+      "position": [5],
+      "graph": [true]
+    },
+    "1.B.I": {
+      "NAME": {
+        "GIVN": ["Jean-Georges"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1824"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1861"]
+      },
+      "FAMC": ["1B"],
+      "FAMS": ["1B-I"],
+      "gen": [6],
+      "position": [6],
+      "graph": [true]
+    },
+    "1.B.I(s)": {
+      "NAME": {
+        "GIVN": ["Euphémie"],
+        "SURN": ["Casault"]
+      },
+      "BIRT": {
+        "YEAR": ["1824"],
+        "PLAC": ["Kamouraska Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1861"]
+      },
+      "FAMS": ["1B-I"],
+      "gen": [6],
+      "position": [7],
+      "graph": [true]
+    },
+    "1.B.II": {
+      "NAME": {
+        "GIVN": ["C.L. Elisabeth"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1825"]
+      },
+      "DEAT": {
+        "YEAR": ["1911"]
+      },
+      "FAMC": ["1B"],
+      "FAMS": ["1B-II"],
+      "gen": [6],
+      "position": [8],
+      "graph": [true]
+    },
+    "1.C.I": {
+      "NAME": {
+        "GIVN": ["Marie-Sophie"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1821"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1879"]
+      },
+      "FAMC": ["1C"],
+      "FAMS": ["1C-I"],
+      "gen": [6],
+      "position": [9],
+      "graph": [true]
+    },
+    "1.C.I(s)": {
+      "NAME": {
+        "GIVN": ["Albert"],
+        "SURN": ["Bender"]
+      },
+      "BIRT": {
+        "YEAR": ["1817"],
+        "PLAC": ["Varennes Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1899"]
+      },
+      "FAMS": ["1C-I", "1D-III-1"],
+      "gen": [6],
+      "graph": [false]
+    },
+    "1.C.II": {
+      "NAME": {
+        "GIVN": ["C.G. Elisabeth"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1824"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1863"]
+      },
+      "FAMC": ["1C"],
+      "FAMS": ["1C-II"],
+      "gen": [6],
+      "position": [10],
+      "graph": [true]
+    },
+    "1.C.II(s)": {
+      "NAME": {
+        "GIVN": ["Joseph"],
+        "SURN": ["Marmette"]
+      },
+      "BIRT": {
+        "YEAR": ["1813"],
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMS": ["1C-II", "1D-I"],
+      "gen": [6],
+      "position": [11],
+      "graph": [true]
+    },
+    "1.C.III": {
+      "NAME": {
+        "GIVN": ["Adeline"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1826"]
+      },
+      "DEAT": {
+        "YEAR": ["1914"]
+      },
+      "FAMC": ["1C"],
+      "gen": [6],
+      "position": [12],
+      "graph": [true]
+    },
+    "1.C.IV": {
+      "NAME": {
+        "GIVN": ["Henriette"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1829"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1886"]
+      },
+      "FAMC": ["1C"],
+      "FAMS": ["1C-IV"],
+      "gen": [6],
+      "position": [13],
+      "graph": [true]
+    },
+    "1.C.IV(s)": {
+      "NAME": {
+        "GIVN": ["Charles-Joseph"],
+        "SURN": ["Coursol"]
+      },
+      "BIRT": {
+        "YEAR": ["1819"],
+        "PLAC": ["Fort Malden Ont."]
+      },
+      "DEAT": {
+        "YEAR": ["1888"]
+      },
+      "FAMS": ["1C-IV"],
+      "gen": [6],
+      "position": [14],
+      "graph": [true]
+    },
+    "1.C.V": {
+      "NAME": {
+        "GIVN": ["Eugène-Étienne "],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1836"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1913"]
+      },
+      "HONO": ["Auteur de la devise du Québec (Je me souviens)"],
+      "FAMC": ["1C"],
+      "FAMS": ["1C-V(a)", "1C-V"],
+      "gen": [6],
+      "position": [15],
+      "graph": [true]
+    },
+    "1.C.V(s)": {
+      "NAME": {
+        "GIVN": ["Eléonore"],
+        "SURN": ["Bender"]
+      },
+      "BIRT": {
+        "YEAR": ["1840"]
+      },
+      "FAMS": ["1C-V(a)"],
+      "gen": [6],
+      "position": [16],
+      "graph": [true]
+    },
+    "1.C.V(s2)": {
+      "NAME": {
+        "GIVN": ["Clara"],
+        "SURN": ["Juchereau"]
+      },
+      "BIRT": {
+        "YEAR": ["1854"]
+      },
+      "DEAT": {
+        "YEAR": ["1931"]
+      },
+      "FAMS": ["1C-V"],
+      "gen": [6],
+      "position": [17],
+      "graph": [true]
+    },
+    "1.C.VI": {
+      "NAME": {
+        "GIVN": ["Laura"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1841"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1918"]
+      },
+      "FAMC": ["1C"],
+      "FAMS": ["1C-VI"],
+      "gen": [6],
+      "position": [18],
+      "graph": [true]
+    },
+    "1.C.VI(s)": {
+      "NAME": {
+        "GIVN": ["Narcisse"],
+        "SURN": ["Gauthier"]
+      },
+      "BIRT": {
+        "YEAR": ["1837"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1920"]
+      },
+      "FAMS": ["1C-VI"],
+      "gen": [6],
+      "position": [19],
+      "graph": [true]
+    },
+    "1.C.VII": {
+      "NAME": {
+        "GIVN": ["L. Jules E."],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1844"]
+      },
+      "DEAT": {
+        "YEAR": ["1897"]
+      },
+      "FAMC": ["1C"],
+      "FAMS": ["1C-VII"],
+      "gen": [6],
+      "position": [20],
+      "graph": [true]
+    },
+    "1.C.VII(s)": {
+      "NAME": {
+        "GIVN": ["Marie-Anne Jeanne"],
+        "SURN": ["Bender"]
+      },
+      "BIRT": {
+        "YEAR": ["1842"]
+      },
+      "FAMS": ["1C-VII"],
+      "gen": [6],
+      "position": [21],
+      "graph": [true]
+    },
+    "1.D.I": {
+      "NAME": {
+        "GIVN": ["M.G. Emilie"],
+        "SURN": ["Ansbrow"]
+      },
+      "BIRT": {
+        "YEAR": ["1826"]
+      },
+      "FAMC": ["1D"],
+      "FAMS": ["1D-I"],
+      "gen": [6],
+      "position": [22],
+      "graph": [true]
+    },
+    "1.D.II": {
+      "NAME": {
+        "GIVN": ["M.C. Elisabeth"],
+        "SURN": ["Ansbrow"]
+      },
+      "BIRT": {
+        "YEAR": ["1829"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1851"]
+      },
+      "FAMC": ["1D"],
+      "gen": [6],
+      "position": [23],
+      "graph": [true]
+    },
+    "1.D.III": {
+      "NAME": {
+        "GIVN": ["Juliette-Henriette"],
+        "SURN": ["Ansbrow"]
+      },
+      "BIRT": {
+        "YEAR": ["1836"]
+      },
+      "DEAT": {
+        "YEAR": ["1906"]
+      },
+      "FAMC": ["1D"],
+      "FAMS": ["1D-III"],
+      "gen": [6],
+      "position": [24],
+      "graph": [true]
+    },
+    "1.D.III(s)": {
+      "NAME": {
+        "GIVN": ["Francis Hubert"],
+        "SURN": ["Ennis"]
+      },
+      "BIRT": {
+        "YEAR": ["1839"]
+      },
+      "DEAT": {
+        "YEAR": ["1885"]
+      },
+      "FAMS": ["1D-III"],
+      "gen": [6],
+      "position": [25],
+      "graph": [true]
+    },
+    "1.E.I": {
+      "NAME": {
+        "GIVN": ["J.C.L."],
+        "SURN": ["Chamberland"]
+      },
+      "BIRT": {
+        "YEAR": ["1823"]
+      },
+      "DEAT": {
+        "YEAR": ["1867"]
+      },
+      "FAMC": ["1E"],
+      "gen": [6],
+      "position": [26],
+      "graph": [true]
+    },
+    "1.E.II": {
+      "NAME": {
+        "GIVN": ["Geneviève-Luce"],
+        "SURN": ["Chamberland"]
+      },
+      "BIRT": {
+        "YEAR": ["1825"],
+        "PLAC": ["Rivière-du-Loup Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1921"]
+      },
+      "FAMC": ["1E"],
+      "FAMS": ["1E-II"],
+      "gen": [6],
+      "position": [27],
+      "graph": [true]
+    },
+    "1.E.II(s)": {
+      "NAME": {
+        "GIVN": ["François-Clovis"],
+        "SURN": ["Caron"]
+      },
+      "BIRT": {
+        "YEAR": ["1818"],
+        "PLAC": ["L'Islet-sur-Mer Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1895"]
+      },
+      "FAMS": ["1E-II"],
+      "gen": [6],
+      "position": [28],
+      "graph": [true]
+    },
+    "2.A.I": {
+      "NAME": {
+        "GIVN": ["Louis-Pascal-Achille"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1813"]
+      },
+      "DEAT": {
+        "YEAR": ["1839"]
+      },
+      "HONO": ["Seigneur de Kamouraska"],
+      "FAMC": ["2A"],
+      "FAMS": ["2A-I"],
+      "gen": [6],
+      "position": [29],
+      "graph": [true]
+    },
+    "2.A.I(s)": {
+      "NAME": {
+        "GIVN": ["Eléonore"],
+        "SURN": ["d'Estimauville"]
+      },
+      "BIRT": {
+        "YEAR": ["1816"]
+      },
+      "DEAT": {
+        "YEAR": ["1893"]
+      },
+      "FAMS": ["2A-I"],
+      "gen": [6],
+      "position": [30],
+      "graph": [true]
+    },
+    "2.A.II": {
+      "NAME": {
+        "GIVN": ["L. Hélène"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1817"],
+        "PLAC": ["Kamouraska Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1890"]
+      },
+      "FAMC": ["2A"],
+      "FAMS": ["2A-II"],
+      "gen": [6],
+      "position": [31],
+      "graph": [true]
+    },
+    "2.A.II(s)": {
+      "NAME": {
+        "GIVN": ["Nasaire"],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "YEAR": ["1814"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1891"]
+      },
+      "FAMS": ["2A-II"],
+      "gen": [6],
+      "position": [32],
+      "graph": [true]
+    },
+    "2.A.III": {
+      "NAME": {
+        "GIVN": ["Julie Arthémise"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1822"],
+        "PLAC": ["Kamouraska Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1888"]
+      },
+      "FAMC": ["2A"],
+      "FAMS": ["2A-III"],
+      "gen": [6],
+      "position": [33],
+      "graph": [true]
+    },
+    "2.A.III(s)": {
+      "NAME": {
+        "GIVN": ["Charles-Gaspard"],
+        "SURN": ["de Lanaudière "]
+      },
+      "BIRT": {
+        "YEAR": ["1815"]
+      },
+      "FAMS": ["2A-III"],
+      "gen": [6],
+      "position": [34],
+      "graph": [true]
+    },
+    "2.A.IV": {
+      "NAME": {
+        "GIVN": ["Jacques Vinceslas"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1823"],
+        "PLAC": ["Kamouraska Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1879"]
+      },
+      "FAMC": ["2A"],
+      "FAMS": ["1B-II"],
+      "gen": [6],
+      "position": [35],
+      "graph": [true]
+    },
+    "1.A.I.1": {
+      "NAME": {
+        "GIVN": ["Jean-Charles"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1850"],
+        "PLAC": ["Rimouski Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1939"]
+      },
+      "FAMC": ["1A-I"],
+      "FAMS": ["1A-I-1"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.A.I.1(s)": {
+      "NAME": {
+        "GIVN": ["Leda"],
+        "SURN": ["Drapeau"]
+      },
+      "BIRT": {
+        "YEAR": ["1852"],
+        "PLAC": ["Rimouski Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1933"]
+      },
+      "FAMS": ["1A-I-1"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.A.I.2": {
+      "NAME": {
+        "GIVN": ["Louis-Jean"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1854"],
+        "PLAC": ["Rimouski Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1918"]
+      },
+      "FAMC": ["1A-I"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.A.I.3": {
+      "NAME": {
+        "GIVN": ["Henriette"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1858"]
+      },
+      "DEAT": {
+        "YEAR": ["1886"]
+      },
+      "FAMC": ["1A-I"],
+      "FAMS": ["1B-II-2"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.A.II.1": {
+      "NAME": {
+        "GIVN": ["Joseph"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1859"],
+        "PLAC": ["Saint-Hyacinthe Qc"]
+      },
+      "DEAT": {
+        "YEAR": ["1932"]
+      },
+      "FAMC": ["1A-II"],
+      "FAMS": ["1A-II-1"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.A.II.1(s)": {
+      "NAME": {
+        "GIVN": ["Marie-Louise"],
+        "SURN": ["Langevin"]
+      },
+      "BIRT": {
+        "YEAR": ["1864"]
+      },
+      "DEAT": {
+        "YEAR": ["1936"]
+      },
+      "FAMS": ["1A-II-1"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.A.II.2": {
+      "NAME": {
+        "GIVN": ["Louis"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1859"]
+      },
+      "DEAT": {
+        "YEAR": ["1923"]
+      },
+      "FAMC": ["1A-II"],
+      "FAMS": ["1A-II-2"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.A.II.2(s)": {
+      "FAMS": ["1A-II-2"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.A.II.3": {
+      "NAME": {
+        "GIVN": ["Henri"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1861"]
+      },
+      "DEAT": {
+        "YEAR": ["1933"]
+      },
+      "FAMC": ["1A-II"],
+      "FAMS": ["1A-II-3"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.A.II.3(s)": {
+      "NAME": {
+        "GIVN": ["Maria-Lea"],
+        "SURN": ["Fontaine"]
+      },
+      "BIRT": {
+        "YEAR": ["1865"]
+      },
+      "DEAT": {
+        "YEAR": ["1947"]
+      },
+      "FAMS": ["1A-II-3"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.A.II.4": {
+      "NAME": {
+        "GIVN": ["Blanche"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1863"]
+      },
+      "DEAT": {
+        "YEAR": ["1935"]
+      },
+      "FAMC": ["1A-II"],
+      "FAMS": ["1A-II-4"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.A.II.4(s)": {
+      "NAME": {
+        "SURN": ["Mignault"]
+      },
+      "FAMS": ["1A-II-4"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.A.II.5": {
+      "NAME": {
+        "GIVN": ["Jean"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1866"]
+      },
+      "DEAT": {
+        "YEAR": ["1925"]
+      },
+      "FAMC": ["1A-II"],
+      "FAMS": ["1A-II-5"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.A.II.5(s)": {
+      "FAMS": ["1A-II-5"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.B.II.1": {
+      "NAME": {
+        "GIVN": ["J.B. Paschal"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1850"]
+      },
+      "DEAT": {
+        "YEAR": ["1921"]
+      },
+      "FAMC": ["1B-II"],
+      "FAMS": ["1B-II-1"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.B.II.1(s)": {
+      "NAME": {
+        "GIVN": ["Elisabeth"],
+        "SURN": ["Major"]
+      },
+      "BIRT": {
+        "YEAR": ["1858"]
+      },
+      "DEAT": {
+        "YEAR": ["1896"]
+      },
+      "FAMS": ["1B-II-1"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.B.II.2": {
+      "NAME": {
+        "GIVN": ["P. Vinceslas"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1853"]
+      },
+      "DEAT": {
+        "YEAR": ["1904"]
+      },
+      "FAMC": ["1B-II"],
+      "FAMS": ["1B-II-2"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.B.II.3": {
+      "NAME": {
+        "GIVN": ["C.G.E."],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1854"]
+      },
+      "DEAT": {
+        "YEAR": ["1917"]
+      },
+      "FAMC": ["1B-II"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.B.II.4": {
+      "NAME": {
+        "GIVN": ["Amanda"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1856"],
+        "PLAC": ["La Malbaie Qc"]
+      },
+      "DEAT": {
+        "YEAR": ["1933"]
+      },
+      "FAMC": ["1B-II"],
+      "FAMS": ["1B-II-4"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.B.II.4(s)": {
+      "NAME": {
+        "GIVN": ["Lucien-Simon"],
+        "SURN": ["Cimon"]
+      },
+      "BIRT": {
+        "YEAR": ["1852"],
+        "PLAC": ["La Malbaie Qc"]
+      },
+      "DEAT": {
+        "YEAR": ["1903"]
+      },
+      "FAMS": ["1B-II-4"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.B.II.5": {
+      "NAME": {
+        "GIVN": ["Alexandre"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1857"]
+      },
+      "DEAT": {
+        "YEAR": ["1950"]
+      },
+      "FAMC": ["1B-II"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.I.1": {
+      "NAME": {
+        "GIVN": ["Joseph-Albert"],
+        "SURN": ["Bender"]
+      },
+      "BIRT": {
+        "YEAR": ["1851"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1921"]
+      },
+      "FAMC": ["1C-I"],
+      "FAMS": ["1C-I-1"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.I.1(s)": {
+      "NAME": {
+        "GIVN": ["Edwidge"],
+        "SURN": ["Sasseville"]
+      },
+      "BIRT": {
+        "YEAR": ["1859"],
+        "PLAC": ["Sainte-Anne-des-Monts"]
+      },
+      "FAMS": ["1C-I-1"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.I.2": {
+      "NAME": {
+        "GIVN": ["Eugène-Prosper"],
+        "SURN": ["Bender"]
+      },
+      "BIRT": {
+        "YEAR": ["1853"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1930"]
+      },
+      "FAMC": ["1C-I"],
+      "FAMS": ["1C-I-2(a)", "1C-I-2(b)"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.I.2(s)": {
+      "NAME": {
+        "GIVN": ["Eugénie"],
+        "SURN": ["Laperrière"]
+      },
+      "BIRT": {
+        "YEAR": ["1861"],
+        "PLAC": ["Saint-Jean-Baptiste Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1881"]
+      },
+      "FAMS": ["1C-I-2(a)"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.I.2(s2)": {
+      "NAME": {
+        "GIVN": ["Kate"],
+        "SURN": ["Forrest"]
+      },
+      "BIRT": {
+        "YEAR": ["1860"],
+        "PLAC": ["Lévis Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1935"]
+      },
+      "FAMS": ["1C-I-2(b)"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.I.3": {
+      "NAME": {
+        "GIVN": ["Marie-Henriette"],
+        "SURN": ["Bender"]
+      },
+      "BIRT": {
+        "YEAR": ["1860"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1941"]
+      },
+      "FAMC": ["1C-I"],
+      "FAMS": ["1C-I-3"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.I.3(s)": {
+      "NAME": {
+        "GIVN": ["Philipe-Auguste"],
+        "SURN": ["Choquet"]
+      },
+      "BIRT": {
+        "YEAR": ["1854"],
+        "PLAC": ["Beloeil Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1948"]
+      },
+      "FAMS": ["1C-I-3"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.II.1": {
+      "NAME": {
+        "GIVN": ["J.E. Eugène"],
+        "SURN": ["Marmette"]
+      },
+      "BIRT": {
+        "YEAR": ["1844"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1895"]
+      },
+      "FAMC": ["1C-II"],
+      "FAMS": ["1C-II-1"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.II.1(s)": {
+      "NAME": {
+        "GIVN": ["Marie-Esther-Josephine"],
+        "SURN": ["Garneau"]
+      },
+      "FAMS": ["1C-II-1"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.II.2": {
+      "NAME": {
+        "GIVN": ["Pierre-Marcel-Alphonse"],
+        "SURN": ["Marmette"]
+      },
+      "BIRT": {
+        "YEAR": ["1854"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "FAMC": ["1C-II"],
+      "FAMS": ["1C-II-2"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.II.2(s)": {
+      "NAME": {
+        "GIVN": ["Malvina"],
+        "SURN": ["Ferland"]
+      },
+      "BIRT": {
+        "YEAR": ["1866"]
+      },
+      "FAMS": ["1C-II-2"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.IV.1": {
+      "NAME": {
+        "GIVN": ["Marie Henriette"],
+        "SURN": ["Coursol"]
+      },
+      "BIRT": {
+        "YEAR": ["1850"]
+      },
+      "DEAT": {
+        "YEAR": ["1920"]
+      },
+      "FAMC": ["1C-IV"],
+      "FAMS": ["1C-IV-1"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.IV.1(s)": {
+      "NAME": {
+        "SURN": ["Kane"]
+      },
+      "FAMS": ["1C-IV-1"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.IV.2": {
+      "NAME": {
+        "GIVN": ["M.A. Héva"],
+        "SURN": ["Coursol"]
+      },
+      "BIRT": {
+        "YEAR": ["1854"]
+      },
+      "DEAT": {
+        "YEAR": ["1877"]
+      },
+      "FAMC": ["1C-IV"],
+      "FAMS": ["1C-IV-2"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.IV.2(s)": {
+      "NAME": {
+        "GIVN": ["Damase"],
+        "SURN": ["Sincennes"]
+      },
+      "FAMS": ["1C-IV-2"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.IV.3": {
+      "NAME": {
+        "GIVN": ["C.J. Quesnel"],
+        "SURN": ["Coursol"]
+      },
+      "BIRT": {
+        "YEAR": ["1856"]
+      },
+      "DEAT": {
+        "YEAR": ["1897"]
+      },
+      "FAMC": ["1C-IV"],
+      "FAMS": ["1C-IV-3"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.IV.3(s)": {
+      "FAMS": ["1C-IV-3"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.V.1": {
+      "NAME": {
+        "GIVN": ["Marie-Louise"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1883"]
+      },
+      "DEAT": {
+        "YEAR": ["1850"]
+      },
+      "FAMC": ["1C-V"],
+      "FAMS": ["1C-V-1"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.V.1(s)": {
+      "NAME": {
+        "SURN": ["Paquet"]
+      },
+      "FAMS": ["1C-V-1"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.V.2": {
+      "NAME": {
+        "GIVN": ["Marguerite M.E."],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1886"]
+      },
+      "DEAT": {
+        "YEAR": ["1965"]
+      },
+      "FAMC": ["1C-V"],
+      "FAMS": ["1C-V-2"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.V.2(s)": {
+      "NAME": {
+        "GIVN": ["Maurice"],
+        "SURN": ["Hébert"]
+      },
+      "BIRT": {
+        "YEAR": ["1888"]
+      },
+      "DEAT": {
+        "YEAR": ["1960"]
+      },
+      "FAMS": ["1C-V-2"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.V.3": {
+      "NAME": {
+        "GIVN": ["Marie-Clara-Hélène"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1892"]
+      },
+      "DEAT": {
+        "YEAR": ["1994"]
+      },
+      "FAMC": ["1C-V"],
+      "FAMS": ["1C-V-3"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.V.3(s)": {
+      "NAME": {
+        "GIVN": ["Michel"],
+        "SURN": ["Fragasso"]
+      },
+      "BIRT": {
+        "YEAR": ["1888"],
+        "PLAC": ["Cérignola Italie"]
+      },
+      "DEAT": {
+        "YEAR": ["1954"]
+      },
+      "FAMS": ["1C-V-3"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.VI.1": {
+      "NAME": {
+        "GIVN": ["Félix A."],
+        "SURN": ["Gauthier"]
+      },
+      "BIRT": {
+        "YEAR": ["1871"]
+      },
+      "DEAT": {
+        "YEAR": ["1937"]
+      },
+      "FAMC": ["1C-VI"],
+      "FAMS": ["1C-VI-1"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.VI.1(s)": {
+      "NAME": {
+        "GIVN": ["Marie-Louise"],
+        "SURN": ["Laperrière"]
+      },
+      "FAMS": ["1C-VI-1"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.VI.2": {
+      "NAME": {
+        "GIVN": ["Narcisse E."],
+        "SURN": ["Gauthier"]
+      },
+      "BIRT": {
+        "YEAR": ["1875"]
+      },
+      "DEAT": {
+        "YEAR": ["1942"]
+      },
+      "FAMC": ["1C-VI"],
+      "FAMS": ["1C-VI-2"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.VI.2(s)": {
+      "FAMS": ["1C-VI-2"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.VII.1": {
+      "NAME": {
+        "GIVN": ["Etienne"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1868"]
+      },
+      "DEAT": {
+        "YEAR": ["1906"]
+      },
+      "FAMC": ["1C-VII"],
+      "FAMS": ["1C-VII-1"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.VII.1(s)": {
+      "FAMS": ["1C-VII-1"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.VII.2": {
+      "NAME": {
+        "GIVN": ["Jules"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1869"]
+      },
+      "DEAT": {
+        "YEAR": ["1914"]
+      },
+      "FAMC": ["1C-VII"],
+      "FAMS": ["1C-VII-2"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.VII.2(s)": {
+      "FAMS": ["1C-VII-2"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.VII.3": {
+      "NAME": {
+        "GIVN": ["Alexandre"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1870"]
+      },
+      "FAMC": ["1C-VII"],
+      "FAMS": ["1C-VII-3"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.VII.3(s)": {
+      "NAME": {
+        "GIVN": ["Rosalie"],
+        "SURN": ["Casgrain"]
+      },
+      "BIRT": {
+        "YEAR": ["1875"]
+      },
+      "FAMS": ["1C-VII-3"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.VII.4": {
+      "NAME": {
+        "GIVN": ["E.E. Sophie"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1878"]
+      },
+      "FAMC": ["1C-VII"],
+      "FAMS": ["1C-VII-4"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.C.VII.4(s)": {
+      "NAME": {
+        "SURN": ["Bélanger"]
+      },
+      "FAMS": ["1C-VII-4"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.D.III.1": {
+      "NAME": {
+        "GIVN": ["M.C. Elisabeth"],
+        "SURN": ["Ennis"]
+      },
+      "BIRT": {
+        "YEAR": ["1860"],
+        "PLAC": ["Kamouraska Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1931"]
+      },
+      "FAMC": ["1D-III"],
+      "FAMS": ["1D-III-1"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.D.III.2": {
+      "NAME": {
+        "GIVN": ["Dr., Thomas"],
+        "SURN": ["Ennis"]
+      },
+      "BIRT": {
+        "YEAR": ["1861"],
+        "PLAC": ["Kamouraska Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1899"]
+      },
+      "FAMC": ["1D-III"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.D.III.3": {
+      "NAME": {
+        "GIVN": ["M.J. Emilie"],
+        "SURN": ["Ennis"]
+      },
+      "BIRT": {
+        "YEAR": ["1865"],
+        "PLAC": ["Ottawa Ont."]
+      },
+      "DEAT": {
+        "YEAR": ["1936"]
+      },
+      "FAMC": ["1D-III"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.D.III.4": {
+      "NAME": {
+        "GIVN": ["Marie"],
+        "SURN": ["Ennis"]
+      },
+      "BIRT": {
+        "YEAR": ["1867"]
+      },
+      "DEAT": {
+        "YEAR": ["1945"]
+      },
+      "FAMC": ["1D-III"],
+      "FAMS": ["1D-III-4"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.D.III.4(s)": {
+      "NAME": {
+        "SURN": ["Burke"]
+      },
+      "FAMS": ["1D-III-4"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.D.III.5": {
+      "NAME": {
+        "GIVN": ["Edward G.A."],
+        "SURN": ["Ennis"]
+      },
+      "BIRT": {
+        "YEAR": ["1871"]
+      },
+      "DEAT": {
+        "YEAR": ["1935"]
+      },
+      "FAMC": ["1D-III"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.D.III.6": {
+      "NAME": {
+        "GIVN": ["M. Emilie"],
+        "SURN": ["Ennis"]
+      },
+      "BIRT": {
+        "YEAR": ["1872"]
+      },
+      "DEAT": {
+        "YEAR": ["1936"]
+      },
+      "FAMC": ["1D-III"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "1.D.III.7": {
+      "NAME": {
+        "GIVN": ["Blanche"],
+        "SURN": ["Ennis"]
+      },
+      "BIRT": {
+        "YEAR": ["1874"],
+        "PLAC": ["Jersey City N.J."]
+      },
+      "DEAT": {
+        "YEAR": ["1963"]
+      },
+      "FAMC": ["1D-III"],
+      "gen": [7],
+      "graph": [false]
+    },
+    "2.A.I.1": {
+      "NAME": {
+        "GIVN": ["Louis-Ivanhoe"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1835"],
+        "PLAC": ["Kamouraska Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1887"]
+      },
+      "HONO": ["Seigneur de Kamouraska"],
+      "FAMC": ["2A-I"],
+      "FAMS": ["2A-I-1"],
+      "gen": [7],
+      "position": [1],
+      "graph": [true]
+    },
+    "2.A.I.1(s)": {
+      "NAME": {
+        "GIVN": ["Therese-Catherine"],
+        "SURN": ["Power"]
+      },
+      "BIRT": {
+        "YEAR": ["1837"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1890"]
+      },
+      "FAMS": ["2A-I-1"],
+      "gen": [7],
+      "position": [2],
+      "graph": [true]
+    },
+    "2.A.I.2": {
+      "NAME": {
+        "GIVN": ["L.E.I. "],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1836"],
+        "PLAC": ["Kamouraska Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1879"]
+      },
+      "FAMC": ["2A-I"],
+      "FAMS": ["2A-I-2"],
+      "gen": [7],
+      "position": [3],
+      "graph": [true]
+    },
+    "2.A.I.2(s)": {
+      "NAME": {
+        "GIVN": ["Mary Jane"],
+        "SURN": ["Ahern"]
+      },
+      "BIRT": {
+        "PLAC": ["Lévis Qc."]
+      },
+      "FAMS": ["2A-I-2"],
+      "gen": [7],
+      "position": [4],
+      "graph": [true]
+    },
+    "2.A.II.1": {
+      "NAME": {
+        "GIVN": ["Marie-Géraldine"],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "YEAR": ["1843"],
+        "PLAC": ["Trois-Pistoles Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1871"]
+      },
+      "FAMC": ["2A-II"],
+      "FAMS": ["2A-II-1"],
+      "gen": [7],
+      "position": [5],
+      "graph": [true]
+    },
+    "2.A.II.1(s)": {
+      "NAME": {
+        "GIVN": ["David"],
+        "SURN": ["Bertrand"]
+      },
+      "BIRT": {
+        "YEAR": ["1835"],
+        "PLAC": ["Trois-Pistoles Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1910"]
+      },
+      "FAMS": ["2A-II-1"],
+      "gen": [7],
+      "position": [6],
+      "graph": [true]
+    },
+    "2.A.II.2": {
+      "NAME": {
+        "GIVN": ["Louis-Christophe"],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "YEAR": ["1845"]
+      },
+      "FAMC": ["2A-II"],
+      "FAMS": ["2A-II-2"],
+      "gen": [7],
+      "position": [7],
+      "graph": [true]
+    },
+    "2.A.II.2(s)": {
+      "NAME": {
+        "GIVN": ["M.R. Georgianna"],
+        "SURN": ["L'Heureux"]
+      },
+      "BIRT": {
+        "YEAR": ["1853"]
+      },
+      "FAMS": ["2A-II-2"],
+      "gen": [7],
+      "position": [8],
+      "graph": [true]
+    },
+    "2.A.II.3": {
+      "NAME": {
+        "GIVN": ["M.H. Amélie"],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "YEAR": ["1846"],
+        "PLAC": ["Trois-Pistoles Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1928"]
+      },
+      "FAMC": ["2A-II"],
+      "FAMS": ["2A-II-3"],
+      "gen": [7],
+      "position": [9],
+      "graph": [true]
+    },
+    "2.A.II.3(s)": {
+      "NAME": {
+        "GIVN": ["Charles"],
+        "SURN": ["Lebouthillier"]
+      },
+      "BIRT": {
+        "YEAR": ["1840"]
+      },
+      "FAMS": ["2A-II-3"],
+      "gen": [7],
+      "position": [10],
+      "graph": [true]
+    },
+    "2.A.II.4": {
+      "NAME": {
+        "GIVN": ["Nazaire-Ernest"],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "YEAR": ["1847"],
+        "PLAC": ["Trois-Pistoles Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1881"]
+      },
+      "FAMC": ["2A-II"],
+      "gen": [7],
+      "position": [11],
+      "graph": [true]
+    },
+    "2.A.II.5": {
+      "NAME": {
+        "GIVN": ["Marie-Juanita"],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "YEAR": ["1849"],
+        "PLAC": ["Trois-Pistoles Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1908"]
+      },
+      "FAMC": ["2A-II"],
+      "FAMS": ["2A-II-5"],
+      "gen": [7],
+      "position": [12],
+      "graph": [true]
+    },
+    "2.A.II.5(s)": {
+      "NAME": {
+        "GIVN": ["William-Henri"],
+        "SURN": ["French"]
+      },
+      "BIRT": {
+        "YEAR": ["1850"]
+      },
+      "FAMS": ["2A-II-5"],
+      "gen": [7],
+      "position": [13],
+      "graph": [true]
+    },
+    "2.A.II.6": {
+      "NAME": {
+        "GIVN": ["Jean-Etienne"],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "YEAR": ["1849"],
+        "PLAC": ["Trois-Pistoles Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1892"]
+      },
+      "FAMC": ["2A-II"],
+      "FAMS": ["2A-II-6"],
+      "gen": [7],
+      "position": [14],
+      "graph": [true]
+    },
+    "2.A.II.6(s)": {
+      "FAMS": ["2A-II-6"],
+      "gen": [7],
+      "position": [15],
+      "graph": [true]
+    },
+    "2.A.II.7": {
+      "NAME": {
+        "GIVN": ["Marie-Léa"],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "YEAR": ["1851"],
+        "PLAC": ["Trois-Pistoles Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1927"]
+      },
+      "FAMC": ["2A-II"],
+      "gen": [7],
+      "position": [16],
+      "graph": [true]
+    },
+    "2.A.II.8": {
+      "NAME": {
+        "GIVN": ["Daniel-Edmond"],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "YEAR": ["1852"],
+        "PLAC": ["Trois-Pistoles Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1934"]
+      },
+      "FAMC": ["2A-II"],
+      "gen": [7],
+      "position": [17],
+      "graph": [true]
+    },
+    "2.A.II.9": {
+      "NAME": {
+        "GIVN": ["Marie-Eva"],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "YEAR": ["1853"],
+        "PLAC": ["Trois-Pistoles Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1918"]
+      },
+      "FAMC": ["2A-II"],
+      "FAMS": ["2A-II-9"],
+      "gen": [7],
+      "position": [18],
+      "graph": [true]
+    },
+    "2.A.II.9(s)": {
+      "NAME": {
+        "GIVN": ["Pierre-Henri"],
+        "SURN": ["Garneau"]
+      },
+      "BIRT": {
+        "YEAR": ["1852"],
+        "PLAC": ["Ste-Anne-de-la-Pérade Qc."]
+      },
+      "FAMS": ["2A-II-9"],
+      "gen": [7],
+      "position": [19],
+      "graph": [true]
+    },
+    "2.A.II.10": {
+      "NAME": {
+        "GIVN": ["Joseph-Ulric"],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "YEAR": ["1855"],
+        "PLAC": ["Trois-Pistoles Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1935"]
+      },
+      "FAMC": ["2A-II"],
+      "FAMS": ["2A-II-10"],
+      "gen": [7],
+      "position": [20],
+      "graph": [true]
+    },
+    "2.A.II.10(s)": {
+      "NAME": {
+        "GIVN": ["Marie-Eugénie"],
+        "SURN": ["Côté"]
+      },
+      "BIRT": {
+        "YEAR": ["1866"],
+        "PLAC": ["Montmagny Qcé"]
+      },
+      "DEAT": {
+        "YEAR": ["1939"]
+      },
+      "FAMS": ["2A-II-10"],
+      "gen": [7],
+      "position": [21],
+      "graph": [true]
+    },
+    "2.A.II.11": {
+      "NAME": {
+        "GIVN": ["Marie-Louise-Sophie"],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "YEAR": ["1856"],
+        "PLAC": ["Trois-Pistoles Qc."]
+      },
+      "FAMC": ["2A-II"],
+      "gen": [7],
+      "position": [22],
+      "graph": [true]
+    },
+    "2.A.III.1": {
+      "NAME": {
+        "GIVN": ["J.A.T. "],
+        "SURN": ["de Lanaudière"]
+      },
+      "BIRT": {
+        "YEAR": ["1855"]
+      },
+      "DEAT": {
+        "YEAR": ["1935"]
+      },
+      "FAMC": ["2A-III"],
+      "FAMS": ["2A-III-1"],
+      "gen": [7],
+      "position": [23],
+      "graph": [true]
+    },
+    "2.A.III.1(s)": {
+      "NAME": {
+        "GIVN": ["L.A."],
+        "SURN": ["McConville"]
+      },
+      "FAMS": ["2A-III-1"],
+      "gen": [7],
+      "position": [24],
+      "graph": [true]
+    },
+    "2.A.III.2": {
+      "NAME": {
+        "GIVN": ["M.A.A.T."],
+        "SURN": ["de Lanaudière"]
+      },
+      "BIRT": {
+        "YEAR": ["1860"]
+      },
+      "DEAT": {
+        "YEAR": ["1950"]
+      },
+      "FAMC": ["2A-III"],
+      "FAMS": ["2A-III-2"],
+      "gen": [7],
+      "position": [25],
+      "graph": [true]
+    },
+    "2.A.III.2(s)": {
+      "NAME": {
+        "SURN": ["Neilson"]
+      },
+      "FAMS": ["2A-III-2"],
+      "gen": [7],
+      "position": [26],
+      "graph": [true]
+    },
+    "2.A.III.3": {
+      "NAME": {
+        "GIVN": ["Lieut. Col., J.G. Charles"],
+        "SURN": ["Taché de Lanaudière"]
+      },
+      "BIRT": {
+        "YEAR": ["1862"]
+      },
+      "DEAT": {
+        "YEAR": ["1926"]
+      },
+      "HONO": ["Vétéran de la guerre 1914-18"],
+      "FAMC": ["2A-III"],
+      "gen": [7],
+      "position": [27],
+      "graph": [true]
+    },
+    "1.A.I.1.1": {
+      "NAME": {
+        "GIVN": ["Marie-Louise"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1881"],
+        "PLAC": ["Montréal Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1973"]
+      },
+      "FAMC": ["1A-I-1"],
+      "FAMS": ["1A-I-1-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.I.1.1(s)": {
+      "NAME": {
+        "GIVN": ["Paul-Emile"],
+        "SURN": ["Mercier"]
+      },
+      "BIRT": {
+        "YEAR": ["1877"],
+        "PLAC": ["Montréal Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1926"]
+      },
+      "FAMS": ["1A-I-1-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.I.1.2": {
+      "NAME": {
+        "GIVN": ["Mme., J.T."],
+        "SURN": ["Girard"]
+      },
+      "BIRT": {
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["1A-I-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.1.1": {
+      "NAME": {
+        "GIVN": ["Anne-Marie"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["Saint-Hyacinthe Qc."]
+      },
+      "FAMC": ["1A-II-1"],
+      "FAMS": ["1A-II-1-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.1.1(s)": {
+      "NAME": {
+        "GIVN": ["Auguste"],
+        "SURN": ["Panneton"]
+      },
+      "BIRT": {
+        "PLAC": ["Trois-Rivières"]
+      },
+      "FAMS": ["1A-II-1-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.1.2": {
+      "NAME": {
+        "GIVN": ["P. de L. "],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1A-II-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.1.3": {
+      "NAME": {
+        "GIVN": ["Marguerite"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1892"],
+        "PLAC": ["Québec"]
+      },
+      "DEAT": {
+        "YEAR": ["1968"]
+      },
+      "FAMC": ["1A-II-1"],
+      "FAMS": ["1A-II-1-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.1.3(s)": {
+      "NAME": {
+        "GIVN": ["Paul"],
+        "SURN": ["Samson"]
+      },
+      "BIRT": {
+        "YEAR": ["1891"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1982"]
+      },
+      "FAMS": ["1A-II-1-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.1.4": {
+      "NAME": {
+        "GIVN": ["Hon., Joseph-Alexandre"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1899"],
+        "PLAC": ["Saint-Hyacinthe Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1961"]
+      },
+      "HONO": ["Député de Hull"],
+      "FAMC": ["1A-II-1"],
+      "FAMS": ["1A-II-1-4"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.1.4(s)": {
+      "NAME": {
+        "GIVN": ["Marie-Berthe"],
+        "SURN": ["Laflamme"]
+      },
+      "BIRT": {
+        "YEAR": ["1905"],
+        "PLAC": ["Hull Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1992"]
+      },
+      "FAMS": ["1A-II-1-4"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.1.5": {
+      "NAME": {
+        "GIVN": ["Rév., P. Bernard"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["1A-II-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.1.6": {
+      "NAME": {
+        "GIVN": ["Rév., P. Louis"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["1A-II-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.2.1": {
+      "NAME": {
+        "GIVN": ["Mme., Alice"],
+        "SURN": ["Wollërt"]
+      },
+      "BIRT": {
+        "PLAC": ["Stockholm Suède"]
+      },
+      "FAMC": ["1A-II-2"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.3.1": {
+      "NAME": {
+        "GIVN": ["Marie-Henriette-Blanche"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1895"],
+        "PLAC": ["Saint-Hyacinthe Qc."]
+      },
+      "FAMC": ["1A-II-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.3.2": {
+      "NAME": {
+        "GIVN": ["Louis-Arthur-Henri"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1896"],
+        "PLAC": ["Saint-Hyacinthe Qc."]
+      },
+      "FAMC": ["1A-II-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.3.3": {
+      "NAME": {
+        "GIVN": ["Mme., F."],
+        "SURN": ["Côté"]
+      },
+      "BIRT": {
+        "PLAC": ["Waterloo Ont."]
+      },
+      "FAMC": ["1A-II-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.3.4": {
+      "NAME": {
+        "GIVN": ["Mme., A."],
+        "SURN": ["Pelletier"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1A-II-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.3.5": {
+      "NAME": {
+        "GIVN": ["Joseph-Charles-Roland"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1901"],
+        "PLAC": ["Saint-Hyacinthe Qc."]
+      },
+      "FAMC": ["1A-II-3"],
+      "FAMS": ["1A-II-3-5"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.3.5(s)": {
+      "NAME": {
+        "GIVN": ["Marie-Corenne-Gabrielle"],
+        "SURN": ["Taschereau"]
+      },
+      "BIRT": {
+        "YEAR": ["1903"],
+        "PLAC": ["Sorel Qc."]
+      },
+      "FAMS": ["1A-II-3-5"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.3.6": {
+      "NAME": {
+        "GIVN": ["Marie-Odile-Alice"],
+        "SURN": ["Viney"]
+      },
+      "BIRT": {
+        "YEAR": ["1907"],
+        "PLAC": ["Bourlamaque Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1997"]
+      },
+      "FAMC": ["1A-II-3"],
+      "FAMS": ["1A-II-3-6"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.3.6(s)": {
+      "NAME": {
+        "GIVN": ["Édouart-Edward"],
+        "SURN": ["Viney"]
+      },
+      "BIRT": {
+        "YEAR": ["1896"],
+        "PLAC": ["Saint-Petersbourg Russie"]
+      },
+      "DEAT": {
+        "YEAR": ["1967"]
+      },
+      "FAMS": ["1A-II-3-6"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.3.7": {
+      "NAME": {
+        "GIVN": ["Jacques"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1909"],
+        "PLAC": ["Montréal Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1997"]
+      },
+      "FAMC": ["1A-II-3"],
+      "FAMS": ["1A-II-3-7"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.3.7(s)": {
+      "NAME": {
+        "GIVN": ["Irene"],
+        "SURN": ["Lahaise"]
+      },
+      "BIRT": {
+        "YEAR": ["1906"]
+      },
+      "DEAT": {
+        "YEAR": ["1999"]
+      },
+      "FAMS": ["1A-II-3-7"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.4.1": {
+      "NAME": {
+        "GIVN": ["Louis"],
+        "SURN": ["Mignault"]
+      },
+      "BIRT": {
+        "PLAC": ["Hull Qc."]
+      },
+      "FAMC": ["1A-II-4"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.4.2": {
+      "NAME": {
+        "GIVN": ["C. de L."],
+        "SURN": ["Mignault"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1A-II-4"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.4.3": {
+      "NAME": {
+        "GIVN": ["Dr., A."],
+        "SURN": ["Mignault"]
+      },
+      "BIRT": {
+        "PLAC": ["Sherbrooke Qc."]
+      },
+      "FAMC": ["1A-II-4"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.4.4": {
+      "NAME": {
+        "GIVN": ["Mme., R."],
+        "SURN": ["Beaudoin"]
+      },
+      "BIRT": {
+        "PLAC": ["Rock Forest Qc."]
+      },
+      "FAMC": ["1A-II-4"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.5.1": {
+      "NAME": {
+        "GIVN": ["Mme., NA"],
+        "SURN": ["Young"]
+      },
+      "FAMC": ["1A-II-5"],
+      "FAMS": ["1A-II-5-1(a)", "1A-II-5-1(b)"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.5.1(s)": {
+      "NAME": {
+        "GIVN": ["Ralph"],
+        "SURN": ["Young"]
+      },
+      "FAMS": ["1A-II-5-1(a)"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.A.II.5.1(s2)": {
+      "NAME": {
+        "GIVN": ["Royer C."],
+        "SURN": ["Wilder"]
+      },
+      "FAMS": ["1A-II-5-1(b)"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.B.II.1.1": {
+      "NAME": {
+        "GIVN": ["Roland"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["St-Jovite Qc."]
+      },
+      "FAMC": ["1B-II-1"],
+      "FAMS": ["1B-II-1-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.B.II.1.1(s)": {
+      "NAME": {
+        "GIVN": ["Edna"],
+        "SURN": ["Brown"]
+      },
+      "BIRT": {
+        "PLAC": ["St-Jovite Qc."]
+      },
+      "FAMS": ["1B-II-1-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.B.II.1.2": {
+      "NAME": {
+        "GIVN": ["Henri"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["Maniwaki Qc."]
+      },
+      "FAMC": ["1B-II-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.B.II.1.3": {
+      "NAME": {
+        "GIVN": ["Paschal"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["1B-II-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.B.II.1.4": {
+      "NAME": {
+        "GIVN": ["Léo-Adolphe"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["Montebello Qc."]
+      },
+      "FAMC": ["1B-II-1"],
+      "FAMS": ["1B-II-1-4"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.B.II.1.4(s)": {
+      "NAME": {
+        "GIVN": ["Mabel-Constance"],
+        "SURN": ["Boyes"]
+      },
+      "FAMS": ["1B-II-1-4"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.B.II.2.1": {
+      "NAME": {
+        "GIVN": ["Amanda"],
+        "SURN": ["Gagné"]
+      },
+      "FAMC": ["1B-II-2"],
+      "FAMS": ["1B-II-2-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.B.II.2.1(s)": {
+      "NAME": {
+        "GIVN": ["J.C."],
+        "SURN": ["Gagné"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMS": ["1B-II-2-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.B.II.4.1": {
+      "NAME": {
+        "GIVN": ["Marie Alma"],
+        "SURN": ["Cimon"]
+      },
+      "BIRT": {
+        "YEAR": ["1894"],
+        "PLAC": ["La Malbaie Qc."]
+      },
+      "FAMC": ["1B-II-4"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.B.II.4.2": {
+      "NAME": {
+        "GIVN": ["Antoine"],
+        "SURN": ["Cimon"]
+      },
+      "BIRT": {
+        "YEAR": ["1898"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1967"]
+      },
+      "FAMC": ["1B-II-4"],
+      "FAMS": ["1B-II-4-2"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.B.II.4.2(s)": {
+      "NAME": {
+        "GIVN": ["Rachel"],
+        "SURN": ["Cimon"]
+      },
+      "BIRT": {
+        "YEAR": ["1899"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1985"]
+      },
+      "FAMS": ["1B-II-4-2"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.I.1.1": {
+      "NAME": {
+        "GIVN": ["Sophie"],
+        "SURN": ["Bender"]
+      },
+      "BIRT": {
+        "YEAR": ["1881"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1907"]
+      },
+      "FAMC": ["1C-I-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.I.1.2": {
+      "NAME": {
+        "GIVN": ["Michel"],
+        "SURN": ["Bender"]
+      },
+      "BIRT": {
+        "YEAR": ["1882"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1950"]
+      },
+      "FAMC": ["1C-I-1"],
+      "FAMS": ["1C-I-1-2"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.I.1.2(s)": {
+      "NAME": {
+        "GIVN": ["Almeria"],
+        "SURN": ["Coulombe"]
+      },
+      "BIRT": {
+        "YEAR": ["1892"],
+        "PLAC": ["Montmagny Qcc."]
+      },
+      "FAMS": ["1C-I-1-2"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.I.1.3": {
+      "NAME": {
+        "GIVN": ["Albertine"],
+        "SURN": ["Bender"]
+      },
+      "BIRT": {
+        "YEAR": ["1885"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "FAMC": ["1C-I-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.I.2a.1": {
+      "NAME": {
+        "GIVN": ["Mme., J.-Eugène"],
+        "SURN": ["Leblanc"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-I-2(a)"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.I.2b.1": {
+      "NAME": {
+        "GIVN": ["Mme., Willis R."],
+        "SURN": ["Miller"]
+      },
+      "BIRT": {
+        "PLAC": ["Winnipeg Man."]
+      },
+      "FAMC": ["1C-I-2(b)"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.I.2b.2": {
+      "NAME": {
+        "GIVN": ["William"],
+        "SURN": ["Bender"]
+      },
+      "BIRT": {
+        "PLAC": ["Vancouver C.-B."]
+      },
+      "FAMC": ["1C-I-2(b)"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.I.2b.3": {
+      "NAME": {
+        "GIVN": ["Hector "],
+        "SURN": ["Bender"]
+      },
+      "BIRT": {
+        "YEAR": ["1889"],
+        "PLAC": ["Montmagny Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1973"]
+      },
+      "FAMC": ["1C-I-2(b)"],
+      "FAMS": ["1C-I-2(b)-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.I.2b.3(s)": {
+      "NAME": {
+        "GIVN": ["Virginie"],
+        "SURN": ["L'Espérence"]
+      },
+      "BIRT": {
+        "YEAR": ["1887"]
+      },
+      "FAMS": ["1C-I-2(b)-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.I.2b.4": {
+      "NAME": {
+        "GIVN": ["Mme., T."],
+        "SURN": ["Mathew"]
+      },
+      "BIRT": {
+        "PLAC": ["Lackerby Ont."]
+      },
+      "FAMC": ["1C-I-2(b)"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.I.2b.5": {
+      "NAME": {
+        "GIVN": ["Carl"],
+        "SURN": ["Bender"]
+      },
+      "BIRT": {
+        "PLAC": ["Montmagny Qc."]
+      },
+      "FAMC": ["1C-I-2(b)"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.I.2b.6": {
+      "NAME": {
+        "GIVN": ["Mme., Marc"],
+        "SURN": ["Auger"]
+      },
+      "BIRT": {
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["1C-I-2(b)"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.I.2b.7": {
+      "NAME": {
+        "GIVN": ["A."],
+        "SURN": ["Bender"]
+      },
+      "BIRT": {
+        "PLAC": ["St-Vital Man."]
+      },
+      "FAMC": ["1C-I-2(b)"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.I.3.1": {
+      "NAME": {
+        "GIVN": ["Mme., Léon T."],
+        "SURN": ["DesRivières"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-I-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.I.3.2": {
+      "NAME": {
+        "GIVN": ["Auguste"],
+        "SURN": ["Choquet"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-I-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.I.3.3": {
+      "NAME": {
+        "GIVN": ["Mme., Charles"],
+        "SURN": ["Gendron"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-I-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.I.3.4": {
+      "NAME": {
+        "GIVN": ["Hon., Fernand"],
+        "SURN": ["Choquet"]
+      },
+      "BIRT": {
+        "YEAR": ["1895"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1975"]
+      },
+      "HONO": ["Député Libéral de Montmagny"],
+      "FAMC": ["1C-I-3"],
+      "FAMS": ["1C-I-3-4"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.I.3.4(s)": {
+      "NAME": {
+        "GIVN": ["Marguerite"],
+        "SURN": ["Vallerand"]
+      },
+      "BIRT": {
+        "YEAR": ["1892"]
+      },
+      "DEAT": {
+        "YEAR": ["1972"]
+      },
+      "FAMS": ["1C-I-3-4"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.I.3.5": {
+      "NAME": {
+        "GIVN": ["Rodrigue"],
+        "SURN": ["Choquet"]
+      },
+      "BIRT": {
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["1C-I-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.II.1.1": {
+      "NAME": {
+        "GIVN": ["Mme., Donat"],
+        "SURN": ["Brodeur"]
+      },
+      "BIRT": {
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["1C-II-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.II.1.2": {
+      "NAME": {
+        "GIVN": ["Lucien "],
+        "SURN": ["Marmette"]
+      },
+      "BIRT": {
+        "PLAC": ["Australie"]
+      },
+      "FAMC": ["1C-II-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.II.1.3": {
+      "NAME": {
+        "GIVN": ["Alphonse"],
+        "SURN": ["Marmette"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec"]
+      },
+      "FAMC": ["1C-II-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.II.1.4": {
+      "NAME": {
+        "GIVN": ["Paul"],
+        "SURN": ["Marmette"]
+      },
+      "BIRT": {
+        "PLAC": ["Vancouver C.B."]
+      },
+      "FAMC": ["1C-II-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.II.1.5": {
+      "NAME": {
+        "GIVN": ["Léon"],
+        "SURN": ["Marmette"]
+      },
+      "BIRT": {
+        "PLAC": ["Montmagny Qc."]
+      },
+      "FAMC": ["1C-II-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.II.1.6": {
+      "NAME": {
+        "GIVN": ["Régine"],
+        "SURN": ["Marmette"]
+      },
+      "BIRT": {
+        "PLAC": ["Montmagny Qc."]
+      },
+      "FAMC": ["1C-II-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.II.1.7": {
+      "NAME": {
+        "GIVN": ["Denise"],
+        "SURN": ["Marmette"]
+      },
+      "BIRT": {
+        "PLAC": ["Montmagny Qc."]
+      },
+      "FAMC": ["1C-II-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.II.1.8": {
+      "NAME": {
+        "GIVN": ["Alexandrine"],
+        "SURN": ["Marmette"]
+      },
+      "FAMC": ["1C-II-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.II.2.1": {
+      "NAME": {
+        "GIVN": ["Alphonse-Louis-Joseph"],
+        "SURN": ["Marmette"]
+      },
+      "BIRT": {
+        "PLAC": ["Sainte-Pétronille Qc."]
+      },
+      "FAMC": ["1C-II-2"],
+      "FAMS": ["1C-II-2-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.II.2.1(s)": {
+      "NAME": {
+        "GIVN": ["Josephine"],
+        "SURN": ["Dugal"]
+      },
+      "BIRT": {
+        "PLAC": ["Île d'Orléans Qc."]
+      },
+      "FAMS": ["1C-II-2-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.IV.1.1": {
+      "NAME": {
+        "GIVN": ["Harriet"],
+        "SURN": ["Kane"]
+      },
+      "BIRT": {
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["1C-IV-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.IV.1.2": {
+      "NAME": {
+        "GIVN": ["Claire "],
+        "SURN": ["Kane"]
+      },
+      "BIRT": {
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["1C-IV-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.IV.1.3": {
+      "NAME": {
+        "GIVN": ["Rodrerick A."],
+        "SURN": ["Kane"]
+      },
+      "BIRT": {
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["1C-IV-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.IV.3.1": {
+      "NAME": {
+        "GIVN": ["Mme., A.H."],
+        "SURN": ["Holden"]
+      },
+      "FAMC": ["1C-IV-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.IV.3.2": {
+      "NAME": {
+        "GIVN": ["C.W."],
+        "SURN": ["Coursol"]
+      },
+      "BIRT": {
+        "PLAC": ["Ottawa Ont."]
+      },
+      "FAMC": ["1C-IV-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.IV.3.3": {
+      "NAME": {
+        "GIVN": ["Mme., E. William"],
+        "SURN": ["Pope"]
+      },
+      "BIRT": {
+        "PLAC": ["Victoria C.-B."]
+      },
+      "FAMC": ["1C-IV-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.V.1.1": {
+      "NAME": {
+        "GIVN": ["Mme., René"],
+        "SURN": ["Boisvert"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-V-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.V.1.2": {
+      "NAME": {
+        "GIVN": ["Hélène "],
+        "SURN": ["Paquet"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-V-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.V.1.3": {
+      "NAME": {
+        "GIVN": ["Théodore"],
+        "SURN": ["Paquet"]
+      },
+      "BIRT": {
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["1C-V-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.V.2.1": {
+      "NAME": {
+        "GIVN": ["Anne"],
+        "SURN": ["Hébert"]
+      },
+      "BIRT": {
+        "YEAR": ["1916"],
+        "PLAC": ["Ottawa Ont."]
+      },
+      "DEAT": {
+        "YEAR": ["2000"]
+      },
+      "HONO": ["Écrivaine célèbre"],
+      "FAMC": ["1C-V-2"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.V.2.2": {
+      "NAME": {
+        "GIVN": ["Jean "],
+        "SURN": ["Hébert"]
+      },
+      "BIRT": {
+        "YEAR": ["1920"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1999"]
+      },
+      "FAMC": ["1C-V-2"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.V.2.3": {
+      "NAME": {
+        "GIVN": ["Marie"],
+        "SURN": ["Hébert"]
+      },
+      "BIRT": {
+        "YEAR": ["1922"]
+      },
+      "DEAT": {
+        "YEAR": ["1952"]
+      },
+      "FAMC": ["1C-V-2"],
+      "FAMS": ["1C-V-2-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.V.2.3(s)": {
+      "NAME": {
+        "GIVN": ["Raymond"],
+        "SURN": ["Gourdeau"]
+      },
+      "BIRT": {
+        "YEAR": ["1922"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1981"]
+      },
+      "FAMS": ["1C-V-2-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.V.2.4": {
+      "NAME": {
+        "GIVN": ["Pierre"],
+        "SURN": ["Hébert"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-V-2"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.V.3.1": {
+      "NAME": {
+        "GIVN": ["Domenico"],
+        "SURN": ["Fragasso"]
+      },
+      "BIRT": {
+        "YEAR": ["1917"],
+        "PLAC": ["Notre-Dame Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1957"]
+      },
+      "FAMC": ["1C-V-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.V.3.2": {
+      "NAME": {
+        "GIVN": ["Guido"],
+        "SURN": ["Fragasso"]
+      },
+      "BIRT": {
+        "YEAR": ["1919"],
+        "PLAC": ["Notre-Dame Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1986"]
+      },
+      "FAMC": ["1C-V-3"],
+      "FAMS": ["1C-V-3-2"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.V.3.2(s)": {
+      "NAME": {
+        "GIVN": ["Andrée"],
+        "SURN": ["Joncas"]
+      },
+      "BIRT": {
+        "YEAR": ["1920"],
+        "PLAC": ["Notre-Dame Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["2009"]
+      },
+      "FAMS": ["1C-V-3-2"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.V.3.3": {
+      "NAME": {
+        "GIVN": ["Gilles"],
+        "SURN": ["Fragasso"]
+      },
+      "BIRT": {
+        "YEAR": ["1921"],
+        "PLAC": ["Notre-Dame Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["2012"]
+      },
+      "FAMC": ["1C-V-3"],
+      "FAMS": ["1C-V-3-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.V.3.3(s)": {
+      "FAMS": ["1C-V-3-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.V.3.4": {
+      "NAME": {
+        "GIVN": ["Gilda"],
+        "SURN": ["Fragasso"]
+      },
+      "BIRT": {
+        "YEAR": ["1921"],
+        "PLAC": ["Notre-Dame Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["2007"]
+      },
+      "FAMC": ["1C-V-3"],
+      "FAMS": ["1C-V-3-4"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.V.3.4(s)": {
+      "NAME": {
+        "GIVN": ["Emilien"],
+        "SURN": ["Chamberland"]
+      },
+      "BIRT": {
+        "YEAR": ["1908"],
+        "PLAC": ["Saint-Angèle-de-Méric Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1987"]
+      },
+      "FAMS": ["1C-V-3-4"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.V.3.5": {
+      "NAME": {
+        "GIVN": ["Mario"],
+        "SURN": ["Fragasso"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-V-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.V.3.6": {
+      "NAME": {
+        "GIVN": ["Mona"],
+        "SURN": ["Fragasso"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-V-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.V.3.7": {
+      "NAME": {
+        "GIVN": ["Roma"],
+        "SURN": ["Fragasso"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-V-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.V.3.8": {
+      "NAME": {
+        "GIVN": ["Michelle"],
+        "SURN": ["Fragasso"]
+      },
+      "FAMC": ["1C-V-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.V.3.9": {
+      "NAME": {
+        "GIVN": ["Bruno"],
+        "SURN": ["Fragasso"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-V-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.VI.2.1": {
+      "NAME": {
+        "GIVN": ["Albert"],
+        "SURN": ["Gauthier"]
+      },
+      "BIRT": {
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["1C-VI-2"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.VII.1.1": {
+      "NAME": {
+        "GIVN": ["Etienne"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-VII-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.VII.1.2": {
+      "NAME": {
+        "GIVN": ["Germaine"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-VII-1"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.VII.2.1": {
+      "NAME": {
+        "GIVN": ["Joliet"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-VII-2"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.VII.2.2": {
+      "NAME": {
+        "GIVN": ["Mme., M."],
+        "SURN": ["Podley"]
+      },
+      "BIRT": {
+        "PLAC": ["Fresno Calif."]
+      },
+      "FAMC": ["1C-VII-2"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.VII.2.3": {
+      "NAME": {
+        "GIVN": ["Paschal"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-VII-2"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.VII.2.4": {
+      "NAME": {
+        "GIVN": ["Philippe"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-VII-2"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.VII.2.5": {
+      "NAME": {
+        "GIVN": ["Patrice"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-VII-2"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.VII.2.6": {
+      "NAME": {
+        "GIVN": ["Mme., S.N."],
+        "SURN": ["Fisher"]
+      },
+      "BIRT": {
+        "PLAC": ["Chicago Ill."]
+      },
+      "FAMC": ["1C-VII-2"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.VII.2.7": {
+      "NAME": {
+        "GIVN": ["Gabrielle"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-VII-2"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.VII.2.8": {
+      "NAME": {
+        "GIVN": ["Jeanne"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-VII-2"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.VII.3.1": {
+      "NAME": {
+        "GIVN": ["Guy"],
+        "SURN": ["Taché"]
+      },
+      "FAMC": ["1C-VII-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.VII.3.2": {
+      "NAME": {
+        "GIVN": ["Rita"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-VII-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.VII.3.3": {
+      "NAME": {
+        "GIVN": ["Esther"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-VII-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.VII.3.4": {
+      "NAME": {
+        "GIVN": ["Marguerite"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-VII-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.VII.3.5": {
+      "NAME": {
+        "GIVN": ["Philippe"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-VII-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.VII.3.6": {
+      "NAME": {
+        "GIVN": ["Jacques"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-VII-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.VII.3.7": {
+      "NAME": {
+        "GIVN": ["Eugène"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-VII-3"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.VII.4.1": {
+      "NAME": {
+        "GIVN": ["Paul"],
+        "SURN": ["Bélanger"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-VII-4"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.VII.4.2": {
+      "NAME": {
+        "GIVN": ["Mme., O."],
+        "SURN": ["Longpré"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-VII-4"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.C.VII.4.3": {
+      "NAME": {
+        "GIVN": ["Adrien"],
+        "SURN": ["Bélanger"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["1C-VII-4"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.D.III.4.1": {
+      "NAME": {
+        "GIVN": ["Rév., Francis"],
+        "SURN": ["Burke"]
+      },
+      "BIRT": {
+        "YEAR": ["1898"],
+        "PLAC": ["Georgetown D.C."]
+      },
+      "DEAT": {
+        "YEAR": ["1934"]
+      },
+      "FAMC": ["1D-III-4"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.D.III.4.2": {
+      "NAME": {
+        "GIVN": ["Edward"],
+        "SURN": ["Burke"]
+      },
+      "BIRT": {
+        "YEAR": ["1898"],
+        "PLAC": ["Jersey City N.J."]
+      },
+      "DEAT": {
+        "YEAR": ["1934"]
+      },
+      "FAMC": ["1D-III-4"],
+      "FAMS": ["1D-III-4-2"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.D.III.4.2(s)": {
+      "NAME": {
+        "GIVN": ["Florence Catherine"],
+        "SURN": ["Clark"]
+      },
+      "BIRT": {
+        "YEAR": ["1902"]
+      },
+      "DEAT": {
+        "YEAR": ["1946"]
+      },
+      "FAMS": ["1D-III-4-2"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "1.D.III.4.3": {
+      "NAME": {
+        "GIVN": ["Mme., William"],
+        "SURN": ["Howe"]
+      },
+      "BIRT": {
+        "PLAC": ["Jersey City N.J."]
+      },
+      "FAMC": ["1D-III-4"],
+      "gen": [8],
+      "graph": [false]
+    },
+    "2.A.I.1.1": {
+      "NAME": {
+        "GIVN": ["William-Arthur "],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1857"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1913"]
+      },
+      "FAMC": ["2A-I-1"],
+      "gen": [8],
+      "position": [1],
+      "graph": [true]
+    },
+    "2.A.I.1.2": {
+      "NAME": {
+        "GIVN": ["M.S. Cécile"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1859"],
+        "PLAC": ["Kamouraska Qc."]
+      },
+      "FAMC": ["2A-I-1"],
+      "FAMS": ["2A-I-1-2"],
+      "gen": [8],
+      "position": [2],
+      "graph": [true]
+    },
+    "2.A.I.1.2(s)": {
+      "NAME": {
+        "GIVN": ["Jude-Alfred"],
+        "SURN": ["Chassé"]
+      },
+      "BIRT": {
+        "YEAR": ["1859"],
+        "PLAC": ["Sainte-Marie Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1946"]
+      },
+      "FAMS": ["2A-I-1-2"],
+      "gen": [8],
+      "position": [3],
+      "graph": [true]
+    },
+    "2.A.I.1.3": {
+      "NAME": {
+        "GIVN": ["Thérèse"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1860"],
+        "PLAC": ["Kamouraska Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1944"]
+      },
+      "FAMC": ["2A-I-1"],
+      "FAMS": ["2A-I-1-3"],
+      "gen": [8],
+      "position": [4],
+      "graph": [true]
+    },
+    "2.A.I.1.3(s)": {
+      "NAME": {
+        "GIVN": ["Louis-Amédée"],
+        "SURN": ["Desrosiers"]
+      },
+      "BIRT": {
+        "YEAR": ["1862"]
+      },
+      "DEAT": {
+        "YEAR": ["1932"]
+      },
+      "FAMS": ["2A-I-1-3"],
+      "gen": [8],
+      "position": [5],
+      "graph": [true]
+    },
+    "2.A.I.1.4": {
+      "NAME": {
+        "GIVN": ["Emma-Luce"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1862"],
+        "PLAC": ["Kamouraska Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1910"]
+      },
+      "gen": [8],
+      "position": [6],
+      "graph": [true]
+    },
+    "2.A.I.1.5": {
+      "NAME": {
+        "GIVN": ["L.J. Ivanhoe"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1863"],
+        "PLAC": ["Kamouraska Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1887"]
+      },
+      "FAMC": ["2A-I-1"],
+      "gen": [8],
+      "position": [7],
+      "graph": [true]
+    },
+    "2.A.I.1.6": {
+      "NAME": {
+        "GIVN": ["Henri"],
+        "SURN": ["Taché"]
+      },
+      "BIRT": {
+        "YEAR": ["1871"],
+        "PLAC": ["Kamouraska Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1952"]
+      },
+      "FAMC": ["2A-I-1"],
+      "FAMS": ["2A-I-1-6"],
+      "gen": [8],
+      "position": [8],
+      "graph": [true]
+    },
+    "2.A.I.1.6(s)": {
+      "NAME": {
+        "GIVN": ["Marie-Zoe-Kate"],
+        "SURN": ["Robitaille"]
+      },
+      "BIRT": {
+        "YEAR": ["1875"],
+        "PLAC": ["Saint-Jean-Baptiste Qc."]
+      },
+      "FAMS": ["2A-I-1-6"],
+      "gen": [8],
+      "position": [9],
+      "graph": [true]
+    },
+    "2.A.II.1.1": {
+      "NAME": {
+        "GIVN": ["A.J. Apolline"],
+        "SURN": ["Bertrand"]
+      },
+      "BIRT": {
+        "YEAR": ["1878"]
+      },
+      "FAMC": ["2A-II-1"],
+      "FAMS": ["2A-II-1-1"],
+      "gen": [8],
+      "position": [10],
+      "graph": [true]
+    },
+    "2.A.II.1.1(s)": {
+      "NAME": {
+        "GIVN": ["Joseph-Auguste"],
+        "SURN": ["Martin"]
+      },
+      "BIRT": {
+        "YEAR": ["1878"]
+      },
+      "FAMS": ["2A-II-1-1"],
+      "gen": [8],
+      "position": [11],
+      "graph": [true]
+    },
+    "2.A.II.2.1": {
+      "NAME": {
+        "GIVN": ["J. Arthur"],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "PLAC": ["Trois-Pistoles Qc."]
+      },
+      "FAMC": ["2A-II-2"],
+      "gen": [8],
+      "position": [12],
+      "graph": [true]
+    },
+    "2.A.II.2.2": {
+      "NAME": {
+        "GIVN": ["Nazaire"],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["2A-II-2"],
+      "gen": [8],
+      "position": [13],
+      "graph": [true]
+    },
+    "2.A.II.2.3": {
+      "NAME": {
+        "GIVN": ["Marie-Lea-Eva"],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "YEAR": ["1881"],
+        "PLAC": ["Trois-Pistoles Qc."]
+      },
+      "FAMC": ["2A-II-2"],
+      "FAMS": ["2A-II-2-3"],
+      "gen": [8],
+      "position": [14],
+      "graph": [true]
+    },
+    "2.A.II.2.3(s)": {
+      "NAME": {
+        "GIVN": ["Jean-Louis-Henri"],
+        "SURN": ["Porcheron"]
+      },
+      "BIRT": {
+        "YEAR": ["1879"],
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMS": ["2A-II-2-3"],
+      "gen": [8],
+      "position": [15],
+      "graph": [true]
+    },
+    "2.A.II.2.4": {
+      "NAME": {
+        "GIVN": ["J. Wilfrid"],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["2A-II-2"],
+      "gen": [8],
+      "position": [16],
+      "graph": [true]
+    },
+    "2.A.II.2.5": {
+      "NAME": {
+        "GIVN": ["Mme., Thomas P."],
+        "SURN": ["Walter"]
+      },
+      "BIRT": {
+        "PLAC": ["Toronto Ont."]
+      },
+      "FAMC": ["2A-II-2"],
+      "gen": [8],
+      "position": [17],
+      "graph": [true]
+    },
+    "2.A.II.2.6": {
+      "NAME": {
+        "GIVN": ["J.A."],
+        "SURN": ["Têtu"]
+      },
+      "FAMC": ["2A-II-2"],
+      "gen": [8],
+      "position": [18],
+      "graph": [true]
+    },
+    "2.A.II.2.7": {
+      "NAME": {
+        "GIVN": ["Léopold"],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "YEAR": ["1888"],
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["2A-II-2"],
+      "gen": [8],
+      "position": [19],
+      "graph": [true]
+    },
+    "2.A.II.2.8": {
+      "NAME": {
+        "GIVN": ["M.E. Alexandre"],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "PLAC": ["Ottawa Ont."]
+      },
+      "FAMC": ["2A-II-2"],
+      "gen": [8],
+      "position": [20],
+      "graph": [true]
+    },
+    "2.A.II.3.1": {
+      "NAME": {
+        "GIVN": ["Hélène "],
+        "SURN": ["Lebouthillier"]
+      },
+      "BIRT": {
+        "YEAR": ["1872"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1912"]
+      },
+      "FAMC": ["2A-II-3"],
+      "FAMS": ["2A-II-3-1"],
+      "gen": [8],
+      "position": [21],
+      "graph": [true]
+    },
+    "2.A.II.3.1(s)": {
+      "NAME": {
+        "GIVN": ["Arthur "],
+        "SURN": ["Lavoie"]
+      },
+      "BIRT": {
+        "YEAR": ["1864"]
+      },
+      "DEAT": {
+        "YEAR": ["1938"]
+      },
+      "FAMS": ["2A-II-3-1"],
+      "gen": [8],
+      "position": [22],
+      "graph": [true]
+    },
+    "2.A.II.3.2": {
+      "NAME": {
+        "GIVN": ["Eva"],
+        "SURN": ["Lebouthillier"]
+      },
+      "BIRT": {
+        "YEAR": ["1874"],
+        "PLAC": ["Gaspé Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1965"]
+      },
+      "FAMC": ["2A-II-3"],
+      "FAMS": ["2A-II-3-2"],
+      "gen": [8],
+      "position": [23],
+      "graph": [true]
+    },
+    "2.A.II.3.2(s)": {
+      "NAME": {
+        "GIVN": ["Jean-Omer"],
+        "SURN": ["Marchand"]
+      },
+      "BIRT": {
+        "YEAR": ["1972"],
+        "PLAC": ["Montréal Qc"]
+      },
+      "DEAT": {
+        "YEAR": ["1936"]
+      },
+      "FAMS": ["2A-II-3-2"],
+      "gen": [8],
+      "position": [24],
+      "graph": [true]
+    },
+    "2.A.II.3.3": {
+      "NAME": {
+        "GIVN": ["John"],
+        "SURN": ["Lebouthillier"]
+      },
+      "BIRT": {
+        "YEAR": ["1879"]
+      },
+      "DEAT": {
+        "YEAR": ["1910"]
+      },
+      "FAMC": ["2A-II-3"],
+      "gen": [8],
+      "position": [25],
+      "graph": [true]
+    },
+    "2.A.II.3.4": {
+      "NAME": {
+        "GIVN": ["Eliza"],
+        "SURN": ["Lebouthillier"]
+      },
+      "BIRT": {
+        "YEAR": ["1881"],
+        "PLAC": ["Montréal Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1970"]
+      },
+      "FAMC": ["2A-II-3"],
+      "FAMS": ["2A-II-3-4"],
+      "gen": [8],
+      "position": [26],
+      "graph": [true]
+    },
+    "2.A.II.3.4(s)": {
+      "NAME": {
+        "GIVN": ["Jules"],
+        "SURN": ["Poivert"]
+      },
+      "BIRT": {
+        "YEAR": ["1867"],
+        "PLAC": ["Bordeaux France"]
+      },
+      "DEAT": {
+        "YEAR": ["1955"]
+      },
+      "FAMS": ["2A-II-3-4"],
+      "gen": [8],
+      "position": [27],
+      "graph": [true]
+    },
+    "2.A.II.3.5": {
+      "NAME": {
+        "GIVN": ["Alice"],
+        "SURN": ["Lebouthillier"]
+      },
+      "BIRT": {
+        "YEAR": ["1882"],
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["2A-II-3"],
+      "FAMS": ["2A-II-3-5"],
+      "gen": [8],
+      "position": [28],
+      "graph": [true]
+    },
+    "2.A.II.3.5(s)": {
+      "NAME": {
+        "GIVN": ["Olivar"],
+        "SURN": ["Asselin"]
+      },
+      "BIRT": {
+        "YEAR": ["1874"],
+        "PLAC": ["St-Hilarion Qc"]
+      },
+      "DEAT": {
+        "YEAR": ["1937"]
+      },
+      "FAMS": ["2A-II-3-5"],
+      "gen": [8],
+      "position": [29],
+      "graph": [true]
+    },
+    "2.A.II.3.6": {
+      "NAME": {
+        "GIVN": ["Hermione"],
+        "SURN": ["Lebouthillier"]
+      },
+      "BIRT": {
+        "YEAR": ["1885"]
+      },
+      "DEAT": {
+        "YEAR": ["1892"]
+      },
+      "FAMC": ["2A-II-3"],
+      "gen": [8],
+      "position": [30],
+      "graph": [true]
+    },
+    "2.A.II.5.1": {
+      "NAME": {
+        "GIVN": ["H.W."],
+        "SURN": ["French"]
+      },
+      "BIRT": {
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["2A-II-5"],
+      "gen": [8],
+      "position": [31],
+      "graph": [true]
+    },
+    "2.A.II.5.2": {
+      "NAME": {
+        "GIVN": ["Géraldine"],
+        "SURN": ["French"]
+      },
+      "BIRT": {
+        "YEAR": ["1878"]
+      },
+      "DEAT": {
+        "YEAR": ["1912"]
+      },
+      "FAMC": ["2A-II-5"],
+      "FAMS": ["2A-II-5-1"],
+      "gen": [8],
+      "position": [32],
+      "graph": [true]
+    },
+    "2.A.II.5.2(s)": {
+      "NAME": {
+        "GIVN": ["Nelson"],
+        "SURN": ["Caron"]
+      },
+      "BIRT": {
+        "YEAR": ["1880"],
+        "PLAC": ["Rivière-du-Loup Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1957"]
+      },
+      "FAMS": ["2A-II-5-1"],
+      "gen": [8],
+      "position": [33],
+      "graph": [true]
+    },
+    "2.A.II.5.3": {
+      "NAME": {
+        "GIVN": ["J. Luc"],
+        "SURN": ["French"]
+      },
+      "BIRT": {
+        "PLAC": ["Sacramento Calif."]
+      },
+      "FAMC": ["2A-II-5"],
+      "gen": [8],
+      "position": [34],
+      "graph": [true]
+    },
+    "2.A.II.5.4": {
+      "NAME": {
+        "GIVN": ["M. Juanita"],
+        "SURN": ["French"]
+      },
+      "BIRT": {
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["2A-II-5"],
+      "gen": [8],
+      "position": [35],
+      "graph": [true]
+    },
+    "2.A.II.6.1": {
+      "NAME": {
+        "GIVN": ["Mme., Anatole"],
+        "SURN": ["Rioux"]
+      },
+      "BIRT": {
+        "PLAC": ["Trois-Pistoles Qc."]
+      },
+      "FAMC": ["2A-II-6"],
+      "gen": [8],
+      "position": [36],
+      "graph": [true]
+    },
+    "2.A.II.9.1": {
+      "NAME": {
+        "GIVN": ["Évangeline"],
+        "SURN": ["Garneau"]
+      },
+      "BIRT": {
+        "YEAR": ["1879"],
+        "PLAC": ["Trois-Pistoles Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1882"]
+      },
+      "FAMC": ["2A-II-9"],
+      "FAMS": ["2A-II-9-1"],
+      "gen": [8],
+      "position": [37],
+      "graph": [true]
+    },
+    "2.A.II.9.1(s)": {
+      "NAME": {
+        "GIVN": ["Jules"],
+        "SURN": ["Gagné"]
+      },
+      "BIRT": {
+        "YEAR": ["1882"],
+        "PLAC": ["Chicoutimi Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1956"]
+      },
+      "FAMS": ["2A-II-9-1"],
+      "gen": [8],
+      "position": [38],
+      "graph": [true]
+    },
+    "2.A.II.9.2": {
+      "NAME": {
+        "GIVN": ["Mme., Henri"],
+        "SURN": ["Alleyn"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["2A-II-9"],
+      "gen": [8],
+      "position": [39],
+      "graph": [true]
+    },
+    "2.A.II.9.3": {
+      "NAME": {
+        "GIVN": ["Léo"],
+        "SURN": ["Garneau"]
+      },
+      "BIRT": {
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["2A-II-9"],
+      "gen": [8],
+      "position": [40],
+      "graph": [true]
+    },
+    "2.A.II.9.4": {
+      "NAME": {
+        "GIVN": ["Georges"],
+        "SURN": ["Garneau"]
+      },
+      "BIRT": {
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["2A-II-9"],
+      "gen": [8],
+      "position": [41],
+      "graph": [true]
+    },
+    "2.A.II.9.5": {
+      "NAME": {
+        "GIVN": ["Raymond"],
+        "SURN": ["Garneau"]
+      },
+      "BIRT": {
+        "PLAC": ["Québec Qc."]
+      },
+      "FAMC": ["2A-II-9"],
+      "gen": [8],
+      "position": [42],
+      "graph": [true]
+    },
+    "2.A.II.10.1": {
+      "NAME": {
+        "GIVN": ["Mme., H.O."],
+        "SURN": ["Perron"]
+      },
+      "BIRT": {
+        "PLAC": ["Amos Qc."]
+      },
+      "FAMC": ["2A-II-10"],
+      "gen": [8],
+      "position": [43],
+      "graph": [true]
+    },
+    "2.A.II.10.2": {
+      "NAME": {
+        "GIVN": ["Mme., Alfred"],
+        "SURN": ["Normand"]
+      },
+      "BIRT": {
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["2A-II-10"],
+      "gen": [8],
+      "position": [44],
+      "graph": [true]
+    },
+    "2.A.II.10.3": {
+      "NAME": {
+        "GIVN": ["Mme., Emile"],
+        "SURN": ["Casault"]
+      },
+      "BIRT": {
+        "PLAC": ["Montmagny Qc."]
+      },
+      "FAMC": ["2A-II-10"],
+      "gen": [8],
+      "position": [45],
+      "graph": [true]
+    },
+    "2.A.II.10.4": {
+      "NAME": {
+        "GIVN": ["M.L.H."],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "PLAC": ["Montmagny Qc."]
+      },
+      "FAMC": ["2A-II-10"],
+      "gen": [8],
+      "position": [46],
+      "graph": [true]
+    },
+    "2.A.II.10.5": {
+      "NAME": {
+        "GIVN": ["Luc"],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "PLAC": ["Ottawa Ont."]
+      },
+      "FAMC": ["2A-II-10"],
+      "gen": [8],
+      "position": [47],
+      "graph": [true]
+    },
+    "2.A.II.10.6": {
+      "NAME": {
+        "GIVN": ["Lucien "],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "PLAC": ["Montmagny Qc."]
+      },
+      "FAMC": ["2A-II-10"],
+      "gen": [8],
+      "position": [48],
+      "graph": [true]
+    },
+    "2.A.II.10.7": {
+      "NAME": {
+        "GIVN": ["J.J.D."],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "PLAC": ["Syracuse N.Y."]
+      },
+      "FAMC": ["2A-II-10"],
+      "gen": [8],
+      "position": [49],
+      "graph": [true]
+    },
+    "2.A.II.10.8": {
+      "NAME": {
+        "GIVN": ["Simone"],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "PLAC": ["Montmagny Qc."]
+      },
+      "FAMC": ["2A-II-10"],
+      "gen": [8],
+      "position": [50],
+      "graph": [true]
+    },
+    "2.A.II.10.9": {
+      "NAME": {
+        "GIVN": ["Lionel"],
+        "SURN": ["Têtu"]
+      },
+      "BIRT": {
+        "PLAC": ["Montmagny Qc."]
+      },
+      "FAMC": ["2A-II-10"],
+      "gen": [8],
+      "position": [51],
+      "graph": [true]
+    },
+    "2.A.III.2.1": {
+      "NAME": {
+        "GIVN": ["Mme., H.A."],
+        "SURN": ["Jefferson"]
+      },
+      "BIRT": {
+        "PLAC": ["Nouvelle-Écosse"]
+      },
+      "FAMC": ["2A-III-2"],
+      "gen": [8],
+      "position": [52],
+      "graph": [true]
+    },
+    "2.A.III.2.2": {
+      "NAME": {
+        "GIVN": ["R.M."],
+        "SURN": ["Neilson"]
+      },
+      "BIRT": {
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["2A-III-2"],
+      "gen": [8],
+      "position": [53],
+      "graph": [true]
+    },
+    "2.A.III.2.3": {
+      "NAME": {
+        "GIVN": ["Mme., L."],
+        "SURN": ["Satow"]
+      },
+      "BIRT": {
+        "PLAC": ["Royaume-Uni"]
+      },
+      "FAMC": ["2A-III-2"],
+      "gen": [8],
+      "position": [54],
+      "graph": [true]
+    },
+    "2.A.III.2.4": {
+      "NAME": {
+        "GIVN": ["A.G."],
+        "SURN": ["Neilson"]
+      },
+      "BIRT": {
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMC": ["2A-III-2"],
+      "gen": [8],
+      "position": [55],
+      "graph": [true]
+    },
+    "1.D.III.4.2.a": {
+      "NAME": {
+        "GIVN": ["Florence Gertrude"],
+        "SURN": ["Burke "]
+      },
+      "BIRT": {
+        "YEAR": ["1927"],
+        "PLAC": ["Jersey City N.J."]
+      },
+      "FAMC": ["1D-III-4-2"],
+      "FAMS": ["1D-III-4-2-a"],
+      "gen": [9],
+      "graph": [false]
+    },
+    "1.D.III.4.2.a(s)": {
+      "NAME": {
+        "SURN": ["Bogart"]
+      },
+      "FAMS": ["1D-III-4-2-a"],
+      "gen": [9],
+      "graph": [false]
+    },
+    "2.A.I.1.2.a": {
+      "NAME": {
+        "GIVN": ["Marie-Julie-Thérèse"],
+        "SURN": ["Chassé"]
+      },
+      "BIRT": {
+        "YEAR": ["1892"],
+        "PLAC": ["Ottawa Ont."]
+      },
+      "FAMC": ["2A-I-1-2"],
+      "gen": [9],
+      "position": [1],
+      "graph": [true]
+    },
+    "2.A.I.1.2.b": {
+      "NAME": {
+        "GIVN": ["Marie-Marguerite"],
+        "SURN": ["Chassé"]
+      },
+      "BIRT": {
+        "YEAR": ["1894"],
+        "PLAC": ["Ottawa Ont."]
+      },
+      "FAMC": ["2A-I-1-2"],
+      "FAMS": ["2A-I-1-2-b"],
+      "gen": [9],
+      "position": [2],
+      "graph": [true]
+    },
+    "2.A.I.1.2.b(s)": {
+      "NAME": {
+        "GIVN": ["Charles-Emile"],
+        "SURN": ["Bélanger"]
+      },
+      "BIRT": {
+        "YEAR": ["1894"]
+      },
+      "FAMS": ["2A-I-1-2-b"],
+      "gen": [9],
+      "position": [3],
+      "graph": [true]
+    },
+    "2.A.I.1.2.c": {
+      "NAME": {
+        "GIVN": ["J.I. Alfred"],
+        "SURN": ["Chassé"]
+      },
+      "BIRT": {
+        "YEAR": ["1897"],
+        "PLAC": ["Ottawa Ont."]
+      },
+      "FAMC": ["2A-I-1-2"],
+      "gen": [9],
+      "position": [4],
+      "graph": [true]
+    },
+    "2.A.I.1.3.a": {
+      "NAME": {
+        "GIVN": ["Louis"],
+        "SURN": ["Desrosiers"]
+      },
+      "BIRT": {
+        "YEAR": ["1886"],
+        "PLAC": ["Ottawa Ont."]
+      },
+      "DEAT": {
+        "YEAR": ["1893"]
+      },
+      "FAMC": ["2A-I-1-3"],
+      "gen": [9],
+      "position": [5],
+      "graph": [true]
+    },
+    "2.A.I.1.3.b": {
+      "NAME": {
+        "GIVN": ["Ivanhoe"],
+        "SURN": ["Desrosiers"]
+      },
+      "BIRT": {
+        "YEAR": ["1888"],
+        "PLAC": ["Ottawa Ont."]
+      },
+      "FAMC": ["2A-I-1-3"],
+      "gen": [9],
+      "position": [6],
+      "graph": [true]
+    },
+    "2.A.I.1.3.c": {
+      "NAME": {
+        "GIVN": ["Arthur "],
+        "SURN": ["Desrosiers"]
+      },
+      "BIRT": {
+        "YEAR": ["1890"],
+        "PLAC": ["Ottawa Ont."]
+      },
+      "FAMC": ["2A-I-1-3"],
+      "gen": [9],
+      "position": [7],
+      "graph": [true]
+    },
+    "2.A.I.1.3.d": {
+      "NAME": {
+        "GIVN": ["Emma"],
+        "SURN": ["Desrosiers"]
+      },
+      "BIRT": {
+        "YEAR": ["1893"],
+        "PLAC": ["Ottawa Ont."]
+      },
+      "FAMC": ["2A-I-1-3"],
+      "gen": [9],
+      "position": [8],
+      "graph": [true]
+    },
+    "2.A.I.1.3.e": {
+      "NAME": {
+        "GIVN": ["Gustave"],
+        "SURN": ["Desrosiers"]
+      },
+      "BIRT": {
+        "YEAR": ["1895"],
+        "PLAC": ["Ottawa Ont."]
+      },
+      "FAMC": ["2A-I-1-3"],
+      "gen": [9],
+      "position": [9],
+      "graph": [true]
+    },
+    "2.A.I.1.3.f": {
+      "NAME": {
+        "GIVN": ["Joseph"],
+        "SURN": ["Desrosiers"]
+      },
+      "BIRT": {
+        "YEAR": ["1898"],
+        "PLAC": ["Ottawa Ont."]
+      },
+      "FAMC": ["2A-I-1-3"],
+      "gen": [9],
+      "position": [10],
+      "graph": [true]
+    },
+    "2.A.I.1.6.a": {
+      "NAME": {
+        "GIVN": ["Louis"],
+        "SURN": ["de Gaspé Taché"]
+      },
+      "FAMC": ["2A-I-1-6"],
+      "gen": [9],
+      "position": [11],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b": {
+      "NAME": {
+        "GIVN": ["Arthur "],
+        "SURN": ["de Gaspé Taché"]
+      },
+      "FAMC": ["2A-I-1-6"],
+      "FAMS": ["2A-I-1-6-b"],
+      "gen": [9],
+      "position": [12],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b(s)": {
+      "NAME": {
+        "GIVN": ["Berna"],
+        "SURN": ["Williamson"]
+      },
+      "FAMS": ["2A-I-1-6-b"],
+      "gen": [9],
+      "position": [13],
+      "graph": [true]
+    },
+    "2.A.II.2.3.a": {
+      "NAME": {
+        "GIVN": ["Marguerite"],
+        "SURN": ["Porcheron"]
+      },
+      "BIRT": {
+        "YEAR": ["1912"],
+        "PLAC": ["Guiges Qc"]
+      },
+      "FAMC": ["2A-II-2-3"],
+      "FAMS": ["2A-II-2-3-a"],
+      "gen": [9],
+      "position": [14],
+      "graph": [true]
+    },
+    "2.A.II.2.3.a(s)": {
+      "NAME": {
+        "GIVN": ["Albert"],
+        "SURN": ["Vallée"]
+      },
+      "BIRT": {
+        "YEAR": ["1907"],
+        "PLAC": ["Coteau-Station Qc"]
+      },
+      "FAMS": ["2A-II-2-3-a"],
+      "gen": [9],
+      "position": [15],
+      "graph": [true]
+    },
+    "2.A.II.3.1.a": {
+      "NAME": {
+        "GIVN": ["Josephine-Virginie"],
+        "SURN": ["Lavoie"]
+      },
+      "BIRT": {
+        "YEAR": ["1891"]
+      },
+      "FAMC": ["2A-II-3-1"],
+      "gen": [9],
+      "position": [16],
+      "graph": [true]
+    },
+    "2.A.II.3.1.b": {
+      "NAME": {
+        "GIVN": ["Eva-Thérèse-Hélène"],
+        "SURN": ["Lavoie"]
+      },
+      "BIRT": {
+        "YEAR": ["1902"]
+      },
+      "FAMC": ["2A-II-3-1"],
+      "gen": [9],
+      "position": [17],
+      "graph": [true]
+    },
+    "2.A.II.3.1.c": {
+      "NAME": {
+        "GIVN": ["Blanche-Germaine"],
+        "SURN": ["Lavoie"]
+      },
+      "BIRT": {
+        "YEAR": ["1904"]
+      },
+      "FAMC": ["2A-II-3-1"],
+      "gen": [9],
+      "position": [18],
+      "graph": [true]
+    },
+    "2.A.II.3.1.d": {
+      "NAME": {
+        "GIVN": ["Charles-Arthur"],
+        "SURN": ["Lavoie"]
+      },
+      "BIRT": {
+        "YEAR": ["1905"]
+      },
+      "FAMC": ["2A-II-3-1"],
+      "gen": [9],
+      "position": [19],
+      "graph": [true]
+    },
+    "2.A.II.3.1.e": {
+      "NAME": {
+        "GIVN": ["Marcel-Albert-Fenelon"],
+        "SURN": ["Lavoie"]
+      },
+      "BIRT": {
+        "YEAR": ["1907"]
+      },
+      "FAMC": ["2A-II-3-1"],
+      "gen": [9],
+      "position": [20],
+      "graph": [true]
+    },
+    "2.A.II.3.1.f": {
+      "NAME": {
+        "GIVN": ["Napoléon-Paul"],
+        "SURN": ["Lavoie"]
+      },
+      "BIRT": {
+        "YEAR": ["1909"]
+      },
+      "FAMC": ["2A-II-3-1"],
+      "gen": [9],
+      "position": [21],
+      "graph": [true]
+    },
+    "2.A.II.3.1.g": {
+      "NAME": {
+        "GIVN": ["Mare-Hélène"],
+        "SURN": ["Lavoie"]
+      },
+      "BIRT": {
+        "YEAR": ["1911"]
+      },
+      "FAMC": ["2A-II-3-1"],
+      "gen": [9],
+      "position": [22],
+      "graph": [true]
+    },
+    "2.A.II.3.5.a": {
+      "NAME": {
+        "GIVN": ["Jean"],
+        "SURN": ["Asselin"]
+      },
+      "BIRT": {
+        "YEAR": ["1904"]
+      },
+      "FAMC": ["2A-II-3-5"],
+      "FAMS": ["2A-II-3-5-a"],
+      "gen": [9],
+      "position": [23],
+      "graph": [true]
+    },
+    "2.A.II.3.5.a(s)": {
+      "NAME": {
+        "GIVN": ["Marthe"],
+        "SURN": ["Bélanger"]
+      },
+      "BIRT": {
+        "YEAR": ["1904"],
+        "PLAC": ["Valleyfield Qc."]
+      },
+      "FAMS": ["2A-II-3-5-a"],
+      "gen": [9],
+      "position": [24],
+      "graph": [true]
+    },
+    "2.A.II.5.1.a": {
+      "NAME": {
+        "GIVN": ["Marie-Nora"],
+        "SURN": ["Caron"]
+      },
+      "BIRT": {
+        "YEAR": ["1905"],
+        "PLAC": ["Rivière-du-Loup Qc."]
+      },
+      "FAMC": ["2A-II-5-1"],
+      "FAMS": ["2A-II-5-1-a"],
+      "gen": [9],
+      "position": [25],
+      "graph": [true]
+    },
+    "2.A.II.5.1.a(s)": {
+      "NAME": {
+        "GIVN": ["Benoit"],
+        "SURN": ["Fortin"]
+      },
+      "BIRT": {
+        "YEAR": ["1906"],
+        "PLAC": ["Bagotville Qc."]
+      },
+      "FAMS": ["2A-II-5-1-a"],
+      "gen": [9],
+      "position": [26],
+      "graph": [true]
+    },
+    "2.A.II.9.1.a": {
+      "NAME": {
+        "GIVN": ["Louise"],
+        "SURN": ["Gagné"]
+      },
+      "BIRT": {
+        "YEAR": ["1912"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1982"]
+      },
+      "FAMC": ["2A-II-9-1"],
+      "FAMS": ["2A-II-9-1-a"],
+      "gen": [9],
+      "position": [27],
+      "graph": [true]
+    },
+    "2.A.II.9.1.a(s)": {
+      "NAME": {
+        "GIVN": ["René"],
+        "SURN": ["Blanchet"]
+      },
+      "BIRT": {
+        "YEAR": ["1908"],
+        "PLAC": ["Lévis Qc"]
+      },
+      "DEAT": {
+        "YEAR": ["1991"]
+      },
+      "FAMS": ["2A-II-9-1-a"],
+      "gen": [9],
+      "position": [28],
+      "graph": [true]
+    },
+    "2.A.II.9.1.b": {
+      "NAME": {
+        "GIVN": ["Jean"],
+        "SURN": ["Gagné"]
+      },
+      "BIRT": {
+        "YEAR": ["1913"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["2007"]
+      },
+      "FAMC": ["2A-II-9-1"],
+      "FAMS": ["2A-II-9-1-b"],
+      "gen": [9],
+      "position": [29],
+      "graph": [true]
+    },
+    "2.A.II.9.1.b(s)": {
+      "NAME": {
+        "GIVN": ["Cécile"],
+        "SURN": ["Beaulieu"]
+      },
+      "BIRT": {
+        "YEAR": ["1922"],
+        "PLAC": ["Rivière-du-Loup Qc"]
+      },
+      "DEAT": {
+        "YEAR": ["2020"]
+      },
+      "FAMS": ["2A-II-9-1-b"],
+      "gen": [9],
+      "position": [30],
+      "graph": [true]
+    },
+    "2.A.II.9.1.c": {
+      "NAME": {
+        "GIVN": ["Maurice"],
+        "SURN": ["Gagné"]
+      },
+      "BIRT": {
+        "YEAR": ["1915"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1967"]
+      },
+      "FAMC": ["2A-II-9-1"],
+      "FAMS": ["2A-II-9-1-c"],
+      "gen": [9],
+      "position": [31],
+      "graph": [true]
+    },
+    "2.A.II.9.1.c(s)": {
+      "NAME": {
+        "GIVN": ["Esme-Stella"],
+        "SURN": ["Labrecque"]
+      },
+      "BIRT": {
+        "YEAR": ["1917"]
+      },
+      "FAMS": ["2A-II-9-1-c"],
+      "gen": [9],
+      "position": [32],
+      "graph": [true]
+    },
+    "2.A.II.9.1.d": {
+      "NAME": {
+        "GIVN": ["Marie"],
+        "SURN": ["Gagné"]
+      },
+      "BIRT": {
+        "YEAR": ["1917"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1946"]
+      },
+      "FAMC": ["2A-II-9-1"],
+      "gen": [9],
+      "position": [33],
+      "graph": [true]
+    },
+    "2.A.II.9.1.e": {
+      "NAME": {
+        "GIVN": ["Germaine"],
+        "SURN": ["Gagné"]
+      },
+      "BIRT": {
+        "YEAR": ["1919"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["2011"]
+      },
+      "FAMC": ["2A-II-9-1"],
+      "FAMS": ["2A-II-9-1-e"],
+      "gen": [9],
+      "position": [34],
+      "graph": [true]
+    },
+    "2.A.II.9.1.e(s)": {
+      "NAME": {
+        "GIVN": ["Paul-Eugene"],
+        "SURN": ["Veilleux"]
+      },
+      "BIRT": {
+        "YEAR": ["1921"],
+        "PLAC": ["Lac Mégantic Qc"]
+      },
+      "DEAT": {
+        "YEAR": ["1993"]
+      },
+      "FAMS": ["2A-II-9-1-e"],
+      "gen": [9],
+      "position": [35],
+      "graph": [true]
+    },
+    "2.A.II.9.1.f": {
+      "NAME": {
+        "GIVN": ["Madeleine"],
+        "SURN": ["Gagné"]
+      },
+      "BIRT": {
+        "YEAR": ["1922"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["2008"]
+      },
+      "FAMC": ["2A-II-9-1"],
+      "FAMS": ["2A-II-9-1-f"],
+      "gen": [9],
+      "position": [36],
+      "graph": [true]
+    },
+    "2.A.II.9.1.f(s)": {
+      "NAME": {
+        "GIVN": ["Carl"],
+        "SURN": ["Auger"]
+      },
+      "FAMS": ["2A-II-9-1-f"],
+      "gen": [9],
+      "position": [37],
+      "graph": [true]
+    },
+    "2.A.II.9.1.g": {
+      "NAME": {
+        "GIVN": ["Leon"],
+        "SURN": ["Gagné"]
+      },
+      "BIRT": {
+        "YEAR": ["1920"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["1921"]
+      },
+      "FAMC": ["2A-II-9-1"],
+      "gen": [9],
+      "position": [38],
+      "graph": [true]
+    },
+    "2.A.II.9.1.h": {
+      "NAME": {
+        "GIVN": ["François"],
+        "SURN": ["Gagné"]
+      },
+      "BIRT": {
+        "YEAR": ["1923"],
+        "PLAC": ["Québec Qc."]
+      },
+      "DEAT": {
+        "YEAR": ["2019"]
+      },
+      "FAMC": ["2A-II-9-1"],
+      "FAMS": ["2A-II-9-1-h"],
+      "gen": [9],
+      "position": [39],
+      "graph": [true]
+    },
+    "2.A.II.9.1.h(s)": {
+      "FAMS": ["2A-II-9-1-h"],
+      "gen": [9],
+      "position": [40],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.1": {
+      "NAME": {
+        "GIVN": ["Suzanne"],
+        "SURN": ["de Gaspé Taché"]
+      },
+      "FAMC": ["2A-I-1-6-b"],
+      "FAMS": ["2A-I-1-6-b-1"],
+      "gen": [10],
+      "position": [1],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.1(s)": {
+      "NAME": {
+        "GIVN": ["Robert"],
+        "SURN": ["Tremblay"]
+      },
+      "FAMS": ["2A-I-1-6-b-1"],
+      "gen": [10],
+      "position": [2],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.2": {
+      "NAME": {
+        "GIVN": ["Lynn"],
+        "SURN": ["de Gaspé Taché"]
+      },
+      "FAMC": ["2A-I-1-6-b"],
+      "FAMS": ["2A-I-1-6-b-2"],
+      "gen": [10],
+      "position": [3],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.2(s)": {
+      "NAME": {
+        "GIVN": ["John"],
+        "SURN": ["Legate"]
+      },
+      "FAMS": ["2A-I-1-6-b-2"],
+      "gen": [10],
+      "position": [4],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.3": {
+      "NAME": {
+        "GIVN": ["Louise"],
+        "SURN": ["de Gaspé Taché"]
+      },
+      "FAMC": ["2A-I-1-6-b"],
+      "FAMS": ["2A-I-1-6-b-3"],
+      "gen": [10],
+      "position": [5],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.3(s)": {
+      "NAME": {
+        "GIVN": ["John"],
+        "SURN": ["Parks"]
+      },
+      "FAMS": ["2A-I-1-6-b-3"],
+      "gen": [10],
+      "position": [6],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.4": {
+      "NAME": {
+        "GIVN": ["Allyson"],
+        "SURN": ["de Gaspé Taché"]
+      },
+      "FAMC": ["2A-I-1-6-b"],
+      "FAMS": ["2A-I-1-6-b-4"],
+      "gen": [10],
+      "position": [7],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.4(s)": {
+      "NAME": {
+        "GIVN": ["Melvyn"],
+        "SURN": ["Green"]
+      },
+      "FAMS": ["2A-I-1-6-b-4"],
+      "gen": [10],
+      "position": [8],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.1.i": {
+      "NAME": {
+        "GIVN": ["Pierre"],
+        "SURN": ["Tremblay"]
+      },
+      "BIRT": {
+        "YEAR": ["1961"],
+        "PLAC": ["Ottawa Ont."]
+      },
+      "FAMC": ["2A-I-1-6-b-1"],
+      "FAMS": ["2A-I-1-6-b-1-i"],
+      "gen": [11],
+      "position": [1],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.1.i(s)": {
+      "NAME": {
+        "GIVN": ["Elizabeth Anne"],
+        "SURN": ["Bystram"]
+      },
+      "BIRT": {
+        "YEAR": ["1962"],
+        "PLAC": ["Montréal Qc."]
+      },
+      "FAMS": ["2A-I-1-6-b-1-i"],
+      "gen": [11],
+      "position": [2],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.1.ii": {
+      "NAME": {
+        "GIVN": ["Richard"],
+        "SURN": ["Tremblay"]
+      },
+      "FAMC": ["2A-I-1-6-b-1"],
+      "FAMS": ["2A-I-1-6-b-1-ii"],
+      "gen": [11],
+      "position": [3],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.1.ii(s)": {
+      "NAME": {
+        "GIVN": ["Elizabeth"],
+        "SURN": ["Harris"]
+      },
+      "FAMS": ["2A-I-1-6-b-1-ii"],
+      "gen": [11],
+      "position": [4],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.1.iii": {
+      "NAME": {
+        "GIVN": ["Lynn"],
+        "SURN": ["Tremblay"]
+      },
+      "FAMC": ["2A-I-1-6-b-1"],
+      "FAMS": ["2A-I-1-6-b-1-iii"],
+      "gen": [11],
+      "position": [5],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.1.iii(s)": {
+      "NAME": {
+        "GIVN": ["Rick"],
+        "SURN": ["Picard"]
+      },
+      "FAMS": ["2A-I-1-6-b-1-iii"],
+      "gen": [11],
+      "position": [6],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.2.i": {
+      "NAME": {
+        "GIVN": ["Sari"]
+      },
+      "FAMC": ["2A-I-1-6-b-2"],
+      "FAMS": ["2A-I-1-6-b-2-i"],
+      "gen": [11],
+      "position": [7],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.2.i(s)": {
+      "NAME": {
+        "GIVN": ["Zolt"]
+      },
+      "FAMS": ["2A-I-1-6-b-2-i"],
+      "gen": [11],
+      "position": [8],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.2.ii": {
+      "NAME": {
+        "GIVN": ["Bart"]
+      },
+      "FAMC": ["2A-I-1-6-b-2"],
+      "gen": [11],
+      "position": [9],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.3.i": {
+      "NAME": {
+        "GIVN": ["Norman"]
+      },
+      "FAMC": ["2A-I-1-6-b-3"],
+      "gen": [11],
+      "position": [10],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.3.ii": {
+      "NAME": {
+        "GIVN": ["Michael"]
+      },
+      "FAMC": ["2A-I-1-6-b-3"],
+      "gen": [11],
+      "position": [11],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.3.iii": {
+      "NAME": {
+        "GIVN": ["Alison"]
+      },
+      "FAMC": ["2A-I-1-6-b-3"],
+      "gen": [11],
+      "position": [12],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.4.i": {
+      "NAME": {
+        "GIVN": ["Kanya"]
+      },
+      "FAMC": ["2A-I-1-6-b-4"],
+      "gen": [11],
+      "position": [13],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.4.ii": {
+      "NAME": {
+        "GIVN": ["Eva"]
+      },
+      "FAMC": ["2A-I-1-6-b-4"],
+      "gen": [11],
+      "position": [14],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.4.iii": {
+      "NAME": {
+        "GIVN": ["Sophie"]
+      },
+      "FAMC": ["2A-I-1-6-b-4"],
+      "gen": [11],
+      "position": [15],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.1.i.A": {
+      "NAME": {
+        "GIVN": ["Mathieu Alexander de Gaspé Taché"],
+        "SURN": ["Tremblay"]
+      },
+      "BIRT": {
+        "YEAR": ["1992"],
+        "PLAC": ["Ottawa Ont."]
+      },
+      "FAMC": ["2A-I-1-6-b-1-i"],
+      "FAMS": ["2A-I-1-6-b-1-i-A"],
+      "gen": [12],
+      "position": [1],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.1.i.A(s)": {
+      "NAME": {
+        "GIVN": ["Maude"],
+        "SURN": ["Parker"]
+      },
+      "FAMS": ["2A-I-1-6-b-1-i-A"],
+      "gen": [12],
+      "position": [2],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.1.i.B": {
+      "NAME": {
+        "GIVN": ["Michael Thomas Cameron"],
+        "SURN": ["Tremblay"]
+      },
+      "BIRT": {
+        "YEAR": ["1994"],
+        "PLAC": ["Ottawa Ont."]
+      },
+      "FAMC": ["2A-I-1-6-b-1-i"],
+      "gen": [12],
+      "position": [3],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.1.iii.A": {
+      "NAME": {
+        "GIVN": ["Kristopher"],
+        "SURN": ["Picard"]
+      },
+      "FAMC": ["2A-I-1-6-b-1-iii"],
+      "gen": [12],
+      "position": [4],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.1.iii.B": {
+      "NAME": {
+        "GIVN": ["Alexander"],
+        "SURN": ["Picard"]
+      },
+      "FAMC": ["2A-I-1-6-b-1-iii"],
+      "gen": [12],
+      "position": [5],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.1.iii.C": {
+      "NAME": {
+        "GIVN": ["Robbyn"],
+        "SURN": ["Picard"]
+      },
+      "FAMC": ["2A-I-1-6-b-1-iii"],
+      "gen": [12],
+      "position": [6],
+      "graph": [true]
+    },
+    "2.A.I.1.6.b.2.i.A": {
+      "NAME": {
+        "GIVN": ["Matheus"]
+      },
+      "FAMC": ["2A-I-1-6-b-2-i"],
+      "gen": [12],
+      "position": [7],
+      "graph": [true]
+    }
+  },
+  "families": {
+    "ooo": {
+      "HUSB": ["xxx"],
+      "collapse": [false],
+      "WIFE": ["xxx(s)"],
+      "CHIL": ["xx"]
+    },
+    "oo": {
+      "HUSB": ["xx"],
+      "collapse": [false],
+      "WIFE": ["xx(s)"],
+      "CHIL": ["x"]
+    },
+    "o": {
+      "HUSB": ["x"],
+      "collapse": [false],
+      "WIFE": ["x(s)"],
+      "CHIL": ["1", "2"]
+    },
+    "1": {
+      "HUSB": ["1"],
+      "collapse": [false],
+      "WIFE": ["1(s)"],
+      "CHIL": ["1.A", "1.B", "1.x", "1.C", "1.D", "1.E"]
+    },
+    "2": {
+      "HUSB": ["2"],
+      "collapse": [false],
+      "WIFE": ["2(s)"],
+      "CHIL": ["2.A"]
+    },
+    "1A": {
+      "HUSB": ["1.A"],
+      "collapse": [false],
+      "WIFE": ["1.A(s)"],
+      "CHIL": ["1.A.I", "1.A.II", "1.A.III"]
+    },
+    "1B": {
+      "HUSB": ["1.B"],
+      "collapse": [false],
+      "WIFE": ["1.B(s)"],
+      "CHIL": ["1.B.I", "1.B.II"]
+    },
+    "1x": {
+      "WIFE": ["1.x"],
+      "collapse": [false],
+      "HUSB": ["1.x(s)"]
+    },
+    "1C": {
+      "HUSB": ["1.C"],
+      "collapse": [false],
+      "WIFE": ["1.C(s)"],
+      "CHIL": ["1.C.I", "1.C.II", "1.C.III", "1.C.IV", "1.C.V", "1.C.VI", "1.C.VII"]
+    },
+    "1D": {
+      "WIFE": ["1.D"],
+      "collapse": [false],
+      "HUSB": ["1.D(s)"],
+      "CHIL": ["1.D.I", "1.D.II", "1.D.III"]
+    },
+    "1E": {
+      "WIFE": ["1.E"],
+      "collapse": [false],
+      "HUSB": ["1.E(s)"],
+      "CHIL": ["1.E.I", "1.E.II"]
+    },
+    "2A": {
+      "HUSB": ["2.A"],
+      "collapse": [false],
+      "WIFE": ["2.A(s)"],
+      "CHIL": ["2.A.I", "2.A.II", "2.A.III", "2.A.IV"]
+    },
+    "1A-I": {
+      "HUSB": ["1.A.I"],
+      "collapse": [true],
+      "WIFE": ["1.A.I(s)"],
+      "CHIL": ["1.A.I.1", "1.A.I.2", "1.A.I.3"]
+    },
+    "1A-II": {
+      "HUSB": ["1.A.II"],
+      "collapse": [true],
+      "WIFE": ["1.A.II(s)"],
+      "CHIL": ["1.A.II.1", "1.A.II.2", "1.A.II.3", "1.A.II.4", "1.A.II.5"]
+    },
+    "1B-I": {
+      "HUSB": ["1.B.I"],
+      "collapse": [true],
+      "WIFE": ["1.B.I(s)"]
+    },
+    "1B-II": {
+      "WIFE": ["1.B.II"],
+      "collapse": [false],
+      "HUSB": ["2.A.IV"],
+      "CHIL": ["1.B.II.1", "1.B.II.2", "1.B.II.3", "1.B.II.4", "1.B.II.5"]
+    },
+    "1C-I": {
+      "WIFE": ["1.C.I"],
+      "collapse": [true],
+      "HUSB": ["1.C.I(s)"],
+      "CHIL": ["1.C.I.1", "1.C.I.2", "1.C.I.3"]
+    },
+    "1D-III-1": {
+      "HUSB": ["1.C.I(s)"],
+      "collapse": [false],
+      "WIFE": ["1.D.III.1"]
+    },
+    "1C-II": {
+      "WIFE": ["1.C.II"],
+      "collapse": [true],
+      "HUSB": ["1.C.II(s)"],
+      "CHIL": ["1.C.II.1", "1.C.II.2"]
+    },
+    "1D-I": {
+      "HUSB": ["1.C.II(s)"],
+      "collapse": [true],
+      "WIFE": ["1.D.I"]
+    },
+    "1C-IV": {
+      "WIFE": ["1.C.IV"],
+      "collapse": [true],
+      "HUSB": ["1.C.IV(s)"],
+      "CHIL": ["1.C.IV.1", "1.C.IV.2", "1.C.IV.3"]
+    },
+    "1C-V(a)": {
+      "HUSB": ["1.C.V"],
+      "collapse": [true],
+      "WIFE": ["1.C.V(s)"]
+    },
+    "1C-V": {
+      "HUSB": ["1.C.V"],
+      "collapse": [true],
+      "WIFE": ["1.C.V(s2)"],
+      "CHIL": ["1.C.V.1", "1.C.V.2", "1.C.V.3"]
+    },
+    "1C-VI": {
+      "WIFE": ["1.C.VI"],
+      "collapse": [true],
+      "HUSB": ["1.C.VI(s)"],
+      "CHIL": ["1.C.VI.1", "1.C.VI.2"]
+    },
+    "1C-VII": {
+      "HUSB": ["1.C.VII"],
+      "collapse": [true],
+      "WIFE": ["1.C.VII(s)"],
+      "CHIL": ["1.C.VII.1", "1.C.VII.2", "1.C.VII.3", "1.C.VII.4"]
+    },
+    "1D-III": {
+      "WIFE": ["1.D.III"],
+      "collapse": [true],
+      "HUSB": ["1.D.III(s)"],
+      "CHIL": ["1.D.III.1", "1.D.III.2", "1.D.III.3", "1.D.III.4", "1.D.III.5", "1.D.III.6", "1.D.III.7"]
+    },
+    "1E-II": {
+      "WIFE": ["1.E.II"],
+      "collapse": [true],
+      "HUSB": ["1.E.II(s)"]
+    },
+    "2A-I": {
+      "HUSB": ["2.A.I"],
+      "collapse": [false],
+      "WIFE": ["2.A.I(s)"],
+      "CHIL": ["2.A.I.1", "2.A.I.2"]
+    },
+    "2A-II": {
+      "WIFE": ["2.A.II"],
+      "collapse": [false],
+      "HUSB": ["2.A.II(s)"],
+      "CHIL": ["2.A.II.1", "2.A.II.2", "2.A.II.3", "2.A.II.4", "2.A.II.5", "2.A.II.6", "2.A.II.7", "2.A.II.8", "2.A.II.9", "2.A.II.10", "2.A.II.11"]
+    },
+    "2A-III": {
+      "WIFE": ["2.A.III"],
+      "collapse": [false],
+      "HUSB": ["2.A.III(s)"],
+      "CHIL": ["2.A.III.1", "2.A.III.2", "2.A.III.3"]
+    },
+    "1A-I-1": {
+      "HUSB": ["1.A.I.1"],
+      "collapse": [false],
+      "WIFE": ["1.A.I.1(s)"],
+      "CHIL": ["1.A.I.1.1", "1.A.I.1.2"]
+    },
+    "1B-II-2": {
+      "WIFE": ["1.A.I.3"],
+      "collapse": [false],
+      "HUSB": ["1.B.II.2"],
+      "CHIL": ["1.B.II.2.1"]
+    },
+    "1A-II-1": {
+      "HUSB": ["1.A.II.1"],
+      "collapse": [false],
+      "WIFE": ["1.A.II.1(s)"],
+      "CHIL": ["1.A.II.1.1", "1.A.II.1.2", "1.A.II.1.3", "1.A.II.1.4", "1.A.II.1.5", "1.A.II.1.6"]
+    },
+    "1A-II-2": {
+      "HUSB": ["1.A.II.2"],
+      "collapse": [false],
+      "WIFE": ["1.A.II.2(s)"],
+      "CHIL": ["1.A.II.2.1"]
+    },
+    "1A-II-3": {
+      "HUSB": ["1.A.II.3"],
+      "collapse": [false],
+      "WIFE": ["1.A.II.3(s)"],
+      "CHIL": ["1.A.II.3.1", "1.A.II.3.2", "1.A.II.3.3", "1.A.II.3.4", "1.A.II.3.5", "1.A.II.3.6", "1.A.II.3.7"]
+    },
+    "1A-II-4": {
+      "WIFE": ["1.A.II.4"],
+      "collapse": [false],
+      "HUSB": ["1.A.II.4(s)"],
+      "CHIL": ["1.A.II.4.1", "1.A.II.4.2", "1.A.II.4.3", "1.A.II.4.4"]
+    },
+    "1A-II-5": {
+      "HUSB": ["1.A.II.5"],
+      "collapse": [false],
+      "WIFE": ["1.A.II.5(s)"],
+      "CHIL": ["1.A.II.5.1"]
+    },
+    "1B-II-1": {
+      "HUSB": ["1.B.II.1"],
+      "collapse": [false],
+      "WIFE": ["1.B.II.1(s)"],
+      "CHIL": ["1.B.II.1.1", "1.B.II.1.2", "1.B.II.1.3", "1.B.II.1.4"]
+    },
+    "1B-II-4": {
+      "WIFE": ["1.B.II.4"],
+      "collapse": [false],
+      "HUSB": ["1.B.II.4(s)"],
+      "CHIL": ["1.B.II.4.1", "1.B.II.4.2"]
+    },
+    "1C-I-1": {
+      "HUSB": ["1.C.I.1"],
+      "collapse": [false],
+      "WIFE": ["1.C.I.1(s)"],
+      "CHIL": ["1.C.I.1.1", "1.C.I.1.2", "1.C.I.1.3"]
+    },
+    "1C-I-2(a)": {
+      "HUSB": ["1.C.I.2"],
+      "collapse": [false],
+      "WIFE": ["1.C.I.2(s)"],
+      "CHIL": ["1.C.I.2a.1"]
+    },
+    "1C-I-2(b)": {
+      "HUSB": ["1.C.I.2"],
+      "collapse": [false],
+      "WIFE": ["1.C.I.2(s2)"],
+      "CHIL": ["1.C.I.2b.1", "1.C.I.2b.2", "1.C.I.2b.3", "1.C.I.2b.4", "1.C.I.2b.5", "1.C.I.2b.6", "1.C.I.2b.7"]
+    },
+    "1C-I-3": {
+      "WIFE": ["1.C.I.3"],
+      "collapse": [false],
+      "HUSB": ["1.C.I.3(s)"],
+      "CHIL": ["1.C.I.3.1", "1.C.I.3.2", "1.C.I.3.3", "1.C.I.3.4", "1.C.I.3.5"]
+    },
+    "1C-II-1": {
+      "HUSB": ["1.C.II.1"],
+      "collapse": [false],
+      "WIFE": ["1.C.II.1(s)"],
+      "CHIL": ["1.C.II.1.1", "1.C.II.1.2", "1.C.II.1.3", "1.C.II.1.4", "1.C.II.1.5", "1.C.II.1.6", "1.C.II.1.7", "1.C.II.1.8"]
+    },
+    "1C-II-2": {
+      "HUSB": ["1.C.II.2"],
+      "collapse": [false],
+      "WIFE": ["1.C.II.2(s)"],
+      "CHIL": ["1.C.II.2.1"]
+    },
+    "1C-IV-1": {
+      "WIFE": ["1.C.IV.1"],
+      "collapse": [false],
+      "HUSB": ["1.C.IV.1(s)"],
+      "CHIL": ["1.C.IV.1.1", "1.C.IV.1.2", "1.C.IV.1.3"]
+    },
+    "1C-IV-2": {
+      "WIFE": ["1.C.IV.2"],
+      "collapse": [false],
+      "HUSB": ["1.C.IV.2(s)"]
+    },
+    "1C-IV-3": {
+      "HUSB": ["1.C.IV.3"],
+      "collapse": [false],
+      "WIFE": ["1.C.IV.3(s)"],
+      "CHIL": ["1.C.IV.3.1", "1.C.IV.3.2", "1.C.IV.3.3"]
+    },
+    "1C-V-1": {
+      "WIFE": ["1.C.V.1"],
+      "collapse": [false],
+      "HUSB": ["1.C.V.1(s)"],
+      "CHIL": ["1.C.V.1.1", "1.C.V.1.2", "1.C.V.1.3"]
+    },
+    "1C-V-2": {
+      "WIFE": ["1.C.V.2"],
+      "collapse": [false],
+      "HUSB": ["1.C.V.2(s)"],
+      "CHIL": ["1.C.V.2.1", "1.C.V.2.2", "1.C.V.2.3", "1.C.V.2.4"]
+    },
+    "1C-V-3": {
+      "WIFE": ["1.C.V.3"],
+      "collapse": [false],
+      "HUSB": ["1.C.V.3(s)"],
+      "CHIL": ["1.C.V.3.1", "1.C.V.3.2", "1.C.V.3.3", "1.C.V.3.4", "1.C.V.3.5", "1.C.V.3.6", "1.C.V.3.7", "1.C.V.3.8", "1.C.V.3.9"]
+    },
+    "1C-VI-1": {
+      "HUSB": ["1.C.VI.1"],
+      "collapse": [false],
+      "WIFE": ["1.C.VI.1(s)"]
+    },
+    "1C-VI-2": {
+      "HUSB": ["1.C.VI.2"],
+      "collapse": [false],
+      "WIFE": ["1.C.VI.2(s)"],
+      "CHIL": ["1.C.VI.2.1"]
+    },
+    "1C-VII-1": {
+      "HUSB": ["1.C.VII.1"],
+      "collapse": [false],
+      "WIFE": ["1.C.VII.1(s)"],
+      "CHIL": ["1.C.VII.1.1", "1.C.VII.1.2"]
+    },
+    "1C-VII-2": {
+      "HUSB": ["1.C.VII.2"],
+      "collapse": [false],
+      "WIFE": ["1.C.VII.2(s)"],
+      "CHIL": ["1.C.VII.2.1", "1.C.VII.2.2", "1.C.VII.2.3", "1.C.VII.2.4", "1.C.VII.2.5", "1.C.VII.2.6", "1.C.VII.2.7", "1.C.VII.2.8"]
+    },
+    "1C-VII-3": {
+      "HUSB": ["1.C.VII.3"],
+      "collapse": [false],
+      "WIFE": ["1.C.VII.3(s)"],
+      "CHIL": ["1.C.VII.3.1", "1.C.VII.3.2", "1.C.VII.3.3", "1.C.VII.3.4", "1.C.VII.3.5", "1.C.VII.3.6", "1.C.VII.3.7"]
+    },
+    "1C-VII-4": {
+      "WIFE": ["1.C.VII.4"],
+      "collapse": [false],
+      "HUSB": ["1.C.VII.4(s)"],
+      "CHIL": ["1.C.VII.4.1", "1.C.VII.4.2", "1.C.VII.4.3"]
+    },
+    "1D-III-4": {
+      "WIFE": ["1.D.III.4"],
+      "collapse": [false],
+      "HUSB": ["1.D.III.4(s)"],
+      "CHIL": ["1.D.III.4.1", "1.D.III.4.2", "1.D.III.4.3"]
+    },
+    "2A-I-1": {
+      "HUSB": ["2.A.I.1"],
+      "collapse": [false],
+      "WIFE": ["2.A.I.1(s)"],
+      "CHIL": ["2.A.I.1.1", "2.A.I.1.2", "2.A.I.1.3", "2.A.I.1.5", "2.A.I.1.6"]
+    },
+    "2A-I-2": {
+      "HUSB": ["2.A.I.2"],
+      "collapse": [false],
+      "WIFE": ["2.A.I.2(s)"]
+    },
+    "2A-II-1": {
+      "WIFE": ["2.A.II.1"],
+      "collapse": [false],
+      "HUSB": ["2.A.II.1(s)"],
+      "CHIL": ["2.A.II.1.1"]
+    },
+    "2A-II-2": {
+      "HUSB": ["2.A.II.2"],
+      "collapse": [false],
+      "WIFE": ["2.A.II.2(s)"],
+      "CHIL": ["2.A.II.2.1", "2.A.II.2.2", "2.A.II.2.3", "2.A.II.2.4", "2.A.II.2.5", "2.A.II.2.6", "2.A.II.2.7", "2.A.II.2.8"]
+    },
+    "2A-II-3": {
+      "WIFE": ["2.A.II.3"],
+      "collapse": [false],
+      "HUSB": ["2.A.II.3(s)"],
+      "CHIL": ["2.A.II.3.1", "2.A.II.3.2", "2.A.II.3.3", "2.A.II.3.4", "2.A.II.3.5", "2.A.II.3.6"]
+    },
+    "2A-II-5": {
+      "WIFE": ["2.A.II.5"],
+      "collapse": [false],
+      "HUSB": ["2.A.II.5(s)"],
+      "CHIL": ["2.A.II.5.1", "2.A.II.5.2", "2.A.II.5.3", "2.A.II.5.4"]
+    },
+    "2A-II-6": {
+      "HUSB": ["2.A.II.6"],
+      "collapse": [false],
+      "WIFE": ["2.A.II.6(s)"],
+      "CHIL": ["2.A.II.6.1"]
+    },
+    "2A-II-9": {
+      "WIFE": ["2.A.II.9"],
+      "collapse": [false],
+      "HUSB": ["2.A.II.9(s)"],
+      "CHIL": ["2.A.II.9.1", "2.A.II.9.2", "2.A.II.9.3", "2.A.II.9.4", "2.A.II.9.5"]
+    },
+    "2A-II-10": {
+      "HUSB": ["2.A.II.10"],
+      "collapse": [false],
+      "WIFE": ["2.A.II.10(s)"],
+      "CHIL": ["2.A.II.10.1", "2.A.II.10.2", "2.A.II.10.3", "2.A.II.10.4", "2.A.II.10.5", "2.A.II.10.6", "2.A.II.10.7", "2.A.II.10.8", "2.A.II.10.9"]
+    },
+    "2A-III-1": {
+      "WIFE": ["2.A.III.1"],
+      "collapse": [false],
+      "HUSB": ["2.A.III.1(s)"]
+    },
+    "2A-III-2": {
+      "WIFE": ["2.A.III.2"],
+      "collapse": [false],
+      "HUSB": ["2.A.III.2(s)"],
+      "CHIL": ["2.A.III.2.1", "2.A.III.2.2", "2.A.III.2.3", "2.A.III.2.4"]
+    },
+    "1A-I-1-1": {
+      "WIFE": ["1.A.I.1.1"],
+      "collapse": [false],
+      "HUSB": ["1.A.I.1.1(s)"]
+    },
+    "1A-II-1-1": {
+      "WIFE": ["1.A.II.1.1"],
+      "collapse": [false],
+      "HUSB": ["1.A.II.1.1(s)"]
+    },
+    "1A-II-1-3": {
+      "WIFE": ["1.A.II.1.3"],
+      "collapse": [false],
+      "HUSB": ["1.A.II.1.3(s)"]
+    },
+    "1A-II-1-4": {
+      "HUSB": ["1.A.II.1.4"],
+      "collapse": [false],
+      "WIFE": ["1.A.II.1.4(s)"]
+    },
+    "1A-II-3-5": {
+      "HUSB": ["1.A.II.3.5"],
+      "collapse": [false],
+      "WIFE": ["1.A.II.3.5(s)"]
+    },
+    "1A-II-3-6": {
+      "WIFE": ["1.A.II.3.6"],
+      "collapse": [false],
+      "HUSB": ["1.A.II.3.6(s)"]
+    },
+    "1A-II-3-7": {
+      "HUSB": ["1.A.II.3.7"],
+      "collapse": [false],
+      "WIFE": ["1.A.II.3.7(s)"]
+    },
+    "1A-II-5-1(a)": {
+      "WIFE": ["1.A.II.5.1"],
+      "collapse": [false],
+      "HUSB": ["1.A.II.5.1(s)"]
+    },
+    "1A-II-5-1(b)": {
+      "WIFE": ["1.A.II.5.1"],
+      "collapse": [false],
+      "HUSB": ["1.A.II.5.1(s2)"]
+    },
+    "1B-II-1-1": {
+      "HUSB": ["1.B.II.1.1"],
+      "collapse": [false],
+      "WIFE": ["1.B.II.1.1(s)"]
+    },
+    "1B-II-1-4": {
+      "HUSB": ["1.B.II.1.4"],
+      "collapse": [false],
+      "WIFE": ["1.B.II.1.4(s)"]
+    },
+    "1B-II-2-1": {
+      "WIFE": ["1.B.II.2.1"],
+      "collapse": [false],
+      "HUSB": ["1.B.II.2.1(s)"]
+    },
+    "1B-II-4-2": {
+      "HUSB": ["1.B.II.4.2"],
+      "collapse": [false],
+      "WIFE": ["1.B.II.4.2(s)"]
+    },
+    "1C-I-1-2": {
+      "HUSB": ["1.C.I.1.2"],
+      "collapse": [false],
+      "WIFE": ["1.C.I.1.2(s)"]
+    },
+    "1C-I-2(b)-3": {
+      "HUSB": ["1.C.I.2b.3"],
+      "collapse": [false],
+      "WIFE": ["1.C.I.2b.3(s)"]
+    },
+    "1C-I-3-4": {
+      "HUSB": ["1.C.I.3.4"],
+      "collapse": [false],
+      "WIFE": ["1.C.I.3.4(s)"]
+    },
+    "1C-II-2-1": {
+      "HUSB": ["1.C.II.2.1"],
+      "collapse": [false],
+      "WIFE": ["1.C.II.2.1(s)"]
+    },
+    "1C-V-2-3": {
+      "WIFE": ["1.C.V.2.3"],
+      "collapse": [false],
+      "HUSB": ["1.C.V.2.3(s)"]
+    },
+    "1C-V-3-2": {
+      "HUSB": ["1.C.V.3.2"],
+      "collapse": [false],
+      "WIFE": ["1.C.V.3.2(s)"]
+    },
+    "1C-V-3-3": {
+      "HUSB": ["1.C.V.3.3"],
+      "collapse": [false],
+      "WIFE": ["1.C.V.3.3(s)"]
+    },
+    "1C-V-3-4": {
+      "WIFE": ["1.C.V.3.4"],
+      "collapse": [false],
+      "HUSB": ["1.C.V.3.4(s)"]
+    },
+    "1D-III-4-2": {
+      "HUSB": ["1.D.III.4.2"],
+      "collapse": [false],
+      "WIFE": ["1.D.III.4.2(s)"],
+      "CHIL": ["1.D.III.4.2.a"]
+    },
+    "2A-I-1-2": {
+      "WIFE": ["2.A.I.1.2"],
+      "collapse": [false],
+      "HUSB": ["2.A.I.1.2(s)"],
+      "CHIL": ["2.A.I.1.2.a", "2.A.I.1.2.b", "2.A.I.1.2.c"]
+    },
+    "2A-I-1-3": {
+      "WIFE": ["2.A.I.1.3"],
+      "collapse": [false],
+      "HUSB": ["2.A.I.1.3(s)"],
+      "CHIL": ["2.A.I.1.3.a", "2.A.I.1.3.b", "2.A.I.1.3.c", "2.A.I.1.3.d", "2.A.I.1.3.e", "2.A.I.1.3.f"]
+    },
+    "2A-I-1-6": {
+      "HUSB": ["2.A.I.1.6"],
+      "collapse": [false],
+      "WIFE": ["2.A.I.1.6(s)"],
+      "CHIL": ["2.A.I.1.6.a", "2.A.I.1.6.b"]
+    },
+    "2A-II-1-1": {
+      "WIFE": ["2.A.II.1.1"],
+      "collapse": [false],
+      "HUSB": ["2.A.II.1.1(s)"]
+    },
+    "2A-II-2-3": {
+      "WIFE": ["2.A.II.2.3"],
+      "collapse": [false],
+      "HUSB": ["2.A.II.2.3(s)"],
+      "CHIL": ["2.A.II.2.3.a"]
+    },
+    "2A-II-3-1": {
+      "WIFE": ["2.A.II.3.1"],
+      "collapse": [false],
+      "HUSB": ["2.A.II.3.1(s)"],
+      "CHIL": ["2.A.II.3.1.a", "2.A.II.3.1.b", "2.A.II.3.1.c", "2.A.II.3.1.d", "2.A.II.3.1.e", "2.A.II.3.1.f", "2.A.II.3.1.g"]
+    },
+    "2A-II-3-2": {
+      "WIFE": ["2.A.II.3.2"],
+      "collapse": [false],
+      "HUSB": ["2.A.II.3.2(s)"]
+    },
+    "2A-II-3-4": {
+      "WIFE": ["2.A.II.3.4"],
+      "collapse": [false],
+      "HUSB": ["2.A.II.3.4(s)"]
+    },
+    "2A-II-3-5": {
+      "WIFE": ["2.A.II.3.5"],
+      "collapse": [false],
+      "HUSB": ["2.A.II.3.5(s)"],
+      "CHIL": ["2.A.II.3.5.a"]
+    },
+    "2A-II-5-1": {
+      "WIFE": ["2.A.II.5.2"],
+      "collapse": [false],
+      "HUSB": ["2.A.II.5.2(s)"],
+      "CHIL": ["2.A.II.5.1.a"]
+    },
+    "2A-II-9-1": {
+      "WIFE": ["2.A.II.9.1"],
+      "collapse": [false],
+      "HUSB": ["2.A.II.9.1(s)"],
+      "CHIL": ["2.A.II.9.1.a", "2.A.II.9.1.b", "2.A.II.9.1.c", "2.A.II.9.1.d", "2.A.II.9.1.e", "2.A.II.9.1.f", "2.A.II.9.1.g", "2.A.II.9.1.h"]
+    },
+    "1D-III-4-2-a": {
+      "HUSB": ["1.D.III.4.2.a"],
+      "collapse": [false],
+      "WIFE": ["1.D.III.4.2.a(s)"]
+    },
+    "2A-I-1-2-b": {
+      "WIFE": ["2.A.I.1.2.b"],
+      "collapse": [false],
+      "HUSB": ["2.A.I.1.2.b(s)"]
+    },
+    "2A-I-1-6-b": {
+      "HUSB": ["2.A.I.1.6.b"],
+      "collapse": [false],
+      "WIFE": ["2.A.I.1.6.b(s)"],
+      "CHIL": ["2.A.I.1.6.b.1", "2.A.I.1.6.b.2", "2.A.I.1.6.b.3", "2.A.I.1.6.b.4"]
+    },
+    "2A-II-2-3-a": {
+      "WIFE": ["2.A.II.2.3.a"],
+      "collapse": [false],
+      "HUSB": ["2.A.II.2.3.a(s)"]
+    },
+    "2A-II-3-5-a": {
+      "HUSB": ["2.A.II.3.5.a"],
+      "collapse": [false],
+      "WIFE": ["2.A.II.3.5.a(s)"]
+    },
+    "2A-II-5-1-a": {
+      "WIFE": ["2.A.II.5.1.a"],
+      "collapse": [false],
+      "HUSB": ["2.A.II.5.1.a(s)"]
+    },
+    "2A-II-9-1-a": {
+      "WIFE": ["2.A.II.9.1.a"],
+      "collapse": [false],
+      "HUSB": ["2.A.II.9.1.a(s)"]
+    },
+    "2A-II-9-1-b": {
+      "WIFE": ["2.A.II.9.1.b"],
+      "collapse": [false],
+      "HUSB": ["2.A.II.9.1.b(s)"]
+    },
+    "2A-II-9-1-c": {
+      "HUSB": ["2.A.II.9.1.c"],
+      "collapse": [false],
+      "WIFE": ["2.A.II.9.1.c(s)"]
+    },
+    "2A-II-9-1-e": {
+      "WIFE": ["2.A.II.9.1.e"],
+      "collapse": [false],
+      "HUSB": ["2.A.II.9.1.e(s)"]
+    },
+    "2A-II-9-1-f": {
+      "WIFE": ["2.A.II.9.1.f"],
+      "collapse": [false],
+      "HUSB": ["2.A.II.9.1.f(s)"]
+    },
+    "2A-II-9-1-h": {
+      "HUSB": ["2.A.II.9.1.h"],
+      "collapse": [false],
+      "WIFE": ["2.A.II.9.1.h(s)"]
+    },
+    "2A-I-1-6-b-1": {
+      "WIFE": ["2.A.I.1.6.b.1"],
+      "collapse": [false],
+      "HUSB": ["2.A.I.1.6.b.1(s)"],
+      "CHIL": ["2.A.I.1.6.b.1.i", "2.A.I.1.6.b.1.ii", "2.A.I.1.6.b.1.iii"]
+    },
+    "2A-I-1-6-b-2": {
+      "WIFE": ["2.A.I.1.6.b.2"],
+      "collapse": [false],
+      "HUSB": ["2.A.I.1.6.b.2(s)"],
+      "CHIL": ["2.A.I.1.6.b.2.i", "2.A.I.1.6.b.2.ii"]
+    },
+    "2A-I-1-6-b-3": {
+      "WIFE": ["2.A.I.1.6.b.3"],
+      "collapse": [false],
+      "HUSB": ["2.A.I.1.6.b.3(s)"],
+      "CHIL": ["2.A.I.1.6.b.3.i", "2.A.I.1.6.b.3.ii", "2.A.I.1.6.b.3.iii"]
+    },
+    "2A-I-1-6-b-4": {
+      "WIFE": ["2.A.I.1.6.b.4"],
+      "collapse": [false],
+      "HUSB": ["2.A.I.1.6.b.4(s)"],
+      "CHIL": ["2.A.I.1.6.b.4.i", "2.A.I.1.6.b.4.ii", "2.A.I.1.6.b.4.iii"]
+    },
+    "2A-I-1-6-b-1-i": {
+      "HUSB": ["2.A.I.1.6.b.1.i"],
+      "collapse": [false],
+      "WIFE": ["2.A.I.1.6.b.1.i(s)"],
+      "CHIL": ["2.A.I.1.6.b.1.i.A", "2.A.I.1.6.b.1.i.B"]
+    },
+    "2A-I-1-6-b-1-ii": {
+      "HUSB": ["2.A.I.1.6.b.1.ii"],
+      "collapse": [false],
+      "WIFE": ["2.A.I.1.6.b.1.ii(s)"]
+    },
+    "2A-I-1-6-b-1-iii": {
+      "WIFE": ["2.A.I.1.6.b.1.iii"],
+      "collapse": [false],
+      "HUSB": ["2.A.I.1.6.b.1.iii(s)"],
+      "CHIL": ["2.A.I.1.6.b.1.iii.A", "2.A.I.1.6.b.1.iii.B", "2.A.I.1.6.b.1.iii.C"]
+    },
+    "2A-I-1-6-b-2-i": {
+      "WIFE": ["2.A.I.1.6.b.2.i"],
+      "collapse": [false],
+      "HUSB": ["2.A.I.1.6.b.2.i(s)"],
+      "CHIL": ["2.A.I.1.6.b.2.i.A"]
+    },
+    "2A-I-1-6-b-1-i-A": {
+      "HUSB": ["2.A.I.1.6.b.1.i.A"],
+      "collapse": [false],
+      "WIFE": ["2.A.I.1.6.b.1.i.A(s)"]
+    }
+  }
+}
