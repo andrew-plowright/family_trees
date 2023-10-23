@@ -1,5 +1,5 @@
-﻿#include "json2.js";
-#include "../paths.js"; 
+﻿#include "functions/json2.js";
+#include "../tache_file_paths.js"; 
  
 // Open file: blank_skeleton.ai  
  
@@ -88,8 +88,8 @@ function draw_links(fam_id){
     
     if(fam.HUSB != null & fam.WIFE != null){
         
-        husb_centr = node_centre_get(fam.HUSB[0])
-        wife_centr = node_centre_get(fam.WIFE[0])
+        husb_centr = node_centre_get(fam.HUSB)
+        wife_centr = node_centre_get(fam.WIFE)
         
          if(husb_centr != null & wife_centr != null){
         
@@ -109,40 +109,23 @@ function draw_links(fam_id){
             spouse_line.strokeWidth = 2
             spouse_line.moveToEnd(fam_grp)
             
-            if(fam.collapse){
-            }else{
-            
-            
-            }
-            // Make children lines
+           // Make children lines
             if(fam.CHIL != null){
                 
+                for(var i = 0; i < fam.CHIL.length; i ++){
+            
+                    chil_id = fam.CHIL[i]
+                    chil_pt =  node_centre_get(chil_id)
                 
-                if(fam.collapse[0] === true){
-                    var collapse_line = skel_links.pathItems.add();
-                   
-                    // Create point below couple
-                    collapse_pt = [mid_pt[0], mid_pt[1] - space_y/2]
-                    collapse_line.setEntirePath([collapse_pt,mid_pt]);
-                            
-                    collapse_line.strokeWidth = 2
-                    collapse_line.moveToEnd(fam_grp)
-                    
-                }else{
-                    for(var i = 0; i < fam.CHIL.length; i ++){
-                
-                        chil_id = fam.CHIL[i]
-                        chil_pt =  node_centre_get(chil_id)
-                    
-                        if(chil_pt != null){
-                            var chil_line = skel_links.pathItems.add();
-                            chil_line.setEntirePath([ chil_pt,mid_pt]);
-                            
-                            chil_line.strokeWidth = 2
-                            chil_line.moveToEnd(fam_grp)
-                        }
+                    if(chil_pt != null){
+                        var chil_line = skel_links.pathItems.add();
+                        chil_line.setEntirePath([ chil_pt,mid_pt]);
+                        
+                        chil_line.strokeWidth = 2
+                        chil_line.moveToEnd(fam_grp)
                     }
                 }
+                
             }
         }
     }
@@ -153,11 +136,9 @@ var inds = data['individuals']
 if(skel_nodes.pageItems.length == 0){
     for (id in inds) {
     ind = inds[id]
-
-        if(ind.graph[0] === true){
             
-            node_create(node_centre(ind.position, ind.gen), 20, id)
-        }
+           node_create(node_centre(ind.position, ind.gen), 20, id)
+
     }
 }
  

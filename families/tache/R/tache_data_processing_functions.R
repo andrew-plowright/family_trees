@@ -23,7 +23,7 @@ merge_title_with_name <- function(in_data){
     if(is.na(x["Title"])){
       x["Given Name"]
     }else{
-      paste0(x["Title"], ", ", x["Given Name"])
+      paste0(x["Title"], " ", x["Given Name"])
     }
   })
   return(in_data)
@@ -37,7 +37,7 @@ merge_locations <- function(in_data){
       if(is.na(x["Location 2"])){
         x["Location 1"]
       }else{
-        paste0(x["Location 1"], " ", x["Location 2"])
+        paste0(x["Location 1"], ", ", x["Location 2"])
       }
     }
   }) 
@@ -57,21 +57,21 @@ initial_positions <- function(in_data){
   in_data[["position"]] <- NA
   
   for(i in 1:nrow(in_data)){
-    if(in_data[i, "Graph"]){
+
       gen <- in_data[i, "Generation"]
       current_position <- gens[gen]
       
       in_data[i, "Position"] <- current_position
       
       gens[gen] <- current_position + 1
-    }
+
   }
   
   return(in_data)
 }
 
 
-populate_json <- function(in_data){
+cleaned_data <- function(in_data){
   
   out_data <- list(
     individuals = list(),
@@ -106,6 +106,7 @@ populate_json <- function(in_data){
       
       person_data[["gen"]]      <- as.integer(person[["Generation"]])
       person_data[["position"]] <- as.integer(person[["Position"]])
+      person_data[["note"]]     <- as.integer(person[["Note"]])
 
       person_data[lengths(person_data) == 0] <- NULL
       
@@ -121,10 +122,6 @@ populate_json <- function(in_data){
       
       FAMC <- person[["FAMC"]]
       if(!is.null(FAMC)) out_data %<>% .populate_famc(FAMC, id)
-      
-      # Collapse family if needed
-      if(person[["Collapse"]] & !is.null(FAMS1)) out_data %<>% .collapse_fams(FAMS1)
-      if(person[["Collapse"]] & !is.null(FAMS2)) out_data %<>% .collapse_fams(FAMS2)
     
    
   }
@@ -138,22 +135,18 @@ populate_json <- function(in_data){
   if(is.null(out_data[["families"]][[fam]])) out_data[["families"]][[fam]] <- list()
   
   out_data[["families"]][[fam]][[spouse]] <- id
-  out_data[["families"]][[fam]][["collapse"]] <- FALSE
+
   
   return(out_data)
   
 }
 
-.collapse_fams <- function(out_data, fam){
-  out_data[["families"]][[fam]][["collapse"]] <- TRUE
-  return(out_data)
-}
 
 .populate_famc <- function(out_data, fam, id){
   
   if(is.null(out_data[["families"]][[fam]])) out_data[["families"]][[fam]] <- list()
   
-  out_data[["families"]][[fam]][["CHIL"]] %<>% c(., id)
+  out_data[["families"]][[fam]][["CHIL"]] %<>% c(., list(id))
   
   return(out_data)
 }

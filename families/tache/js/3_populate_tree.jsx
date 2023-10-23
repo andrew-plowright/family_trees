@@ -1,41 +1,49 @@
 ﻿#include "functions/json2.js";
-#include "../bystram_file_paths.js"; 
+#include "../tache_file_paths.js"; 
 #include "functions/populate_tree.jsx";
 
  // Open file: blank_family_tree.ai
 
 // Inputs (JSON):
 // 1. The cleaned family data
-// 2. A list of nodes that are "discontinued" (i.e.: they will not branch off). This was created manually.
+// 2. A list of nodes that are "collapsed/discontinued" (i.e.: they will not branch off). This was created manually.
 // 3. A list of repositioned nodes
 
-// Outputs (AI):
+// Outputs (AI)
 // The final tree
 
 // Read JSON
 var data_tree = readJSON(data_path)
 var data_disc = readJSON(collapsed_path)
 var data_repo = readJSON(reposition_path)
+
 var data_inds = data_tree['individuals'] 
 var data_fams = data_tree['families']
-
 
  // Get document
 var doc = app.activeDocument;
 var doc_w = doc.width;
 var doc_h = doc.height;
+
 var lyr_nodes_ind = doc.layers.getByName('Nodes').layers.getByName('Individuals')
 var lyr_links_fam = doc.layers.getByName('Links').layers.getByName('Families')
 var lyr_nodes_disc = doc.layers.getByName('Nodes').layers.getByName('Discontinued')
 var lyr_links_disc = doc.layers.getByName('Links').layers.getByName('Discontinued')
 var lyr_templates = doc.layers.getByName('Template')
 
+clear_lyr(lyr_nodes_ind)
+clear_lyr(lyr_links_fam)
+clear_lyr(lyr_nodes_disc)
+clear_lyr(lyr_links_disc)
+
 // Set variables
-var space_x = 30
-var space_y = 75
-var offset_x = 125
-var offset_y = 150
-var link_offset = 32.5
+var grid = 3
+var space_x = 6
+var space_y = 120
+var offset_x = 120
+var offset_y = 132
+var link_vert_offset = 42
+var link_lat_offset = 6
 
 // Set style
 var link_style = {
@@ -64,18 +72,16 @@ var node_col_fill = rgb(245, 245, 245);
 var node_col_unknown = rgb(241, 242, 242);
 var node_col_stroke = rgb(15, 15, 15); 
  
-
 // Create nodes (individuals)
 if(lyr_nodes_ind.pageItems.length == 0){
     for (id in data_inds) {
-        
-        var data_ind = data_inds[id]
-        
-        var gen = data_ind.gen
+
         var position = data_repo[id]        
-        var coords = node_centre(position, gen)
-        
+       
         if(position != null){     
+            var data_ind = data_inds[id]
+             var gen = data_ind.gen
+             var coords = node_centre(position, gen)
             node_create(coords, id, data_ind)
         }
     }
