@@ -1,6 +1,6 @@
-Bystram Family Tree
+🌳 Bystram Family Tree
 ======================================================================================================
-Version 1.0.1, by Andrew Plowright
+Version **1.0.1**, by Andrew Plowright
 
 # Summary
 

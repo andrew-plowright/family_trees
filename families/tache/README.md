@@ -1,6 +1,6 @@
-Taché Family Tree
+🌳 Taché Family Tree
 ======================================================================================================
-Version 0.9.0, by Andrew Plowright
+Version **0.9.0**, by Andrew Plowright
 
 
 # Summary
@@ -10,7 +10,7 @@ Creation of a printable family tree for my Pierre Tremblay (my uncle) using the 
 
 # Updates
 
-- **v0.8.0, 2023-08-12**: Catherine Plowright transcribed data into [preliminary Excel spreadsheet](R/xlsx/Pierre's family data sent to Andrew August 12th.xlsx)
+- **v0.8.0, 2023-08-12**: Catherine Plowright transcribed data into [preliminary spreadsheet](<R/xlsx/Pierre's family data sent to Andrew August 12th.xlsx>)
 - **v0.8.1, 2023-10-14**: Finish manual clean-up off Excel data.
 - **v0.9.0, 2023-10-20**: First full draft of the family tree. Sent to Catherine Plowright for revision.
 
@@ -18,13 +18,13 @@ Creation of a printable family tree for my Pierre Tremblay (my uncle) using the 
 
 ## 1. Manually clean up data
 
-The [preliminary Excel spreadsheet](xlsx/Pierre's family data sent to Andrew August 12th.xlsx) provided by Catherine Plowright was [manually cleaned up](xlsx/tache_data_cleaned.xlsx). This involved:
+The [preliminary spreadsheet](<xlsx/Pierre's family data sent to Andrew August 12th.xlsx>) provided by Catherine Plowright was [manually cleaned up](xlsx/tache_data_cleaned.xlsx). This involved:
 - Verifying the transcribed data
 - Adding new family members based on findings from [nosorigines.qc.ca](https://www.nosorigines.qc.ca/)
 
 ## 2. Convert to JSON
 
-The [tache_data_processing.R](tache_data_processing.R) file is used to convert the [manually cleaned-up data](xlsx/tache_data_cleaned.xlsx) to JSON format, including [tache_data_cleaned.json](json/tache_data_cleaned.json) and [tache_collapsed_branches.json](json/tache_collapsed_branches.json), which defines which families will be collapsed (for future projects, I don't think it's necessary to have this as a second JSON file). 
+The [tache_data_processing.R](tache_data_processing.R) file is used to convert the [manually cleaned-up spreadsheet](xlsx/tache_data_cleaned.xlsx) to JSON format, including [tache_data_cleaned.json](json/tache_data_cleaned.json) and [tache_collapsed_branches.json](json/tache_collapsed_branches.json), which defines which families will be collapsed (for future projects, I don't think it's necessary to have this as a second JSON file). 
 
 ## 3. Plot initial positions
 
