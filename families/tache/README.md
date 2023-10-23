@@ -12,7 +12,8 @@ Creation of a printable family tree for my Pierre Tremblay (my uncle) using the 
 
 - **v0.8.0, 2023-08-12**: Catherine Plowright transcribed data into [preliminary spreadsheet](<xlsx/Pierre's family data sent to Andrew August 12th.xlsx>)
 - **v0.8.1, 2023-10-14**: Finish manual clean-up off Excel data.
-- **v0.9.0, 2023-10-20**: First full draft of the family tree. Sent to Catherine Plowright for revision.
+- **v0.9.0, 2023-10-20**: First full draft of the family tree. Sent to Catherine Plowright for review.
+- **v0.9.1, 2023-10-23**: Correction of typos. Sent to Pierre Tremblay for review.
 
 # Processing
 

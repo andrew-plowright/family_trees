@@ -14,7 +14,6 @@ qa <- function(in_data){
   if(!all(apply(in_data,1, function(x) if( !is.na(x["FAMS1"]) & is.na(x["Spouse"]) ) FALSE else TRUE))){
     stop("Some FAMS do not have a HUSB/WIFE")
   }
-  
 }
 
 merge_title_with_name <- function(in_data){
@@ -26,6 +25,7 @@ merge_title_with_name <- function(in_data){
       paste0(x["Title"], " ", x["Given Name"])
     }
   })
+  
   return(in_data)
 }
 
@@ -46,7 +46,6 @@ merge_locations <- function(in_data){
   in_data[["Location 2"]] <- NULL
   
   return(in_data)
-  
 }
 
 
@@ -64,7 +63,6 @@ initial_positions <- function(in_data){
       in_data[i, "Position"] <- current_position
       
       gens[gen] <- current_position + 1
-
   }
   
   return(in_data)
@@ -122,8 +120,6 @@ cleaned_data <- function(in_data){
       
       FAMC <- person[["FAMC"]]
       if(!is.null(FAMC)) out_data %<>% .populate_famc(FAMC, id)
-    
-   
   }
   
   return(out_data)
@@ -138,7 +134,6 @@ cleaned_data <- function(in_data){
 
   
   return(out_data)
-  
 }
 
 

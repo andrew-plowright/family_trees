@@ -326,10 +326,10 @@ function draw_links(fam_id){
     if(chil_num > 0){
          
         type = 'single'
-        contents = '1 child'
+        contents = '1 enfant'
         if(chil_num > 1){
             type = 'multi' 
-            contents = chil_num + ' children'
+            contents = chil_num + ' enfants'
         }
 
         disc_coords = [spouse_coords[0], spouse_coords[1] - (space_y/2)]

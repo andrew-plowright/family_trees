@@ -31,6 +31,8 @@ var lyr_nodes_disc = doc.layers.getByName('Nodes').layers.getByName('Discontinue
 var lyr_links_disc = doc.layers.getByName('Links').layers.getByName('Discontinued')
 var lyr_templates = doc.layers.getByName('Template')
 
+lyr_templates.visible = true
+
 clear_lyr(lyr_nodes_ind)
 clear_lyr(lyr_links_fam)
 clear_lyr(lyr_nodes_disc)
@@ -86,6 +88,7 @@ if(lyr_nodes_ind.pageItems.length == 0){
         }
     }
 }
+
  
  // Create links (families(
 if(lyr_links_fam.pageItems.length == 0){
@@ -105,3 +108,5 @@ if(lyr_links_disc.pageItems.length == 0){
         draw_disc_link(id)
     }
 }
+
+lyr_templates.visible = false
