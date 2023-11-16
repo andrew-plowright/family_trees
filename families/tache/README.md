@@ -1,6 +1,6 @@
 🌳 Taché Family Tree
 ======================================================================================================
-Version **0.9.0**, by Andrew Plowright
+Version **0.9.2**, by Andrew Plowright
 
 
 # Summary
@@ -10,10 +10,11 @@ Creation of a printable family tree for my Pierre Tremblay (my uncle) using the 
 
 # Updates
 
-- **v0.8.0, 2023-08-12**: Catherine Plowright transcribed data into [preliminary spreadsheet](<xlsx/Pierre's family data sent to Andrew August 12th.xlsx>)
-- **v0.8.1, 2023-10-14**: Finish manual clean-up off Excel data.
-- **v0.9.0, 2023-10-20**: First full draft of the family tree. Sent to Catherine Plowright for review.
-- **v0.9.1, 2023-10-23**: Correction of typos. Sent to Pierre Tremblay for review.
+- **v.0.8.0, 2023-08-12**: Catherine Plowright transcribed data into [preliminary spreadsheet](<xlsx/Pierre's family data sent to Andrew August 12th.xlsx>)
+- **v.0.8.1, 2023-10-14**: Finish manual clean-up off Excel data.
+- **v.0.9.0, 2023-10-20**: First full draft of the family tree. Sent to Catherine Plowright for review.
+- **v.0.9.1, 2023-10-23**: Correction of typos. Sent to Pierre Tremblay for review.
+- **v.0.9.2, 2023-11-16**: Received feedback from Pierre. Added several missing people and birth dates.
 
 # Processing
 

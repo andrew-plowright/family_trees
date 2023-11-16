@@ -201,8 +201,14 @@ function node_create(coords, id, data){
         grp_items['DEATH DATE'].contents = 'D: ' + data['DEAT']['YEAR']
         
     }else{
-         grp_item_remove(['DEATH DATE'])
-//~          recentre += grid * 2
+         grp_item_remove(['DEATH DATE'])   
+         
+         // Nudge up birth place if there is no death date
+         if(grp_items['BIRTH PLACE']){
+             grp_items['BIRTH PLACE'].translate(0,grid)
+             }
+         
+         //*recentre -= grid * 2
 
     }
 

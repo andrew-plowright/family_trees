@@ -255,7 +255,7 @@
     },
     "1.C": {
       "NAME": {
-        "GIVN": "Sir. Etienne-Pascal",
+        "GIVN": "Sir Etienne-Pascal",
         "SURN": "Taché"
       },
       "BIRT": {
@@ -315,7 +315,7 @@
     },
     "1.E": {
       "NAME": {
-        "GIVN": "Émilie",
+        "GIVN": "Madeleine Emilie",
         "SURN": "Taché"
       },
       "BIRT": {
@@ -3911,6 +3911,9 @@
         "YEAR": "1875",
         "PLAC": "Saint-Jean-Baptiste, Qc."
       },
+      "DEAT": {
+        "YEAR": "1958"
+      },
       "FAMS": "2A-I-1-6",
       "gen": 8,
       "position": 130
@@ -4682,7 +4685,13 @@
     "2.A.I.1.6.a": {
       "NAME": {
         "GIVN": "Louis",
-        "SURN": "de Gaspé Taché"
+        "SURN": "Taché"
+      },
+      "BIRT": {
+        "YEAR": "1912"
+      },
+      "DEAT": {
+        "YEAR": "1924"
       },
       "FAMC": "2A-I-1-6",
       "gen": 9,
@@ -4693,6 +4702,12 @@
         "GIVN": "Arthur ",
         "SURN": "de Gaspé Taché"
       },
+      "BIRT": {
+        "YEAR": "1910"
+      },
+      "DEAT": {
+        "YEAR": "1997"
+      },
       "FAMC": "2A-I-1-6",
       "FAMS": "2A-I-1-6-b",
       "gen": 9,
@@ -4702,6 +4717,13 @@
       "NAME": {
         "GIVN": "Berna",
         "SURN": "Williamson"
+      },
+      "BIRT": {
+        "YEAR": "1911",
+        "PLAC": "Vankleek Hull, Ont."
+      },
+      "DEAT": {
+        "YEAR": "1970"
       },
       "FAMS": "2A-I-1-6-b",
       "gen": 9,
@@ -5084,6 +5106,13 @@
         "GIVN": "Suzanne",
         "SURN": "de Gaspé Taché"
       },
+      "BIRT": {
+        "YEAR": "1938",
+        "PLAC": "Montréal, Qc."
+      },
+      "DEAT": {
+        "YEAR": "2023"
+      },
       "FAMC": "2A-I-1-6-b",
       "FAMS": "2A-I-1-6-b-1",
       "gen": 10,
@@ -5094,14 +5123,25 @@
         "GIVN": "Robert",
         "SURN": "Tremblay"
       },
+      "BIRT": {
+        "YEAR": "1937",
+        "PLAC": "Ottawa, Ont."
+      },
+      "DEAT": {
+        "YEAR": "2019"
+      },
       "FAMS": "2A-I-1-6-b-1",
       "gen": 10,
       "position": 2
     },
     "2.A.I.1.6.b.2": {
       "NAME": {
-        "GIVN": "Lynn",
+        "GIVN": "Lynn Marie Louise",
         "SURN": "de Gaspé Taché"
+      },
+      "BIRT": {
+        "YEAR": "1940",
+        "PLAC": "Montréal, Qc."
       },
       "FAMC": "2A-I-1-6-b",
       "FAMS": "2A-I-1-6-b-2",
@@ -5110,8 +5150,15 @@
     },
     "2.A.I.1.6.b.2(s)": {
       "NAME": {
-        "GIVN": "John",
+        "GIVN": "John Herbert",
         "SURN": "Legate"
+      },
+      "BIRT": {
+        "YEAR": "1924",
+        "PLAC": "Vancouver, C.-B."
+      },
+      "DEAT": {
+        "YEAR": "2007"
       },
       "FAMS": "2A-I-1-6-b-2",
       "gen": 10,
@@ -5121,6 +5168,10 @@
       "NAME": {
         "GIVN": "Louise",
         "SURN": "de Gaspé Taché"
+      },
+      "BIRT": {
+        "YEAR": "1944",
+        "PLAC": "Montréal, Qc."
       },
       "FAMC": "2A-I-1-6-b",
       "FAMS": "2A-I-1-6-b-3",
@@ -5132,14 +5183,22 @@
         "GIVN": "John",
         "SURN": "Parks"
       },
+      "BIRT": {
+        "YEAR": "1941",
+        "PLAC": "Guelph, Ont."
+      },
       "FAMS": "2A-I-1-6-b-3",
       "gen": 10,
       "position": 6
     },
     "2.A.I.1.6.b.4": {
       "NAME": {
-        "GIVN": "Allyson",
+        "GIVN": "Allyson Huguette",
         "SURN": "de Gaspé Taché"
+      },
+      "BIRT": {
+        "YEAR": "1948",
+        "PLAC": "Montréal, Qc."
       },
       "FAMC": "2A-I-1-6-b",
       "FAMS": "2A-I-1-6-b-4",
@@ -5151,13 +5210,17 @@
         "GIVN": "Melvyn",
         "SURN": "Green"
       },
+      "BIRT": {
+        "YEAR": "1948",
+        "PLAC": "Ottawa, Ont."
+      },
       "FAMS": "2A-I-1-6-b-4",
       "gen": 10,
       "position": 8
     },
     "2.A.I.1.6.b.1.i": {
       "NAME": {
-        "GIVN": "Pierre",
+        "GIVN": "Pierre Jean Joseph",
         "SURN": "Tremblay"
       },
       "BIRT": {
@@ -5187,6 +5250,10 @@
         "GIVN": "Richard",
         "SURN": "Tremblay"
       },
+      "BIRT": {
+        "YEAR": "1963",
+        "PLAC": "Montréal, Qc."
+      },
       "FAMC": "2A-I-1-6-b-1",
       "FAMS": "2A-I-1-6-b-1-ii",
       "gen": 11,
@@ -5197,14 +5264,22 @@
         "GIVN": "Elizabeth",
         "SURN": "Harris"
       },
+      "BIRT": {
+        "YEAR": "1968",
+        "PLAC": "Fort St-John, C.-B."
+      },
       "FAMS": "2A-I-1-6-b-1-ii",
       "gen": 11,
       "position": 4
     },
     "2.A.I.1.6.b.1.iii": {
       "NAME": {
-        "GIVN": "Lynn",
-        "SURN": "Tremblay"
+        "GIVN": "Lynn Marie",
+        "SURN": "de Gaspé Taché"
+      },
+      "BIRT": {
+        "YEAR": "1963",
+        "PLAC": "Montréal, Qc."
       },
       "FAMC": "2A-I-1-6-b-1",
       "FAMS": "2A-I-1-6-b-1-iii",
@@ -5213,8 +5288,12 @@
     },
     "2.A.I.1.6.b.1.iii(s)": {
       "NAME": {
-        "GIVN": "Rick",
+        "GIVN": "Richard Sloan",
         "SURN": "Picard"
+      },
+      "BIRT": {
+        "YEAR": "1963",
+        "PLAC": "Ottawa, Ont."
       },
       "FAMS": "2A-I-1-6-b-1-iii",
       "gen": 11,
@@ -5222,7 +5301,12 @@
     },
     "2.A.I.1.6.b.2.i": {
       "NAME": {
-        "GIVN": "Sari"
+        "GIVN": "Sari Lynn Marie",
+        "SURN": "Legate"
+      },
+      "BIRT": {
+        "YEAR": "1967",
+        "PLAC": "Ottawa, Ont."
       },
       "FAMC": "2A-I-1-6-b-2",
       "FAMS": "2A-I-1-6-b-2-i",
@@ -5231,7 +5315,12 @@
     },
     "2.A.I.1.6.b.2.i(s)": {
       "NAME": {
-        "GIVN": "Zolt"
+        "GIVN": "Zsolt Gyorgy",
+        "SURN": "Sary"
+      },
+      "BIRT": {
+        "YEAR": "1965",
+        "PLAC": "Budapest, Hongrie"
       },
       "FAMS": "2A-I-1-6-b-2-i",
       "gen": 11,
@@ -5239,7 +5328,12 @@
     },
     "2.A.I.1.6.b.2.ii": {
       "NAME": {
-        "GIVN": "Bart"
+        "GIVN": "Bartholomew George",
+        "SURN": "Legate"
+      },
+      "BIRT": {
+        "YEAR": "1969",
+        "PLAC": "Ottawa, Ont."
       },
       "FAMC": "2A-I-1-6-b-2",
       "gen": 11,
@@ -5247,7 +5341,12 @@
     },
     "2.A.I.1.6.b.3.i": {
       "NAME": {
-        "GIVN": "Norman"
+        "GIVN": "Norman",
+        "SURN": "Parks"
+      },
+      "BIRT": {
+        "YEAR": "1964",
+        "PLAC": "Burlington, Ont."
       },
       "FAMC": "2A-I-1-6-b-3",
       "gen": 11,
@@ -5255,43 +5354,121 @@
     },
     "2.A.I.1.6.b.3.ii": {
       "NAME": {
-        "GIVN": "Michael"
+        "GIVN": "Michael James",
+        "SURN": "Parks"
+      },
+      "BIRT": {
+        "YEAR": "1967",
+        "PLAC": "Orillia, Ont."
       },
       "FAMC": "2A-I-1-6-b-3",
+      "FAMS": "2A-I-1-6-b-3-ii",
       "gen": 11,
       "position": 11
     },
-    "2.A.I.1.6.b.3.iii": {
+    "2.A.I.1.6.b.3.ii(s)": {
       "NAME": {
-        "GIVN": "Alison"
+        "GIVN": "Julie Marie Nadine",
+        "SURN": "Cates"
       },
-      "FAMC": "2A-I-1-6-b-3",
+      "BIRT": {
+        "YEAR": "1976",
+        "PLAC": "Guelph, Ont."
+      },
+      "FAMS": "2A-I-1-6-b-3-ii",
       "gen": 11,
       "position": 12
     },
-    "2.A.I.1.6.b.4.i": {
+    "2.A.I.1.6.b.3.iii": {
       "NAME": {
-        "GIVN": "Kanya"
+        "GIVN": "Alison",
+        "SURN": "Parks"
       },
-      "FAMC": "2A-I-1-6-b-4",
+      "BIRT": {
+        "YEAR": "1972",
+        "PLAC": "Orillia, Ont."
+      },
+      "FAMC": "2A-I-1-6-b-3",
       "gen": 11,
       "position": 13
     },
-    "2.A.I.1.6.b.4.ii": {
+    "2.A.I.1.6.b.4.i": {
       "NAME": {
-        "GIVN": "Eva"
+        "GIVN": "Kaya",
+        "SURN": "Taché Green"
+      },
+      "BIRT": {
+        "YEAR": "1979",
+        "PLAC": "Toronto, Ont."
       },
       "FAMC": "2A-I-1-6-b-4",
+      "FAMS": "2A-I-1-6-b-4-i",
       "gen": 11,
       "position": 14
     },
-    "2.A.I.1.6.b.4.iii": {
+    "2.A.I.1.6.b.4.i(s)": {
       "NAME": {
-        "GIVN": "Sophie"
+        "GIVN": "Assaf",
+        "SURN": "Feldman"
       },
-      "FAMC": "2A-I-1-6-b-4",
+      "BIRT": {
+        "YEAR": "1975"
+      },
+      "FAMS": "2A-I-1-6-b-4-i",
       "gen": 11,
       "position": 15
+    },
+    "2.A.I.1.6.b.4.ii": {
+      "NAME": {
+        "GIVN": "Eva Kamouraska",
+        "SURN": "Taché Green"
+      },
+      "BIRT": {
+        "YEAR": "1982",
+        "PLAC": "Toronto, Ont."
+      },
+      "FAMC": "2A-I-1-6-b-4",
+      "FAMS": "2A-I-1-6-b-4-ii",
+      "gen": 11,
+      "position": 16
+    },
+    "2.A.I.1.6.b.4.ii(s)": {
+      "NAME": {
+        "GIVN": "Andrew Jason",
+        "SURN": "Gautreau"
+      },
+      "BIRT": {
+        "YEAR": "1975"
+      },
+      "FAMS": "2A-I-1-6-b-4-ii",
+      "gen": 11,
+      "position": 17
+    },
+    "2.A.I.1.6.b.4.iii": {
+      "NAME": {
+        "GIVN": "Sophie",
+        "SURN": "Taché Green"
+      },
+      "BIRT": {
+        "YEAR": "1986",
+        "PLAC": "Toronto, Ont."
+      },
+      "FAMC": "2A-I-1-6-b-4",
+      "FAMS": "2A-I-1-6-b-4-iii",
+      "gen": 11,
+      "position": 18
+    },
+    "2.A.I.1.6.b.4.iii(s)": {
+      "NAME": {
+        "GIVN": "Philippe",
+        "SURN": "Aubin Dionne"
+      },
+      "BIRT": {
+        "YEAR": "1987"
+      },
+      "FAMS": "2A-I-1-6-b-4-iii",
+      "gen": 11,
+      "position": 19
     },
     "2.A.I.1.6.b.1.i.A": {
       "NAME": {
@@ -5311,6 +5488,9 @@
       "NAME": {
         "GIVN": "Maude",
         "SURN": "Parker"
+      },
+      "BIRT": {
+        "YEAR": "1995"
       },
       "FAMS": "2A-I-1-6-b-1-i-A",
       "gen": 12,
@@ -5332,37 +5512,186 @@
     "2.A.I.1.6.b.1.iii.A": {
       "NAME": {
         "GIVN": "Kristopher",
-        "SURN": "Picard"
+        "SURN": "Tremblay Picard"
+      },
+      "BIRT": {
+        "YEAR": "1992",
+        "PLAC": "Hawkesbury, Ont."
       },
       "FAMC": "2A-I-1-6-b-1-iii",
+      "FAMS": "2A-I-1-6-b-1-iii-A",
       "gen": 12,
       "position": 4
+    },
+    "2.A.I.1.6.b.1.iii.A(s)": {
+      "NAME": {
+        "GIVN": "Rebecca Aisha",
+        "SURN": "Stienstra"
+      },
+      "BIRT": {
+        "YEAR": "1994",
+        "PLAC": "Winnipeg, Man."
+      },
+      "FAMS": "2A-I-1-6-b-1-iii-A",
+      "gen": 12,
+      "position": 5
     },
     "2.A.I.1.6.b.1.iii.B": {
       "NAME": {
         "GIVN": "Alexander",
-        "SURN": "Picard"
+        "SURN": "Tremblay Picard"
+      },
+      "BIRT": {
+        "YEAR": "1994",
+        "PLAC": "Hawkesbury, Ont."
       },
       "FAMC": "2A-I-1-6-b-1-iii",
+      "FAMS": "2A-I-1-6-b-1-iii-B",
       "gen": 12,
-      "position": 5
+      "position": 6
+    },
+    "2.A.I.1.6.b.1.iii.B(s)": {
+      "NAME": {
+        "GIVN": "Haneul (Sarah)",
+        "SURN": "Kim"
+      },
+      "BIRT": {
+        "YEAR": "1993",
+        "PLAC": "Seoul, Corée du Sud"
+      },
+      "FAMS": "2A-I-1-6-b-1-iii-B",
+      "gen": 12,
+      "position": 7
     },
     "2.A.I.1.6.b.1.iii.C": {
       "NAME": {
         "GIVN": "Robbyn",
-        "SURN": "Picard"
+        "SURN": "Tremblay Picard"
+      },
+      "BIRT": {
+        "YEAR": "1996",
+        "PLAC": "Hawkesbury, Ont."
       },
       "FAMC": "2A-I-1-6-b-1-iii",
+      "FAMS": "2A-I-1-6-b-1-iii-C",
       "gen": 12,
-      "position": 6
+      "position": 8
+    },
+    "2.A.I.1.6.b.1.iii.C(s)": {
+      "NAME": {
+        "GIVN": "Ellen Riley",
+        "SURN": "Kennedy"
+      },
+      "BIRT": {
+        "YEAR": "1998"
+      },
+      "FAMS": "2A-I-1-6-b-1-iii-C",
+      "gen": 12,
+      "position": 9
     },
     "2.A.I.1.6.b.2.i.A": {
       "NAME": {
-        "GIVN": "Matheus"
+        "GIVN": "Matyas",
+        "SURN": "Legate-Sary"
+      },
+      "BIRT": {
+        "YEAR": "2000",
+        "PLAC": "Kamloops, C.-B."
       },
       "FAMC": "2A-I-1-6-b-2-i",
       "gen": 12,
-      "position": 7
+      "position": 10
+    },
+    "2.A.I.1.6.b.3.ii.A": {
+      "NAME": {
+        "GIVN": "Jaden Alexander",
+        "SURN": "Cates"
+      },
+      "BIRT": {
+        "YEAR": "2000",
+        "PLAC": "Oakville, Ont."
+      },
+      "FAMC": "2A-I-1-6-b-3-ii",
+      "gen": 12,
+      "position": 11
+    },
+    "2.A.I.1.6.b.3.ii.B": {
+      "NAME": {
+        "GIVN": "Mason James",
+        "SURN": "Parks"
+      },
+      "BIRT": {
+        "YEAR": "2008",
+        "PLAC": "Oakville, Ont."
+      },
+      "FAMC": "2A-I-1-6-b-3-ii",
+      "gen": 12,
+      "position": 12
+    },
+    "2.A.I.1.6.b.4.i.A": {
+      "NAME": {
+        "GIVN": "Moriah Sarah",
+        "SURN": "Taché Feldman"
+      },
+      "BIRT": {
+        "YEAR": "2015",
+        "PLAC": "Toronto, Ont."
+      },
+      "FAMC": "2A-I-1-6-b-4-i",
+      "gen": 12,
+      "position": 13
+    },
+    "2.A.I.1.6.b.4.i.B": {
+      "NAME": {
+        "GIVN": "Nevo Moshe",
+        "SURN": "Taché Feldman"
+      },
+      "BIRT": {
+        "YEAR": "2018",
+        "PLAC": "Toronto, Ont."
+      },
+      "FAMC": "2A-I-1-6-b-4-i",
+      "gen": 12,
+      "position": 14
+    },
+    "2.A.I.1.6.b.4.i.C": {
+      "NAME": {
+        "GIVN": "Ma’ayan Shifra",
+        "SURN": "Taché Feldman"
+      },
+      "BIRT": {
+        "YEAR": "2021",
+        "PLAC": "Toronto, Ont."
+      },
+      "FAMC": "2A-I-1-6-b-4-i",
+      "gen": 12,
+      "position": 15
+    },
+    "2.A.I.1.6.b.4.ii.A": {
+      "NAME": {
+        "GIVN": "Juno Kamouraska",
+        "SURN": "Taché Gautreau"
+      },
+      "BIRT": {
+        "YEAR": "2022",
+        "PLAC": "Île-du-Prince-Édouard"
+      },
+      "FAMC": "2A-I-1-6-b-4-ii",
+      "gen": 12,
+      "position": 16
+    },
+    "2.A.I.1.6.b.4.ii.B": {
+      "NAME": {
+        "GIVN": "Wren MacLaren",
+        "SURN": "Taché Gautreau"
+      },
+      "BIRT": {
+        "YEAR": "2022",
+        "PLAC": "Île-du-Prince-Édouard"
+      },
+      "FAMC": "2A-I-1-6-b-4-ii",
+      "gen": 12,
+      "position": 17
     }
   },
   "families": {
@@ -6285,9 +6614,50 @@
         "2.A.I.1.6.b.2.i.A"
       ]
     },
+    "2A-I-1-6-b-3-ii": {
+      "HUSB": "2.A.I.1.6.b.3.ii",
+      "WIFE": "2.A.I.1.6.b.3.ii(s)",
+      "CHIL": [
+        "2.A.I.1.6.b.3.ii.A",
+        "2.A.I.1.6.b.3.ii.B"
+      ]
+    },
+    "2A-I-1-6-b-4-i": {
+      "WIFE": "2.A.I.1.6.b.4.i",
+      "HUSB": "2.A.I.1.6.b.4.i(s)",
+      "CHIL": [
+        "2.A.I.1.6.b.4.i.A",
+        "2.A.I.1.6.b.4.i.B",
+        "2.A.I.1.6.b.4.i.C"
+      ]
+    },
+    "2A-I-1-6-b-4-ii": {
+      "WIFE": "2.A.I.1.6.b.4.ii",
+      "HUSB": "2.A.I.1.6.b.4.ii(s)",
+      "CHIL": [
+        "2.A.I.1.6.b.4.ii.A",
+        "2.A.I.1.6.b.4.ii.B"
+      ]
+    },
+    "2A-I-1-6-b-4-iii": {
+      "WIFE": "2.A.I.1.6.b.4.iii",
+      "HUSB": "2.A.I.1.6.b.4.iii(s)"
+    },
     "2A-I-1-6-b-1-i-A": {
       "HUSB": "2.A.I.1.6.b.1.i.A",
       "WIFE": "2.A.I.1.6.b.1.i.A(s)"
+    },
+    "2A-I-1-6-b-1-iii-A": {
+      "HUSB": "2.A.I.1.6.b.1.iii.A",
+      "WIFE": "2.A.I.1.6.b.1.iii.A(s)"
+    },
+    "2A-I-1-6-b-1-iii-B": {
+      "HUSB": "2.A.I.1.6.b.1.iii.B",
+      "WIFE": "2.A.I.1.6.b.1.iii.B(s)"
+    },
+    "2A-I-1-6-b-1-iii-C": {
+      "HUSB": "2.A.I.1.6.b.1.iii.C",
+      "WIFE": "2.A.I.1.6.b.1.iii.C(s)"
     }
   }
 }
