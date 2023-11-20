@@ -4699,8 +4699,8 @@
     },
     "2.A.I.1.6.b": {
       "NAME": {
-        "GIVN": "Arthur ",
-        "SURN": "de Gaspé Taché"
+        "GIVN": "Arthur de Gaspé ",
+        "SURN": "Taché"
       },
       "BIRT": {
         "YEAR": "1910"
@@ -5104,7 +5104,7 @@
     "2.A.I.1.6.b.1": {
       "NAME": {
         "GIVN": "Suzanne",
-        "SURN": "de Gaspé Taché"
+        "SURN": "Taché"
       },
       "BIRT": {
         "YEAR": "1938",
@@ -5137,7 +5137,7 @@
     "2.A.I.1.6.b.2": {
       "NAME": {
         "GIVN": "Lynn Marie Louise",
-        "SURN": "de Gaspé Taché"
+        "SURN": "Taché"
       },
       "BIRT": {
         "YEAR": "1940",
@@ -5167,7 +5167,7 @@
     "2.A.I.1.6.b.3": {
       "NAME": {
         "GIVN": "Louise",
-        "SURN": "de Gaspé Taché"
+        "SURN": "Taché"
       },
       "BIRT": {
         "YEAR": "1944",
@@ -5194,7 +5194,7 @@
     "2.A.I.1.6.b.4": {
       "NAME": {
         "GIVN": "Allyson Huguette",
-        "SURN": "de Gaspé Taché"
+        "SURN": "Taché"
       },
       "BIRT": {
         "YEAR": "1948",
@@ -5274,8 +5274,8 @@
     },
     "2.A.I.1.6.b.1.iii": {
       "NAME": {
-        "GIVN": "Lynn Marie",
-        "SURN": "de Gaspé Taché"
+        "GIVN": "Lynn Marie de Gaspé",
+        "SURN": "Taché"
       },
       "BIRT": {
         "YEAR": "1963",
@@ -5381,7 +5381,7 @@
     },
     "2.A.I.1.6.b.3.iii": {
       "NAME": {
-        "GIVN": "Alison",
+        "GIVN": "Allyson",
         "SURN": "Parks"
       },
       "BIRT": {
@@ -5438,7 +5438,8 @@
         "SURN": "Gautreau"
       },
       "BIRT": {
-        "YEAR": "1975"
+        "YEAR": "1975",
+        "PLAC": "Mississauga, Ont."
       },
       "FAMS": "2A-I-1-6-b-4-ii",
       "gen": 11,
@@ -5486,11 +5487,12 @@
     },
     "2.A.I.1.6.b.1.i.A(s)": {
       "NAME": {
-        "GIVN": "Maude",
+        "GIVN": "Maude Alice Suzanne",
         "SURN": "Parker"
       },
       "BIRT": {
-        "YEAR": "1995"
+        "YEAR": "1995",
+        "PLAC": "Hull, Qc."
       },
       "FAMS": "2A-I-1-6-b-1-i-A",
       "gen": 12,
