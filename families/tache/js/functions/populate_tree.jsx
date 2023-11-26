@@ -180,7 +180,7 @@ function node_create(coords, id, data){
     if(data['BIRT'] != null && data['BIRT']['YEAR'] != null){
             
             
-            grp_items['BIRTH DATE'].contents = 'B: ' + data['BIRT']['YEAR']
+            grp_items['BIRTH DATE'].contents = 'N: ' + data['BIRT']['YEAR']
             
             if(data['BIRT']['PLAC'] != null){
                 grp_items['BIRTH PLACE'].contents = data['BIRT']['PLAC']

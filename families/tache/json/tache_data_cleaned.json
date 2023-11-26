@@ -5103,7 +5103,7 @@
     },
     "2.A.I.1.6.b.1": {
       "NAME": {
-        "GIVN": "Suzanne",
+        "GIVN": "Suzanne Marie de Gaspé",
         "SURN": "Taché"
       },
       "BIRT": {
@@ -5136,7 +5136,7 @@
     },
     "2.A.I.1.6.b.2": {
       "NAME": {
-        "GIVN": "Lynn Marie Louise",
+        "GIVN": "Lynn Marie Louise de Gaspé",
         "SURN": "Taché"
       },
       "BIRT": {
@@ -5193,7 +5193,7 @@
     },
     "2.A.I.1.6.b.4": {
       "NAME": {
-        "GIVN": "Allyson Huguette",
+        "GIVN": "Allyson Huguette de Gaspé",
         "SURN": "Taché"
       },
       "BIRT": {
@@ -5247,7 +5247,7 @@
     },
     "2.A.I.1.6.b.1.ii": {
       "NAME": {
-        "GIVN": "Richard",
+        "GIVN": "Richard Joseph de Gaspé",
         "SURN": "Tremblay"
       },
       "BIRT": {
@@ -5261,7 +5261,7 @@
     },
     "2.A.I.1.6.b.1.ii(s)": {
       "NAME": {
-        "GIVN": "Elizabeth",
+        "GIVN": "Elizabeth Marjory",
         "SURN": "Harris"
       },
       "BIRT": {
@@ -5275,7 +5275,7 @@
     "2.A.I.1.6.b.1.iii": {
       "NAME": {
         "GIVN": "Lynn Marie de Gaspé",
-        "SURN": "Taché"
+        "SURN": "Tremblay"
       },
       "BIRT": {
         "YEAR": "1963",
@@ -5513,8 +5513,8 @@
     },
     "2.A.I.1.6.b.1.iii.A": {
       "NAME": {
-        "GIVN": "Kristopher",
-        "SURN": "Tremblay Picard"
+        "GIVN": "Kristopher Tremblay",
+        "SURN": "Picard"
       },
       "BIRT": {
         "YEAR": "1992",
@@ -5527,7 +5527,7 @@
     },
     "2.A.I.1.6.b.1.iii.A(s)": {
       "NAME": {
-        "GIVN": "Rebecca Aisha",
+        "GIVN": "Rebecca Aisha Kellerman",
         "SURN": "Stienstra"
       },
       "BIRT": {
@@ -5540,8 +5540,8 @@
     },
     "2.A.I.1.6.b.1.iii.B": {
       "NAME": {
-        "GIVN": "Alexander",
-        "SURN": "Tremblay Picard"
+        "GIVN": "Alexander Tremblay",
+        "SURN": "Picard"
       },
       "BIRT": {
         "YEAR": "1994",
@@ -5567,8 +5567,8 @@
     },
     "2.A.I.1.6.b.1.iii.C": {
       "NAME": {
-        "GIVN": "Robbyn",
-        "SURN": "Tremblay Picard"
+        "GIVN": "Robbyn Tremblay",
+        "SURN": "Picard"
       },
       "BIRT": {
         "YEAR": "1996",
@@ -5585,7 +5585,8 @@
         "SURN": "Kennedy"
       },
       "BIRT": {
-        "YEAR": "1998"
+        "YEAR": "1998",
+        "PLAC": "Ottawa, Ont."
       },
       "FAMS": "2A-I-1-6-b-1-iii-C",
       "gen": 12,
@@ -5593,7 +5594,7 @@
     },
     "2.A.I.1.6.b.2.i.A": {
       "NAME": {
-        "GIVN": "Matyas",
+        "GIVN": "Matyas Eagan",
         "SURN": "Legate-Sary"
       },
       "BIRT": {

@@ -15,7 +15,8 @@ Creation of a printable family tree for my Pierre Tremblay (my uncle) using the 
 - **v.0.9.0, 2023-10-20**: First full draft of the family tree. Sent to Catherine Plowright for review.
 - **v.0.9.1, 2023-10-23**: Correction of typos. Sent to Pierre Tremblay for review.
 - **v.0.9.2, 2023-11-16**: Received feedback from Pierre. Added several missing people and birth dates.
-- **v.1.0.0, 2023-11-20**: Final adjustments made. Ready for print.
+- **v.1.0.0, 2023-11-20**: Ready for print.
+- **v.1.0.1, 2023-11-26**: Added "de Gaspé Taché" to middle names to 10th generation sisters (Lynn, Allyson). Corrected "B" abbrevation ("birth") to "N" ("né")
 
 # Processing
 
