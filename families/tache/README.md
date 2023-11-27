@@ -18,6 +18,7 @@ Creation of a printable family tree for my Pierre Tremblay (my uncle) using the 
 - **v.1.0.0, 2023-11-20**: Ready for print.
 - **v.1.0.1, 2023-11-26**: Added "de Gaspé Taché" to middle names to 10th generation sisters (Lynn, Allyson). Corrected "B" abbrevation ("birth") to "N" ("né")
 - **v.1.0.2, 2023-11-26**: Added middle name for Louise _Marie_ Taché (10th generation)
+- **v.1.0.3, 2023-11-27**: Added middle name to Robert Joseph Tremblay (10th generation)
 
 # Processing
 
