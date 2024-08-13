@@ -8,8 +8,9 @@ Version **1.0.0**, by Andrew Plowright
 Creation of a printable family tree for my Pierre Tremblay (my uncle) using the data gathered by his relatives as well as data available on [nosorigines.qc.ca](https://www.nosorigines.qc.ca/).
 
 # Updates
-
-- **v.0.9.1, 2024-07-06**: First draft sent to Catherine Plowright for review.
+- **v1.0.0, 2024-08-11**: First print version
+- **v0.9.2, 2024-07-09**: Various small corrections
+- **v0.9.1, 2024-07-06**: First draft sent to Catherine Plowright for review.
 
 # Processing
 
