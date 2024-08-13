@@ -1,6 +1,6 @@
 🌳 Bystram Family Tree
 ======================================================================================================
-Version **1.0.1**, by Andrew Plowright
+Version **1.0.2**, by Andrew Plowright
 
 # Summary
 
@@ -9,6 +9,7 @@ Creation of a printable family tree for Alex Bystram (my uncle) using the [data 
 
 # Updates
 
+- **v1.0.2, 2024-08-08**: Corrections for Carl, Lynne, and Liz
 - **v1.0.1, 2022-05-11**: Changed formatting to make nodes bigger
 - **v1.0.0, 2022-04-17**: Added new tree logo. Corrected name for Maria Krajcsits
 - **v0.9.2, 2022-04-03**: Added middle names for Mathieu Tremblay, Michael Tremblay, Justine Bystram, and Anya Bystram

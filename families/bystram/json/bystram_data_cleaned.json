@@ -2612,7 +2612,7 @@
     },
     "I109": {
       "NAME": {
-        "GIVN": ["Władysław Kazimierz Józef Tomasz"],
+        "GIVN": ["Władysław Kazimierz J. Tomasz"],
         "SURN": ["Bystram z Radlina"]
       },
       "BIRT": {
@@ -5170,7 +5170,7 @@
     "I2213": {
       "NAME": {
         "GIVN": ["Lynne"],
-        "SURN": ["Chichackian"]
+        "SURN": ["Chichakian"]
       },
       "FAMS": ["F902"],
       "BIRT": {
@@ -5184,7 +5184,7 @@
     },
     "I289": {
       "NAME": {
-        "GIVN": ["Elizabeth Anne Bystram"],
+        "GIVN": ["Elizabeth Anne"],
         "SURN": ["Bystram"]
       },
       "BIRT": {
@@ -5651,8 +5651,8 @@
     },
     "I445": {
       "NAME": {
-        "GIVN": ["Carl Elizabeth"],
-        "SURN": ["Plowright"]
+        "GIVN": ["Carl E."],
+        "SURN": ["Bystram"]
       },
       "BIRT": {
         "DATE": ["3 Jun 1991"],

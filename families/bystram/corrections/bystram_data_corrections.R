@@ -97,6 +97,10 @@ individual_corrections <- list(
 
   # Lynne Chickakian
   I2213 = list(
+    NAME = list(
+      GIVN = "Lynne",
+      SURN = "Chichakian"
+    ),
     BIRT = list(
       DATE = 'September 9, 1962',
       YEAR = 1962,
@@ -108,7 +112,7 @@ individual_corrections <- list(
   # Liz Bystram
   I289 = list(
     NAME = list(
-      GIVN = "Elizabeth Anne Bystram"
+      GIVN = "Elizabeth Anne"
     )
   ),
   
@@ -125,7 +129,8 @@ individual_corrections <- list(
   # Carl Plowright
   I445 = list(
     NAME = list(
-      GIVN = "Carl Elizabeth"
+      GIVN = "Carl E.",
+      SURN = "Bystram"
     )
   ),
   
@@ -206,6 +211,12 @@ individual_corrections <- list(
   I251 = list(
     NAME = list(
       GIVN = "Anna Elisabeth"
+    )
+  ),
+  
+  I109 = list(
+    NAME = list(
+      GIVN = "W\u0142adys\u0142aw Kazimierz J. Tomasz"
     )
   )
 )
