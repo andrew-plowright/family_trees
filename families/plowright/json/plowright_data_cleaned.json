@@ -1912,7 +1912,7 @@
         "SURN": "Makriel"
       },
       "BIRT": {
-        "YEAR": "1940",
+        "YEAR": "1943",
         "PLAC": "Reigate, Surrey, England"
       },
       "DEAT": {
@@ -2056,7 +2056,8 @@
     },
     "10.16": {
       "NAME": {
-        "GIVN": "John"
+        "GIVN": "John",
+        "SURN": "Malin"
       },
       "FAMS": "P1A-I-1-1o",
       "gen": 10,
@@ -2095,7 +2096,7 @@
         "SURN": "Inglis"
       },
       "BIRT": {
-        "YEAR": "c. 1967",
+        "YEAR": "1967",
         "PLAC": "Corvallis, Oregon, U.S.A"
       },
       "FAMC": "P1A-I-1(b)",
